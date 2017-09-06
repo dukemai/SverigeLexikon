@@ -1,0 +1,23 @@
+@import './common.scss';
+
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+}
+
+.app{
+    display: flex;
+
+    &__side-bar{
+        flex-basis: 25%;
+        overflow: hidden;
+        height: 100vh;
+    }
+
+    &__right{
+        flex-basis: 75%;
+        flex: 1;
+    }
+}

@@ -1,0 +1,6 @@
+$pad-left: 24px;
+
+@mixin reset() {
+  margin: 0;
+  padding: 0;
+}
