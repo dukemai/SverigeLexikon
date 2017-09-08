@@ -11,13 +11,13 @@ const defaultProps = {
   children: null,
 };
 
-const Card = ({ children }) => (
-  <div className="card">
+const CardTitle = ({ children }) => (
+  <h4 className="card-title">
     {(children)}
-  </div>
+  </h4>
 );
 
-Card.propTypes = propTypes;
-Card.defaultProps = defaultProps;
+CardTitle.propTypes = propTypes;
+CardTitle.defaultProps = defaultProps;
 
-export default Card;
+export default CardTitle;

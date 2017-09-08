@@ -2,7 +2,7 @@
 @import '../../../color.scss';
 
 .side-bar{
-    background: $grey;
+    background: $primary_teal;
     overflow: hidden;
     height: 100%;
 }
@@ -11,20 +11,22 @@
     height: 56px;
     display: flex;
     align-items: center;
-    background: $primary_grey;
+    background: $teal;
     padding-left: $pad-left;
     border-bottom: 1px solid #fff;
 }
 
 .nav-item{
     list-style: none;
-    padding: 16px 0;
     a{
         color: $black;
         text-decoration: none;
+        padding: 16px 0;
+        border-bottom: 1px solid $black;
+        display: block;
     }
 }
 .main-nav{
     @include reset();
-    padding-left: $pad-left;
+    padding: 0 $pad-left;
 }

@@ -11,22 +11,22 @@ const defaultProps = {
 
 };
 
-const Verbs = () => (
+const PresentPerfectTense = () => (
   <Card >
     <CardContent>
       <CardTitle>
-        Preteritum
+        Supinum
       </CardTitle>
       <ul>
         <li>
-          S + V(preteritum) + O.
+           S + har + V(supinum) + O.
         </li>
       </ul>
     </CardContent>
   </Card>
 );
 
-Verbs.propTypes = propTypes;
-Verbs.defaultProps = defaultProps;
+PresentPerfectTense.propTypes = propTypes;
+PresentPerfectTense.defaultProps = defaultProps;
 
-export default Verbs;
+export default PresentPerfectTense;

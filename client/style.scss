@@ -19,5 +19,6 @@ body{
     &__right{
         flex-basis: 75%;
         flex: 1;
+        padding-left: $pad-left;
     }
 }

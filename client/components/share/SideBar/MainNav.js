@@ -13,11 +13,11 @@ const defaultProps = {
 
 const MainNav = () => (
   <ul className="main-nav">
-    <NavItem to="/grammar" text="Grammar" />
-    <NavItem to="/adjectives" text="Adjectives" />
-    <NavItem to="/adverbs" text="Adverbs" />
-    <NavItem to="/verbs" text="Verbs" />
-    <NavItem to="/nouns" text="Nouns" />
+    <NavItem link="/grammar" text="Grammar" />
+    <NavItem link="/adjectives" text="Adjectives" />
+    <NavItem link="/adverbs" text="Adverbs" />
+    <NavItem link="/verbs" text="Verbs" />
+    <NavItem link="/nouns" text="Nouns" />
   </ul>
 );
 

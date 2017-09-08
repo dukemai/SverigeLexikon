@@ -20,7 +20,7 @@ const App = () => (
       <SideBar />
       <div className="app__right">
         <Switch>
-          <Route exact path="/" component={Grammar} />
+          <Route exact path="/(grammar?)" component={Grammar} />
           <Route exact path="/adverbs" component={Adverbs} />
           <Route exact path="/adjectives" component={Adjectives} />
           <Route exact path="/nouns" component={Nouns} />

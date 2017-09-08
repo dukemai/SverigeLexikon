@@ -11,22 +11,25 @@ const defaultProps = {
 
 };
 
-const Verbs = () => (
+const Sentences = () => (
   <Card >
     <CardContent>
       <CardTitle>
-        Preteritum
+        Satser
       </CardTitle>
       <ul>
         <li>
-          S + V(preteritum) + O.
+          Smallest unit to form a sentence.
+        </li>
+        <li>
+          A sentence can be a clause or a combination of clauses.
         </li>
       </ul>
     </CardContent>
   </Card>
 );
 
-Verbs.propTypes = propTypes;
-Verbs.defaultProps = defaultProps;
+Sentences.propTypes = propTypes;
+Sentences.defaultProps = defaultProps;
 
-export default Verbs;
+export default Sentences;

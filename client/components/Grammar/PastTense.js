@@ -11,7 +11,7 @@ const defaultProps = {
 
 };
 
-const Verbs = () => (
+const PastTense = () => (
   <Card >
     <CardContent>
       <CardTitle>
@@ -26,7 +26,7 @@ const Verbs = () => (
   </Card>
 );
 
-Verbs.propTypes = propTypes;
-Verbs.defaultProps = defaultProps;
+PastTense.propTypes = propTypes;
+PastTense.defaultProps = defaultProps;
 
-export default Verbs;
+export default PastTense;
