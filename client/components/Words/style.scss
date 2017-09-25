@@ -1,0 +1,48 @@
+@import '../../color.scss';
+
+.words-container{
+    display: flex;
+    height: 100%;
+}
+.word-list{
+    list-style: none;
+    flex-basis: 10%;
+}
+
+.word-link{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    margin-bottom: 3px;
+    color: #000;
+    background: $primary_grey;
+    font-size: 12px;
+}
+
+.word-count{
+    font-size: 10px;
+}
+
+.words-content{
+    flex: 1;
+}
+
+.words-explanation-list{
+    list-style: none;
+
+    & li{
+        padding: 8px 0;
+    }
+}
+
+.text--primary{
+    font-size: 16px;
+}
+
+.text--sub{
+    font-size: 14px;
+    color: #616161;
+}

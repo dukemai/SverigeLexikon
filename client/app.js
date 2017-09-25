@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { HashRouter, Route, Switch } from 'react-router-dom';
+import { Scrollbars } from 'react-custom-scrollbars';
 
 import { SideBar } from './components/share';
-import { Grammar, Adverbs, Adjectives, Nouns, Verbs } from './components';
+import { Grammar, Adverbs, Adjectives, Nouns, Verbs, Words } from './components';
 import './style.scss';
 
 const propTypes = {
@@ -19,13 +20,16 @@ const App = () => (
     <div className="app--lexikon app">
       <SideBar />
       <div className="app__right">
-        <Switch>
-          <Route exact path="/(grammar?)" component={Grammar} />
-          <Route exact path="/adverbs" component={Adverbs} />
-          <Route exact path="/adjectives" component={Adjectives} />
-          <Route exact path="/nouns" component={Nouns} />
-          <Route exact path="/verbs" component={Verbs} />
-        </Switch>
+        <Scrollbars style={{ height: '100vh' }}>
+          <Switch>
+            <Route exact path="/(grammar?)" component={Grammar} />
+            <Route exact path="/adverbs" component={Adverbs} />
+            <Route exact path="/adjectives" component={Adjectives} />
+            <Route exact path="/nouns" component={Nouns} />
+            <Route exact path="/verbs" component={Verbs} />
+            <Route exact path="/words/:word?" component={Words} />
+          </Switch>
+        </Scrollbars>
       </div>
     </div>
   </HashRouter>

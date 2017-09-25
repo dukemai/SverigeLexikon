@@ -18,6 +18,7 @@ const MainNav = () => (
     <NavItem link="/adverbs" text="Adverbs" />
     <NavItem link="/verbs" text="Verbs" />
     <NavItem link="/nouns" text="Nouns" />
+    <NavItem link="/words" text="Words" />
   </ul>
 );
 

@@ -5,14 +5,16 @@ import './style.scss';
 
 const propTypes = {
   children: PropTypes.node,
+  className: PropTypes.string,
 };
 
 const defaultProps = {
   children: null,
+  className: '',
 };
 
-const Card = ({ children }) => (
-  <div className="card">
+const Card = ({ children, className }) => (
+  <div className={`card ${className}`}>
     {(children)}
   </div>
 );
