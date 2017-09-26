@@ -1,5 +1,9 @@
 export default [
   {
+    svenska: 'Rätta mig om jag har fel',
+    english: 'correct me if I am wrong',
+  },
+  {
     svenska: 'radera',
     english: 'delete',
   },

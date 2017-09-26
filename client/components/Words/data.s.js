@@ -128,6 +128,10 @@ export default [
     english: 'kick',
   },
   {
+    svenska: 'stiga',
+    english: 'ascend',
+  },
+  {
     svenska: 'står',
     english: 'stand',
   },
