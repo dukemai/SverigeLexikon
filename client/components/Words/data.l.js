@@ -1,11 +1,19 @@
 export default [
   {
+    svenska: 'löngst ner',
+    english: 'bottom',
+  },
+  {
     svenska: 'la ut',
     english: 'let out',
   },
   {
     svenska: 'Läxa',
     english: 'homework',
+  },
+  {
+    svenska: 'lämnar',
+    english: 'return',
   },
   {
     svenska: 'läsförståelse',
@@ -38,6 +46,14 @@ export default [
   {
     svenska: 'ledsam',
     english: 'sad',
+  },
+  {
+    svenska: 'leva',
+    english: 'live',
+  },
+  {
+    svenska: 'lektion',
+    english: 'lession',
   },
   {
     svenska: 'ligger',
@@ -83,5 +99,9 @@ export default [
   {
     svenska: 'lugn',
     english: 'easy',
+  },
+  {
+    svenska: 'lycklig',
+    english: 'happy',
   },
 ];

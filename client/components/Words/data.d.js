@@ -10,6 +10,11 @@ export default [
     example: '',
   },
   {
+    svenska: 'däremot',
+    english: 'however',
+    example: '',
+  },
+  {
     svenska: 'detta',
     english: 'this',
   },

@@ -18,7 +18,7 @@ const defaultProps = {
 const App = () => (
   <HashRouter>
     <div className="app--lexikon app">
-      <SideBar />
+      <Route path="/:menu?" component={SideBar} />
       <div className="app__right">
         <Scrollbars style={{ height: '100vh' }}>
           <Switch>

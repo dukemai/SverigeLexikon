@@ -16,6 +16,10 @@ export default [
     english: 'a lot',
   },
   {
+    svenska: 'motsatt',
+    english: 'oppsite',
+  },
+  {
     svenska: 'matar',
     english: 'feed',
   },

@@ -8,6 +8,10 @@ export default [
     english: 'reschedule',
   },
   {
+    svenska: 'område',
+    english: 'area',
+  },
+  {
     svenska: 'ont',
     english: 'paint, hurt',
   },

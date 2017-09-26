@@ -1,5 +1,14 @@
 export default [
   {
+    svenska: 'håller med',
+    english: 'agree with',
+    example: 'det stämmer, håller med, absolut, just det, det är sant, det är rätt, det tycker jag, precis',
+  },
+  {
+    svenska: 'håll kräft',
+    english: 'shut up',
+  },
+  {
     svenska: 'häll',
     english: 'pour',
   },

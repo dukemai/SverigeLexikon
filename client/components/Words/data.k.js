@@ -1,5 +1,13 @@
 export default [
   {
+    svenska: 'känna, känner',
+    english: 'feel, know',
+  },
+  {
+    svenska: 'kompromissa',
+    english: 'compromise',
+  },
+  {
     svenska: 'kudde',
     english: 'pillow',
   },

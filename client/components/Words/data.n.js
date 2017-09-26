@@ -1,5 +1,13 @@
 export default [
   {
+    svenska: 'nå',
+    english: 'reach',
+  },
+  {
+    svenska: 'någon annan',
+    english: 'somebody else',
+  },
+  {
     svenska: 'en natt, nätter',
     english: 'night',
   },
@@ -32,7 +40,15 @@ export default [
     english: 'nervous',
   },
   {
+    svenska: 'nja, möjligen, kanske, jag vet inte riktigt',
+    english: 'well, possibly',
+  },
+  {
     svenska: 'noteringar',
     english: 'notes',
+  },
+  {
+    svenska: 'nyttig, nyttiga',
+    english: 'useful',
   },
 ];

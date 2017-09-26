@@ -15,14 +15,20 @@ const Sentences = () => (
   <Card >
     <CardContent>
       <CardTitle>
-        Satser
+        Future Tense
       </CardTitle>
       <ul>
         <li>
-          Smallest unit to form a sentence.
+          Presens + en tid.
+          Jag kommer på fredag.
         </li>
         <li>
-          A sentence can be a clause or a combination of clauses.
+          tänker eller kommer att
+          jag tänker äker tåget till kontoret imorgon.
+        </li>
+        <li>
+          ska + verb
+          jag ska komma till dig efter kl 18.
         </li>
       </ul>
     </CardContent>

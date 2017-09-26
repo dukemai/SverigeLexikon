@@ -1,5 +1,9 @@
 export default [
   {
+    svenska: 'vanlig',
+    english: 'usual',
+  },
+  {
     svenska: 'värt',
     english: 'worth',
   },
@@ -27,8 +31,18 @@ export default [
     example: '',
   },
   {
+    svenska: 'validera',
+    english: 'validate',
+    example: '',
+  },
+  {
     svenska: 'en välgörenhet',
     english: 'charity',
+    example: '',
+  },
+  {
+    svenska: 'verkstaden',
+    english: 'workshop',
     example: '',
   },
   {

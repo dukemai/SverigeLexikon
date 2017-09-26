@@ -12,6 +12,10 @@ export default [
     english: 'appearance',
   },
   {
+    svenska: 'uttrycka',
+    english: 'express',
+  },
+  {
     svenska: 'underkänt',
     english: 'failed',
   },
@@ -22,5 +26,17 @@ export default [
   {
     svenska: 'utanför',
     english: 'outside',
+  },
+  {
+    svenska: 'Utvärdera',
+    english: 'evaluate',
+  },
+  {
+    svenska: 'utomhus',
+    english: 'outside house',
+  },
+  {
+    svenska: 'utrustning',
+    english: 'equipment',
   },
 ];

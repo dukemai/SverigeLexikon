@@ -38,6 +38,10 @@ export default [
     english: 'light bulb',
   },
   {
+    svenska: 'granska',
+    english: 'review',
+  },
+  {
     svenska: 'en gräsmatta',
     english: 'lawn',
   },

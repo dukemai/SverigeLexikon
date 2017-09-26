@@ -102,6 +102,14 @@ export default [
     english: 'tricycle',
   },
   {
+    svenska: 'troligen',
+    english: 'probably',
+  },
+  {
+    svenska: 'tvekar',
+    english: 'hesitate, doubt',
+  },
+  {
     svenska: 'ett tuggumi',
     english: 'chewingum',
   },

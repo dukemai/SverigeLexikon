@@ -5,6 +5,10 @@ export default [
     example: 'Annars bara ta det lugnt',
   },
   {
+    svenska: 'alla',
+    english: 'everyone',
+  },
+  {
     svenska: 'en askkopp',
     english: 'ashtray',
   },
@@ -23,6 +27,10 @@ export default [
   {
     svenska: 'anlitade',
     english: 'hired ',
+  },
+  {
+    svenska: 'anpassa',
+    english: 'adapt ',
   },
   {
     svenska: 'ansikte',
@@ -51,6 +59,10 @@ export default [
   {
     svenska: 'ägare',
     english: 'owner',
+  },
+  {
+    svenska: 'avgränsad',
+    english: 'delimited',
   },
   {
     svenska: 'en arbetstid',

@@ -4,6 +4,10 @@ export default [
     english: 'case',
   },
   {
+    svenska: 'fan också',
+    english: 'damned',
+  },
+  {
     svenska: 'fatta',
     english: 'take',
   },
@@ -48,8 +52,16 @@ export default [
     english: 'fast',
   },
   {
+    svenska: 'fortfarande',
+    english: 'still',
+  },
+  {
     svenska: 'en föreläsning',
     english: 'lecture',
+  },
+  {
+    svenska: 'ett företag',
+    english: 'business',
   },
   {
     svenska: 'en föreläsare',
@@ -78,6 +90,10 @@ export default [
   {
     svenska: 'en fot, fötter',
     english: 'feet',
+  },
+  {
+    svenska: 'frakt',
+    english: 'shipping',
   },
   {
     svenska: 'frimärke',

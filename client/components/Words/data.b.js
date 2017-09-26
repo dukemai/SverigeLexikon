@@ -5,6 +5,11 @@ export default [
     example: '',
   },
   {
+    svenska: 'barn',
+    english: 'kid',
+    example: 'får barn  ',
+  },
+  {
     svenska: 'en bassäng',
     english: 'basin',
     example: '',
@@ -38,6 +43,11 @@ export default [
     svenska: 'berätta',
     english: 'tell',
     example: '',
+  },
+  {
+    svenska: 'beror',
+    english: 'depend',
+    example: 'beror på',
   },
   {
     svenska: 'betalt',
@@ -90,6 +100,11 @@ export default [
     example: '',
   },
   {
+    svenska: 'bör',
+    english: 'should',
+    example: '',
+  },
+  {
     svenska: 'björna',
     english: 'remind',
     example: '',
@@ -97,6 +112,11 @@ export default [
   {
     svenska: 'bröst',
     english: 'breast',
+    example: '',
+  },
+  {
+    svenska: 'bygga',
+    english: 'build, construct',
     example: '',
   },
 ];

@@ -19,4 +19,9 @@ export default [
     english: 'single',
     example: '',
   },
+  {
+    svenska: 'ersättning',
+    english: 'replacement',
+    example: '',
+  },
 ];

@@ -4,6 +4,10 @@ export default [
     english: 'compare',
   },
   {
+    svenska: 'jobbig',
+    english: 'hard',
+  },
+  {
     svenska: 'en jurist',
     english: 'lawyer',
   },

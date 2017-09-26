@@ -25,6 +25,11 @@
         border-bottom: 1px solid $black;
         display: block;
     }
+    &.current{
+        a{
+            color: #fff;
+        }
+    }
 }
 .main-nav{
     @include reset();

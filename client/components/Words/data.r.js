@@ -37,6 +37,15 @@ export default [
     english: 'rest',
   },
   {
+    svenska: 'resa',
+    english: 'travel',
+    example: 'resa omkring',
+  },
+  {
+    svenska: 'en reseledare',
+    english: 'guide',
+  },
+  {
     svenska: 'rensa, rensade',
     english: 'clean',
   },
@@ -67,5 +76,13 @@ export default [
   {
     svenska: 'rör på',
     english: 'move',
+  },
+  {
+    svenska: 'roa sig',
+    english: 'have fun',
+  },
+  {
+    svenska: 'ryggsäck',
+    english: 'backpack',
   },
 ];

@@ -15,7 +15,7 @@ const Verbs = () => (
   <Card >
     <CardContent>
       <CardTitle>
-        Preteritum
+        Verbs
       </CardTitle>
       <ul>
         <li>

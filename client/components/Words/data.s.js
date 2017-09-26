@@ -1,5 +1,15 @@
 export default [
   {
+    svenska: 'saknar',
+    english: 'missing',
+    example: '',
+  },
+  {
+    svenska: 'sänka',
+    english: 'lower',
+    example: '',
+  },
+  {
     svenska: 'samt',
     english: 'and',
     example: '',
@@ -41,6 +51,10 @@ export default [
     english: 'waitress',
   },
   {
+    svenska: 'servitör',
+    english: 'waitor',
+  },
+  {
     svenska: 'seminarierum',
     english: 'seminar room',
   },
@@ -55,6 +69,18 @@ export default [
   {
     svenska: 'en skåp',
     english: 'cabinet',
+  },
+  {
+    svenska: 'skaffa',
+    english: 'get',
+  },
+  {
+    svenska: 'skärgård',
+    english: 'archipelago',
+  },
+  {
+    svenska: 'ske',
+    english: 'happen',
   },
   {
     svenska: 'slutigen',
@@ -76,6 +102,10 @@ export default [
     svenska: 'sill',
     english: 'herring',
     example: 'https://www.google.se/search?q=herring&oq=herring&aqs=chrome..69i57j0l5.456j0j9&sourceid=chrome&ie=UTF-8',
+  },
+  {
+    svenska: 'sistonde - nyligen',
+    english: 'recently',
   },
   {
     svenska: 'sjön',

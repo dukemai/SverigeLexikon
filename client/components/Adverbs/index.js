@@ -14,7 +14,7 @@ const Adverbs= () => (
   <Card >
     <CardContent>
       <CardTitle>
-        Adjectives
+        Adverbs
       </CardTitle>
       <ul>
         <li>
