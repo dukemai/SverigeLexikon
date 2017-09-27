@@ -89,4 +89,8 @@ export default [
     svenska: 'ryggsäck',
     english: 'backpack',
   },
+  {
+    svenska: 'ryter',
+    english: 'roar',
+  },
 ];

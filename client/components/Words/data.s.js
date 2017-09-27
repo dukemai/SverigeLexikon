@@ -156,6 +156,10 @@ export default [
     english: 'clean',
   },
   {
+    svenska: 'stödja',
+    english: 'support',
+  },
+  {
     svenska: 'städare',
     english: 'cleaner',
   },
@@ -200,6 +204,10 @@ export default [
     english: 'sleeping pill',
   },
   {
+    svenska: 'slippa',
+    english: 'avoid',
+  },
+  {
     svenska: 'spåra',
     english: 'track',
   },
@@ -212,6 +220,14 @@ export default [
     english: 'sort out',
   },
   {
+    svenska: 'spänn',
+    english: 'kronor',
+  },
+  {
+    svenska: 'ställ',
+    english: 'set',
+  },
+  {
     svenska: 'sträcker på sig',
     english: 'streching',
   },
@@ -222,5 +238,9 @@ export default [
   {
     svenska: 'strappor',
     english: 'staircases',
+  },
+  {
+    svenska: 'stränger sig',
+    english: 'push , jumps the queue',
   },
 ];

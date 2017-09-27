@@ -44,4 +44,8 @@ export default [
     svenska: 'en mun',
     english: 'mouth',
   },
+  {
+    svenska: 'mysig',
+    english: 'cosy',
+  },
 ];

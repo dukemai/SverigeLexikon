@@ -5,6 +5,11 @@ export default [
     example: '',
   },
   {
+    svenska: 'både och',
+    english: 'both and',
+    example: '',
+  },
+  {
     svenska: 'barn',
     english: 'kid',
     example: 'får barn  ',
@@ -60,8 +65,23 @@ export default [
     example: '',
   },
   {
+    svenska: 'besluta',
+    english: 'decide',
+    example: '',
+  },
+  {
+    svenska: 'bestämmer',
+    english: 'decide',
+    example: '',
+  },
+  {
     svenska: 'bidrag',
     english: 'grant',
+    example: '',
+  },
+  {
+    svenska: 'bio',
+    english: 'cinema',
     example: '',
   },
   {

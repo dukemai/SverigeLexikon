@@ -51,6 +51,11 @@ export default [
     example: '',
   },
   {
+    svenska: 'inget vidare',
+    english: 'not particularly',
+    example: '',
+  },
+  {
     svenska: 'viktigt',
     english: 'important',
     example: '',

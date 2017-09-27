@@ -1,5 +1,13 @@
 export default [
   {
+    svenska: 'få, få henne att',
+    english: 'get, make her ...',
+  },
+  {
+    svenska: 'fast',
+    english: 'although',
+  },
+  {
     svenska: 'ett fall',
     english: 'case',
   },
@@ -42,6 +50,10 @@ export default [
   {
     svenska: 'förstås',
     english: 'of course',
+  },
+  {
+    svenska: 'försvinner',
+    english: 'dissappear',
   },
   {
     svenska: 'ett förslag',

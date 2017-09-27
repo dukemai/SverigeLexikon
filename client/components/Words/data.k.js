@@ -52,8 +52,20 @@ export default [
     english: 'chemistry',
   },
   {
+    svenska: 'en kille',
+    english: 'boy',
+  },
+  {
+    svenska: 'klok, är du riktigt klok',
+    english: 'are you nuts?',
+  },
+  {
     svenska: 'en kollega',
     english: 'colleague',
+  },
+  {
+    svenska: 'konstigt',
+    english: 'strange',
   },
   {
     svenska: 'kursiverade',

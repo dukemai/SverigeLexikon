@@ -1,5 +1,9 @@
 export default [
   {
+    svenska: 'nation',
+    english: 'nation',
+  },
+  {
     svenska: 'nå',
     english: 'reach',
   },

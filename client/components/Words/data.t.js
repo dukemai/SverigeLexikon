@@ -9,6 +9,10 @@ export default [
     english: 'drop',
   },
   {
+    svenska: 'trångt',
+    english: 'crowded',
+  },
+  {
     svenska: 'tankar',
     english: 'refill',
     example: 'tankar på',

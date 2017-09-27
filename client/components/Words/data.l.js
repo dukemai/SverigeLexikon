@@ -101,6 +101,10 @@ export default [
     english: 'easy',
   },
   {
+    svenska: 'luktade',
+    english: 'smelled',
+  },
+  {
     svenska: 'lycklig',
     english: 'happy',
   },
