@@ -4,8 +4,16 @@ export default [
     english: 'correct me if I am wrong',
   },
   {
+    svenska: 'rabbattkort',
+    english: 'reduced rate',
+  },
+  {
     svenska: 'radera',
     english: 'delete',
+  },
+  {
+    svenska: 'randig',
+    english: 'striped',
   },
   {
     svenska: 'en regel, regeln, reglar, reglarna',
@@ -19,6 +27,10 @@ export default [
     svenska: 'rädd',
     english: 'afraid',
     example: 'rädd för',
+  },
+  {
+    svenska: 'rispad',
+    english: 'scratched',
   },
   {
     svenska: 'rakar sig',
@@ -46,12 +58,17 @@ export default [
     example: 'resa omkring',
   },
   {
+    svenska: 'retur',
+    english: 'return ticket',
+  },
+  {
     svenska: 'en reseledare',
     english: 'guide',
   },
   {
     svenska: 'rensa, rensade',
     english: 'clean',
+    example: 'rensa fisk, rensa bokhyllan',
   },
   {
     svenska: 'redan',
@@ -66,6 +83,10 @@ export default [
     english: 'draw',
   },
   {
+    svenska: 'en rival',
+    english: 'rival',
+  },
+  {
     svenska: 'riktig',
     english: 'true',
   },
@@ -78,12 +99,41 @@ export default [
     english: 'voice',
   },
   {
+    svenska: 'roll',
+    english: 'role',
+  },
+  {
+    svenska: 'rör',
+    english: 'pipe',
+  },
+  {
+    svenska: 'rösta',
+    english: 'vote',
+    example: 'tummerösta',
+  },
+  {
+    svenska: 'rörelse',
+    english: 'movement',
+  },
+  {
     svenska: 'rör på',
     english: 'move',
   },
   {
     svenska: 'roa sig',
     english: 'have fun',
+  },
+  {
+    svenska: 'runt',
+    english: 'around',
+  },
+  {
+    svenska: 'rutig',
+    english: 'checked',
+  },
+  {
+    svenska: 'ett ruta',
+    english: 'box',
   },
   {
     svenska: 'ryggsäck',

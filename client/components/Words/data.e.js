@@ -1,7 +1,32 @@
 export default [
   {
+    svenska: 'egentligen',
+    english: 'actually',
+    example: '',
+  },
+  {
+    svenska: 'än så länge',
+    english: 'so far',
+    example: '',
+  },
+  {
     svenska: 'en expedit',
     english: 'clerk',
+    example: '',
+  },
+  {
+    svenska: 'enat',
+    english: 'unified',
+    example: '',
+  },
+  {
+    svenska: 'enbat',
+    english: 'solely',
+    example: '',
+  },
+  {
+    svenska: 'ens',
+    english: 'even',
     example: '',
   },
   {
@@ -21,7 +46,7 @@ export default [
   },
   {
     svenska: 'ersättning',
-    english: 'replacement',
+    english: 'replacement, compensation',
     example: '',
   },
 ];

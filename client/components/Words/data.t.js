@@ -1,5 +1,21 @@
 export default [
   {
+    svenska: 'tal emot',
+    english: 'receive',
+  },
+  {
+    svenska: 'ett tält',
+    english: 'tent',
+  },
+  {
+    svenska: 'ett tal',
+    english: 'number',
+  },
+  {
+    svenska: 'tal sig dit',
+    english: 'get there',
+  },
+  {
     svenska: 'tala',
     english: 'tell',
     example: 'tala om',
@@ -9,8 +25,8 @@ export default [
     english: 'drop',
   },
   {
-    svenska: 'trångt',
-    english: 'crowded',
+    svenska: 'trång, trångt',
+    english: 'narrow, crowded',
   },
   {
     svenska: 'tankar',
@@ -38,8 +54,29 @@ export default [
     english: 'exam',
   },
   {
+    svenska: 'testamente',
+    english: 'testament',
+  },
+  {
+    svenska: 'en teorin',
+    english: 'theory',
+    example: 'i teorin',
+  },
+  {
     svenska: 'en termometer',
     english: 'thermo meter',
+  },
+  {
+    svenska: 'tjej',
+    english: 'girl',
+  },
+  {
+    svenska: 'tjejkompis',
+    english: '(girl) friend, mate',
+  },
+  {
+    svenska: 'tillfället',
+    english: 'currently',
   },
   {
     svenska: 'tillsammans',
@@ -48,6 +85,14 @@ export default [
   {
     svenska: 'tillåtna',
     english: 'allowed',
+  },
+  {
+    svenska: 'tillstånd',
+    english: 'permission, condition',
+  },
+  {
+    svenska: 'en tillsat',
+    english: 'attachment',
   },
   {
     svenska: 'titta',
@@ -70,6 +115,14 @@ export default [
     english: 'time expression',
   },
   {
+    svenska: 'tillräcklig',
+    english: 'enough',
+  },
+  {
+    svenska: 'tills',
+    english: 'until',
+  },
+  {
     svenska: 'en tjänst, tjänster',
     english: 'service',
   },
@@ -90,7 +143,15 @@ export default [
     english: 'technician',
   },
   {
-    svenska: 'tom',
+    svenska: 'Texthäftet',
+    english: 'booklet',
+  },
+  {
+    svenska: 'tillfällig',
+    english: 'temporary',
+  },
+  {
+    svenska: 'tom, tomma',
     english: 'empty',
   },
   {
@@ -106,8 +167,20 @@ export default [
     english: 'tricycle',
   },
   {
+    svenska: 'trivas, trivs',
+    english: 'thrive',
+  },
+  {
     svenska: 'troligen',
     english: 'probably',
+  },
+  {
+    svenska: 'trosor',
+    english: 'panties',
+  },
+  {
+    svenska: 'trumma, trummor',
+    english: 'drum',
   },
   {
     svenska: 'tvekar',
@@ -116,5 +189,13 @@ export default [
   {
     svenska: 'ett tuggumi',
     english: 'chewingum',
+  },
+  {
+    svenska: 'typiskt',
+    english: 'typical',
+  },
+  {
+    svenska: 'trygg',
+    english: 'safe',
   },
 ];

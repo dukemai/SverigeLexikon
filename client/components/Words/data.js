@@ -19,6 +19,7 @@ import S from './data.s';
 import T from './data.t';
 import U from './data.u';
 import V from './data.v';
+import Y from './data.y';
 
 const wordsList = [
   'A',
@@ -43,6 +44,7 @@ const wordsList = [
   'U',
   'V',
   'W',
+  'Y',
 ];
 
 export default wordsList;
@@ -113,6 +115,9 @@ export function getWords(word) {
       break;
     case 'v':
       words = V;
+      break;
+    case 'y':
+      words = Y;
       break;
     default:
       break;

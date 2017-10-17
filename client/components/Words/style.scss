@@ -50,3 +50,11 @@
     font-size: 14px;
     color: #616161;
 }
+
+.word{
+    &.active{
+        & .word-link{
+            color:#fff;
+        }
+    }
+}

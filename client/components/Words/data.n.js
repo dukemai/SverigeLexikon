@@ -4,12 +4,32 @@ export default [
     english: 'nation',
   },
   {
+    svenska: 'nackdelar',
+    english: 'disadvantages',
+  },
+  {
+    svenska: 'narkotika',
+    english: 'drug',
+  },
+  {
+    svenska: 'narkotika miss brukare',
+    english: 'drug addict',
+  },
+  {
     svenska: 'nå',
     english: 'reach',
   },
   {
     svenska: 'någon annan',
     english: 'somebody else',
+  },
+  {
+    svenska: 'nätt',
+    english: 'pretty',
+  },
+  {
+    svenska: 'ett nät',
+    english: 'web, internet',
   },
   {
     svenska: 'en natt, nätter',
@@ -20,8 +40,24 @@ export default [
     english: 'of course',
   },
   {
+    svenska: 'naturligt',
+    english: 'Det låter mer naturligt',
+  },
+  {
+    svenska: 'nöjd',
+    english: 'satisfied',
+  },
+  {
+    svenska: 'nöjen',
+    english: 'amusement',
+  },
+  {
     svenska: 'nog',
     english: 'probably',
+  },
+  {
+    svenska: 'nog bara ',
+    english: 'just only',
   },
   {
     svenska: 'normal',
@@ -53,6 +89,18 @@ export default [
   },
   {
     svenska: 'nyttig, nyttiga',
-    english: 'useful',
+    english: 'useful, well',
+  },
+  {
+    svenska: 'nyinflyttad',
+    english: 'newcommer',
+  },
+  {
+    svenska: 'nymålad',
+    english: 'freshly painted',
+  },
+  {
+    svenska: 'nypa',
+    english: 'pinch',
   },
 ];

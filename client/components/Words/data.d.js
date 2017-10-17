@@ -15,6 +15,19 @@ export default [
     example: '',
   },
   {
+    svenska: 'därtill',
+    english: 'thereto',
+    example: '',
+  },
+  {
+    svenska: 'dessa',
+    english: 'these',
+  },
+  {
+    svenska: 'en delning',
+    english: 'share',
+  },
+  {
     svenska: 'detta',
     english: 'this',
   },
@@ -31,6 +44,10 @@ export default [
     english: 'director',
   },
   {
+    svenska: 'djup',
+    english: 'depth',
+  },
+  {
     svenska: 'en docent',
     english: 'associate Professor',
   },
@@ -41,5 +58,17 @@ export default [
   {
     svenska: 'dock',
     english: 'though',
+  },
+  {
+    svenska: 'döma',
+    english: 'judge',
+  },
+  {
+    svenska: 'dödläge',
+    english: 'deadlock',
+  },
+  {
+    svenska: 'duscha',
+    english: 'take a shower',
   },
 ];

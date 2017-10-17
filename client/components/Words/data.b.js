@@ -5,6 +5,16 @@ export default [
     example: '',
   },
   {
+    svenska: 'bantar',
+    english: 'diet',
+    example: '',
+  },
+  {
+    svenska: 'barbdomen',
+    english: 'childhood',
+    example: '',
+  },
+  {
     svenska: 'både och',
     english: 'both and',
     example: '',
@@ -17,6 +27,16 @@ export default [
   {
     svenska: 'en bassäng',
     english: 'basin',
+    example: '',
+  },
+  {
+    svenska: 'en bas',
+    english: 'base',
+    example: '',
+  },
+  {
+    svenska: 'en banner',
+    english: 'banner',
     example: '',
   },
   {
@@ -35,8 +55,23 @@ export default [
     example: '',
   },
   {
-    svenska: 'begagnade',
+    svenska: 'begagnat, begagnade',
     english: 'used',
+    example: '',
+  },
+  {
+    svenska: 'Behandling',
+    english: 'treatment',
+    example: '',
+  },
+  {
+    svenska: 'befinna',
+    english: 'be',
+    example: '',
+  },
+  {
+    svenska: 'bekräfta',
+    english: 'confirm',
     example: '',
   },
   {
@@ -50,9 +85,26 @@ export default [
     example: '',
   },
   {
+    svenska: 'Begränsat',
+    english: 'limited',
+    example: '',
+  },
+  {
     svenska: 'beror',
     english: 'depend',
     example: 'beror på',
+  },
+  {
+    svenska: 'berörd',
+    english: 'concerned',
+  },
+  {
+    svenska: 'berörda parter',
+    english: 'stakeholders',
+  },
+  {
+    svenska: 'berusad',
+    english: 'drunk',
   },
   {
     svenska: 'betalt',
@@ -76,7 +128,7 @@ export default [
   },
   {
     svenska: 'bidrag',
-    english: 'grant',
+    english: 'grant, contribution',
     example: '',
   },
   {
@@ -87,6 +139,11 @@ export default [
   {
     svenska: 'blåser',
     english: 'blow',
+    example: '',
+  },
+  {
+    svenska: 'blåsig',
+    english: 'windy',
     example: '',
   },
   {
@@ -115,13 +172,38 @@ export default [
     example: '',
   },
   {
+    svenska: 'bilavgaser',
+    english: 'vehicle exhaust',
+    example: '',
+  },
+  {
     svenska: 'ett bolag',
     english: 'company',
     example: '',
   },
   {
-    svenska: 'bör',
+    svenska: 'bör, böra, borde',
     english: 'should',
+    example: '',
+  },
+  {
+    svenska: 'bomull',
+    english: 'cotton',
+    example: '',
+  },
+  {
+    svenska: 'bokhandel, bokhandlarna',
+    english: 'book store',
+    example: '',
+  },
+  {
+    svenska: 'bostadsbrist',
+    english: 'housing shortage',
+    example: '',
+  },
+  {
+    svenska: 'brist på',
+    english: 'lack of',
     example: '',
   },
   {
@@ -130,13 +212,38 @@ export default [
     example: '',
   },
   {
+    svenska: 'bjuda, bjöd',
+    english: 'invite',
+    example: '',
+  },
+  {
+    svenska: 'björn',
+    english: 'bear',
+    example: '',
+  },
+  {
     svenska: 'bröst',
     english: 'breast',
     example: '',
   },
   {
+    svenska: 'bryr sig om',
+    english: 'care about',
+    example: '',
+  },
+  {
     svenska: 'bygga',
     english: 'build, construct',
+    example: '',
+  },
+  {
+    svenska: 'byar',
+    english: 'villages',
+    example: '',
+  },
+  {
+    svenska: 'bygel',
+    english: 'bracket',
     example: '',
   },
 ];

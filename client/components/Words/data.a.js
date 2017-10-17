@@ -1,8 +1,40 @@
 export default [
   {
+    svenska: 'ännu',
+    english: 'yet',
+  },
+  {
+    svenska: 'anlända, anlände',
+    english: 'arrive',
+  },
+  {
+    svenska: 'ämne',
+    english: 'subject',
+  },
+  {
+    svenska: 'ambulanspersonal',
+    english: 'paramedics',
+  },
+  {
+    svenska: 'alltså',
+    english: 'thus',
+  },
+  {
     svenska: 'annars',
     english: 'otherwise',
     example: 'Annars bara ta det lugnt',
+  },
+  {
+    svenska: 'antade',
+    english: 'guessed',
+  },
+  {
+    svenska: 'angående',
+    english: 'otherwise, regarding',
+  },
+  {
+    svenska: 'åskar',
+    english: 'thunder',
   },
   {
     svenska: 'alla',
@@ -33,8 +65,20 @@ export default [
     english: 'adapt ',
   },
   {
-    svenska: 'ansikte',
+    svenska: 'passar',
+    english: 'fit ',
+  },
+  {
+    svenska: 'applåder',
+    english: 'applause ',
+  },
+  {
+    svenska: 'ansikte(substantiv)',
     english: 'face',
+  },
+  {
+    svenska: 'antal',
+    english: 'quantity',
   },
   {
     svenska: 'användbara',
@@ -61,6 +105,18 @@ export default [
     english: 'owner',
   },
   {
+    svenska: 'allvarliga, seriös',
+    english: 'serious',
+  },
+  {
+    svenska: 'amatör',
+    english: 'amateur',
+  },
+  {
+    svenska: 'ansjovisspadet',
+    english: 'anchovy broth',
+  },
+  {
     svenska: 'avgränsad',
     english: 'delimited',
   },
@@ -85,11 +141,39 @@ export default [
     english: 'seasons',
   },
   {
+    svenska: 'arbetstillfälle',
+    english: 'facility to work',
+  },
+  {
     svenska: 'ett avtal',
     english: 'agreement',
   },
   {
     svenska: 'avdrag',
     english: 'deduction',
+  },
+  {
+    svenska: 'avlår',
+    english: 'reject',
+  },
+  {
+    svenska: 'avgör',
+    english: 'decide',
+  },
+  {
+    svenska: 'avskyr',
+    english: 'hate',
+  },
+  {
+    svenska: 'avsikt',
+    english: 'intention',
+  },
+  {
+    svenska: 'även om',
+    english: 'although',
+  },
+  {
+    svenska: 'ävslöjande',
+    english: 'disclosure',
   },
 ];

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, Route } from 'react-router-dom';
+import { Link, Route, withRouter } from 'react-router-dom';
 
 import WordComponent from './WordComponent';
 import wordsList, { getWords } from './data';
@@ -14,11 +14,11 @@ const defaultProps = {
 
 };
 const root = '/words';
-const Words = () => (
+const Words = ({ location }) => (
   <div className="words-container">
     <ul className="word-list">
       {[...wordsList].map(word => (
-        <li className="word" key={word}>
+        <li className={`word ${location.pathname.indexOf(`${root}/${word}`) > -1 ? 'active' : ''}`} key={word}>
           <Link className="word-link" to={`${root}/${word}`}>{word} </Link>
           <span className="word-count"> ({getWords(word).length}) </span>
         </li>
@@ -31,4 +31,4 @@ const Words = () => (
 Words.propTypes = propTypes;
 Words.defaultProps = defaultProps;
 
-export default Words;
+export default withRouter(Words);

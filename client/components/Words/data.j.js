@@ -8,6 +8,14 @@ export default [
     english: 'hard',
   },
   {
+    svenska: 'jord',
+    english: 'soil',
+  },
+  {
+    svenska: 'jordens',
+    english: 'earth',
+  },
+  {
     svenska: 'en jurist',
     english: 'lawyer',
   },
