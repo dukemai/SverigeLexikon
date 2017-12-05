@@ -1,14 +1,42 @@
 export default [
   {
+    svenska: 'ha, haft',
+    english: 'have',
+  },
+  {
     svenska: 'hatar',
     english: 'hate',
+  },
+  {
+    svenska: 'haka',
+    english: 'hook',
+  },
+  {
+    svenska: 'häktade',
+    english: 'detained',
+  },
+  {
+    svenska: 'hatare',
+    english: 'hater',
+  },
+  {
+    svenska: 'halvön',
+    english: 'peninsula',
+  },
+  {
+    svenska: 'härva, härvan',
+    english: 'tangle',
   },
   {
     svenska: 'händelse',
     english: 'event',
   },
   {
-    svenska: 'håller med',
+    svenska: 'handlingar',
+    english: 'actions',
+  },
+  {
+    svenska: 'håller med, håller på med',
     english: 'agree with',
     example: 'det stämmer, håller med, absolut, just det, det är sant, det är rätt, det tycker jag, precis',
   },
@@ -25,16 +53,32 @@ export default [
     english: 'health',
   },
   {
+    svenska: 'hemskt',
+    english: 'awful',
+  },
+  {
     svenska: 'hjärna ',
     english: 'brain',
   },
   {
-    svenska: 'hälsosam',
+    svenska: 'hjälmen ',
+    english: 'helmet',
+  },
+  {
+    svenska: 'hjälpsam, meningsfull',
+    english: 'helpful',
+  },
+  {
+    svenska: 'hälsosam, frisk',
     english: 'healthy',
   },
   {
     svenska: 'hänsyn',
     english: 'regard',
+  },
+  {
+    svenska: 'hävdade',
+    english: 'argued',
   },
   {
     svenska: 'handlar',
@@ -44,10 +88,6 @@ export default [
     svenska: 'hälsa, hälsade',
     english: 'greet',
     example: 'hälsa på',
-  },
-  {
-    svenska: 'hälsosam',
-    english: 'healthy',
   },
   {
     svenska: 'hamna',
@@ -66,6 +106,10 @@ export default [
     english: 'hand',
   },
   {
+    svenska: 'händer',
+    english: 'happen',
+  },
+  {
     svenska: 'hantera',
     english: 'manage',
   },
@@ -78,6 +122,10 @@ export default [
     english: 'throat',
   },
   {
+    svenska: 'halt',
+    english: 'slippery',
+  },
+  {
     svenska: 'hård',
     english: 'hard',
   },
@@ -86,8 +134,20 @@ export default [
     english: 'preferably',
   },
   {
-    svenska: 'hinner',
+    svenska: 'vilken färg som helst, vilka färger som helst',
+    english: 'any color, any colors',
+  },
+  {
+    svenska: 'helikoptertur',
+    english: 'helicopter',
+  },
+  {
+    svenska: 'hinner, hunnit',
     english: 'have time to',
+  },
+  {
+    svenska: 'himlen',
+    english: 'heaven',
   },
   {
     svenska: 'hittepå',
@@ -95,7 +155,7 @@ export default [
   },
   {
     svenska: 'hittills',
-    english: 'so far',
+    english: 'so far, to date',
   },
   {
     svenska: 'hosta',
@@ -104,6 +164,10 @@ export default [
   {
     svenska: 'hönsbuljong',
     english: 'chicken broth',
+  },
+  {
+    svenska: 'höll',
+    english: 'entertained',
   },
   {
     svenska: 'högtiderna',
@@ -123,6 +187,14 @@ export default [
     english: 'high',
   },
   {
+    svenska: 'högtalarsystemet',
+    english: 'speaker system',
+  },
+  {
+    svenska: 'höjd',
+    english: 'height',
+  },
+  {
     svenska: 'höjdrädd',
     english: 'afraid of heights',
   },
@@ -133,6 +205,18 @@ export default [
   {
     svenska: 'hummer',
     english: 'lobster',
+  },
+  {
+    svenska: 'huruvida',
+    english: 'whether',
+  },
+  {
+    svenska: 'huslig',
+    english: 'domesticated',
+  },
+  {
+    svenska: 'huvudvärk',
+    english: 'headache',
   },
   {
     svenska: 'hylla',

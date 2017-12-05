@@ -1,12 +1,107 @@
 export default [
   {
-    svenska: 'et samhälle, samhället',
+    svenska: 'sådan',
+    english: 'such',
+    example: '',
+  },
+  {
+    svenska: 'sån, såna',
+    english: 'such, those',
+    example: '',
+  },
+  {
+    svenska: 'såklart',
+    english: 'of course',
+    example: '',
+  },
+  {
+    svenska: 'sämre, sämsta',
+    english: 'worse',
+    example: '',
+  },
+  {
+    svenska: 'säkerställa',
+    english: 'ensure',
+    example: '',
+  },
+  {
+    svenska: 'särskilt',
+    english: 'particularly',
+    example: '',
+  },
+  {
+    svenska: 'samla',
+    english: 'collect',
+    example: '',
+  },
+  {
+    svenska: 'samverkanseffekt',
+    english: 'synergy',
+    example: '',
+  },
+  {
+    svenska: 'samladess',
+    english: 'gathered',
+    example: '',
+  },
+  {
+    svenska: 'samband',
+    english: 'connection',
+    example: '',
+  },
+  {
+    svenska: 'Sällskap',
+    english: 'Company',
+    example: '',
+  },
+  {
+    svenska: 'Säll',
+    english: 'blissful',
+    example: '',
+  },
+  {
+    svenska: 'säl',
+    english: 'seal',
+    example: '',
+  },
+  {
+    svenska: 'sannolikt',
+    english: 'likely',
+    example: '',
+  },
+  {
+    svenska: 'sanningen',
+    english: 'truth',
+    example: '',
+  },
+  {
+    svenska: 'sannolikt',
+    english: 'likely',
+    example: '',
+  },
+  {
+    svenska: 'såväl',
+    english: 'both',
+    example: '',
+  },
+  {
+    svenska: 'samhäll, ett samhälle, samhället',
     english: 'society',
     example: '',
   },
   {
     svenska: 'sammanfatta',
     english: 'summera',
+    example: '',
+  },
+  {
+    svenska: 'samtidigt',
+    english: 'at the same time',
+    example: '',
+  },
+  {
+    svenska: 'Säg till mig',
+    english: 'tell me',
     example: '',
   },
   {
@@ -22,6 +117,11 @@ export default [
   {
     svenska: 'saknar',
     english: 'missing',
+    example: '',
+  },
+  {
+    svenska: 'seg, segt',
+    english: 'slow',
     example: '',
   },
   {
@@ -59,11 +159,16 @@ export default [
     example: '',
   },
   {
+    svenska: 'sal',
+    english: 'hall',
+    example: '',
+  },
+  {
     svenska: 'satsmelodi',
     english: 'intonation',
   },
   {
-    svenska: 'en smörgås',
+    svenska: 'en smörgås, smörgåstårta',
     english: 'sandwitch',
   },
   {
@@ -95,12 +200,56 @@ export default [
     english: 'difference',
   },
   {
+    svenska: 'skivstång',
+    english: 'barbell',
+  },
+  {
     svenska: 'en skåp',
     english: 'cabinet',
   },
   {
+    svenska: 'skådespelare',
+    english: 'actor',
+  },
+  {
+    svenska: 'spekulanter',
+    english: 'speculators',
+  },
+  {
     svenska: 'skaffa',
     english: 'get',
+  },
+  {
+    svenska: 'skafferi',
+    english: 'pantry',
+  },
+  {
+    svenska: 'skiftet',
+    english: 'shift',
+  },
+  {
+    svenska: 'skribenter',
+    english: 'writers',
+  },
+  {
+    svenska: 'skrika, skriker',
+    english: 'scream',
+  },
+  {
+    svenska: 'skrotar',
+    english: 'scrape',
+  },
+  {
+    svenska: 'skruttig',
+    english: 'scrape',
+  },
+  {
+    svenska: 'skärmen',
+    english: 'screen',
+  },
+  {
+    svenska: 'skärpta',
+    english: 'stricter',
   },
   {
     svenska: 'skärgård',
@@ -111,8 +260,12 @@ export default [
     english: 'get excited',
   },
   {
-    svenska: 'ske',
+    svenska: 'ske, sker',
     english: 'happen',
+  },
+  {
+    svenska: 'schysst',
+    english: 'nice',
   },
   {
     svenska: 'skelettet',
@@ -127,6 +280,14 @@ export default [
     english: 'throw',
   },
   {
+    svenska: 'släktingar',
+    english: 'relatives',
+  },
+  {
+    svenska: 'sitta, sitter, suttit',
+    english: 'sit, stuck',
+  },
+  {
     svenska: 'slutigen',
     english: 'throw',
   },
@@ -135,16 +296,48 @@ export default [
     english: 'taste',
   },
   {
+    svenska: 'smaklig',
+    english: 'tasteful',
+  },
+  {
+    svenska: 'smidig',
+    english: 'smooth',
+  },
+  {
+    svenska: 'smiter',
+    english: 'duckling',
+  },
+  {
     svenska: 'snälltåg',
     english: 'express train',
+  },
+  {
+    svenska: 'snacka',
+    english: 'prata, layover',
+  },
+  {
+    svenska: 'Snarare',
+    english: 'rather',
   },
   {
     svenska: 'snit',
     english: 'average',
   },
   {
+    svenska: 'skal',
+    english: 'shell',
+  },
+  {
+    svenska: 'skaldjur',
+    english: 'seafood',
+  },
+  {
     svenska: 'skala',
     english: 'scale',
+  },
+  {
+    svenska: 'skrämmer',
+    english: 'scaring',
   },
   {
     svenska: 'skrivbord',
@@ -159,8 +352,24 @@ export default [
     english: 'screaming',
   },
   {
-    svenska: 'skuld',
-    english: 'debt',
+    svenska: 'skjuta, skjuten',
+    english: 'shot, shoot',
+  },
+  {
+    svenska: 'skjutsar',
+    english: 'transportation',
+  },
+  {
+    svenska: 'sköt',
+    english: 'shot',
+  },
+  {
+    svenska: 'skuld, skulder',
+    english: 'debt, liabilities',
+  },
+  {
+    svenska: 'skynda, skynade',
+    english: 'hurry',
   },
   {
     svenska: 'shoppingstrejk',
@@ -170,6 +379,14 @@ export default [
     svenska: 'sill',
     english: 'herring',
     example: 'https://www.google.se/search?q=herring&oq=herring&aqs=chrome..69i57j0l5.456j0j9&sourceid=chrome&ie=UTF-8',
+  },
+  {
+    svenska: 'siffror',
+    english: 'figures',
+  },
+  {
+    svenska: 'sinne',
+    english: 'mind',
   },
   {
     svenska: 'sistone - nyligen',
@@ -183,6 +400,10 @@ export default [
   {
     svenska: 'självklart',
     english: 'obvious',
+  },
+  {
+    svenska: 'slav',
+    english: 'slave',
   },
   {
     svenska: 'sladd',
@@ -205,6 +426,10 @@ export default [
     english: 'Lubricating',
   },
   {
+    svenska: 'smeknamn välja',
+    english: 'Lubricating',
+  },
+  {
     svenska: 'supé',
     english: 'supper',
   },
@@ -222,24 +447,72 @@ export default [
     example: 'sparka ut',
   },
   {
+    svenska: 'spränga',
+    english: 'blast',
+  },
+  {
+    svenska: 'sprida',
+    english: 'spread',
+  },
+  {
     svenska: 'sprit',
     english: 'spirit',
   },
   {
-    svenska: 'stiga',
-    english: 'ascend',
+    svenska: 'stiga, stigit',
+    english: 'ascend, increased',
+  },
+  {
+    svenska: 'sticker iväg på',
+    english: 'sticking away',
+  },
+  {
+    svenska: 'stirrar',
+    english: 'stare',
   },
   {
     svenska: 'står',
     english: 'stand',
   },
   {
+    svenska: 'storm, stormar',
+    english: 'storm',
+  },
+  {
+    svenska: 'stavar',
+    english: 'spell',
+  },
+  {
+    svenska: 'stadig',
+    english: 'steady',
+  },
+  {
+    svenska: 'starta om',
+    english: 'restart',
+  },
+  {
+    svenska: 'stav, stavar',
+    english: 'rod, rods',
+  },
+  {
+    svenska: 'stagnerat',
+    english: 'stagnated',
+  },
+  {
     svenska: 'stor stark',
     english: 'a pint of beer',
   },
   {
+    svenska: 'stockning',
+    english: 'congestion',
+  },
+  {
     svenska: 'en stund',
     english: 'while',
+  },
+  {
+    svenska: 'stundande',
+    english: 'forthcoming',
   },
   {
     svenska: 'en stuga',
@@ -252,6 +525,14 @@ export default [
   {
     svenska: 'ett ställ',
     english: 'set',
+  },
+  {
+    svenska: 'stackarna',
+    english: 'stacks',
+  },
+  {
+    svenska: 'stämning',
+    english: 'atmosphere',
   },
   {
     svenska: 'i stället',
@@ -270,12 +551,20 @@ export default [
     english: 'support',
   },
   {
+    svenska: 'striden',
+    english: 'battle',
+  },
+  {
     svenska: 'strö',
     english: 'sprinkle',
   },
   {
     svenska: 'stressig',
     english: 'stressful',
+  },
+  {
+    svenska: 'strul',
+    english: 'hassle',
   },
   {
     svenska: 'städare, städerska',
@@ -306,8 +595,12 @@ export default [
     english: 'kind',
   },
   {
-    svenska: 'skada',
+    svenska: 'skada, skadade, skadad, skador',
     english: 'damage',
+  },
+  {
+    svenska: 'skakande',
+    english: 'shaking',
   },
   {
     svenska: 'skänka',
@@ -318,6 +611,10 @@ export default [
     english: 'ship',
   },
   {
+    svenska: 'skador',
+    english: 'damage',
+  },
+  {
     svenska: 'skina, skiner',
     english: 'shine',
   },
@@ -326,32 +623,84 @@ export default [
     english: 'ski competition',
   },
   {
-    svenska: 'skön',
-    english: 'beautiful',
+    svenska: 'skön, skönt',
+    english: 'beautiful, comfortable',
   },
   {
     svenska: 'sköter',
     english: 'manage',
   },
   {
-    svenska: 'sjunka',
+    svenska: 'skrek',
+    english: 'screamed',
+  },
+  {
+    svenska: 'sjunka, sjunkit',
     english: 'sink',
   },
   {
-    svenska: 'söm tablett',
+    svenska: 'sjunkdom',
+    english: 'diease',
+  },
+  {
+    svenska: 'söka fram',
+    english: 'seek out',
+  },
+  {
+    svenska: 'sömntablett',
     english: 'sleeping pill',
+  },
+  {
+    svenska: 'soporna',
+    english: 'trash',
+  },
+  {
+    svenska: 'sophämtningen',
+    english: 'waste collection',
+  },
+  {
+    svenska: 'sömn',
+    english: 'sleep',
+  },
+  {
+    svenska: 'sömn',
+    english: 'sleep',
+  },
+  {
+    svenska: 'sönder',
+    english: 'broken',
+  },
+  {
+    svenska: 'söt, söta',
+    english: 'sweet, cute',
   },
   {
     svenska: 'slippa',
     english: 'avoid',
   },
   {
-    svenska: 'slå',
+    svenska: 'slå, slår, slog',
     english: 'beat',
+  },
+  {
+    svenska: 'slås',
+    english: 'switched',
+  },
+  {
+    svenska: 'slipper',
+    english: 'avoid',
   },
   {
     svenska: 'spår, spåra',
     english: 'track',
+  },
+  {
+    svenska: 'spåren',
+    english: 'grooves',
+  },
+  {
+    svenska: 'solat',
+    english: 'sunbathing',
   },
   {
     svenska: 'sortera',
@@ -362,6 +711,10 @@ export default [
     english: 'garbage',
   },
   {
+    svenska: 'södra',
+    english: 'southern',
+  },
+  {
     svenska: 'sortera bort',
     english: 'sort out',
   },
@@ -370,7 +723,11 @@ export default [
     english: 'kronor',
   },
   {
-    svenska: 'ställ',
+    svenska: 'spärrats',
+    english: 'blocked',
+  },
+  {
+    svenska: 'ställ, ställa, ställer',
     english: 'set',
   },
   {
@@ -380,6 +737,14 @@ export default [
   {
     svenska: 'ständig',
     english: 'permanent',
+  },
+  {
+    svenska: 'stänga av',
+    english: 'turn off',
+  },
+  {
+    svenska: 'stål',
+    english: 'steel',
   },
   {
     svenska: 'självständighet',
@@ -402,6 +767,10 @@ export default [
     english: 'stick blender',
   },
   {
+    svenska: 'sticker iväg',
+    english: 'ru away',
+  },
+  {
     svenska: 'sträcker på sig',
     english: 'streching',
   },
@@ -412,6 +781,10 @@ export default [
   {
     svenska: 'steg',
     english: 'step',
+  },
+  {
+    svenska: 'stryka',
+    english: 'emphasize',
   },
   {
     svenska: 'stiger upp',
@@ -430,6 +803,30 @@ export default [
     english: 'push , jumps the queue',
   },
   {
+    svenska: 'stör',
+    english: 'intefere',
+  },
+  {
+    svenska: 'störda',
+    english: 'messed up',
+  },
+  {
+    svenska: 'störe',
+    english: 'extent',
+  },
+  {
+    svenska: 'större',
+    english: 'major',
+  },
+  {
+    svenska: 'stolt',
+    english: 'proud',
+  },
+  {
+    svenska: 'styrke',
+    english: 'strength',
+  },
+  {
     svenska: 'sträng',
     english: 'string',
   },
@@ -438,8 +835,24 @@ export default [
     english: 'sum',
   },
   {
+    svenska: 'sund',
+    english: 'sound',
+  },
+  {
+    svenska: 'sugen',
+    english: 'craving',
+  },
+  {
+    svenska: 'susen',
+    english: 'trick',
+  },
+  {
     svenska: 'storstad, storstäder',
-    english: 'large city',
+    english: 'large city, urban',
+  },
+  {
+    svenska: 'störningar',
+    english: 'disorders',
   },
   {
     svenska: 'storstadsliv',
@@ -454,6 +867,14 @@ export default [
     english: 'strew',
   },
   {
+    svenska: 'succé, succéer',
+    english: 'success',
+  },
+  {
+    svenska: 'svek',
+    english: 'betrayal',
+  },
+  {
     svenska: 'svika',
     english: 'disapoint',
   },
@@ -462,8 +883,51 @@ export default [
     english: 'pity',
   },
   {
+    svenska: 'synvinkel',
+    english: 'angle',
+  },
+  {
+    svenska: 'synliga',
+    english: 'visible',
+  },
+  {
     svenska: 'svampar ur jorden',
     english: 'so many',
+    example: '',
+  },
+  {
+    svenska: 'svagt',
+    english: 'low',
+    example: '',
+  },
+  {
+    svenska: 'svärmor',
+    english: 'mother in law',
+    example: '',
+  },
+  {
+    svenska: 'svenskarnas',
+    english: 'swedes',
+    example: '',
+  },
+  {
+    svenska: 'syssla',
+    english: 'occupation',
+    example: '',
+  },
+  {
+    svenska: 'synnerhet',
+    english: 'especially',
+    example: '',
+  },
+  {
+    svenska: 'synen',
+    english: 'sight',
+    example: '',
+  },
+  {
+    svenska: 'Sysselsättning',
+    english: 'employment',
     example: '',
   },
 ];

@@ -1,11 +1,40 @@
 export default [
   {
-    svenska: 'öka, ökade',
+    svenska: 'obehörig',
+    english: 'unauthorized',
+  },
+  {
+    svenska: 'ökning',
     english: 'increase',
+    example: 'prisökning',
+  },
+  {
+    svenska: 'öka, ökar, ökade',
+    english: 'increase',
+  },
+  {
+    svenska: 'oro, oron',
+    english: 'concern',
+  },
+  {
+    svenska: 'ordförande',
+    english: 'president',
+  },
+  {
+    svenska: 'oroa, oroar, oroade',
+    english: 'worried',
   },
   {
     svenska: 'öva, övar, övade, övat',
     english: 'practice',
+  },
+  {
+    svenska: 'oegentligheter',
+    english: 'irregularities',
+  },
+  {
+    svenska: 'omläggning',
+    english: 'reschedule',
   },
   {
     svenska: 'omboka',
@@ -20,6 +49,18 @@ export default [
     english: 'surrounding',
   },
   {
+    svenska: 'omgående',
+    english: 'immediately',
+  },
+  {
+    svenska: 'överlag',
+    english: 'in general',
+  },
+  {
+    svenska: 'övergrepp',
+    english: 'abuse',
+  },
+  {
     svenska: 'område',
     english: 'area',
   },
@@ -32,12 +73,24 @@ export default [
     english: 'public',
   },
   {
+    svenska: 'oförändrade',
+    english: 'unchanged',
+  },
+  {
+    svenska: 'officiell',
+    english: 'official',
+  },
+  {
     svenska: 'omständighet, omständigheterna',
     english: 'circumstances',
   },
   {
     svenska: 'omhänderta, omhändertog',
     english: 'recover',
+  },
+  {
+    svenska: 'omfattande',
+    english: 'extensive',
   },
   {
     svenska: 'ont',
@@ -50,6 +103,10 @@ export default [
   {
     svenska: 'ett ögonblick',
     english: 'moment',
+  },
+  {
+    svenska: 'ögonkastet',
+    english: 'sight',
   },
   {
     svenska: 'offer',
@@ -72,6 +129,10 @@ export default [
     english: 'proper',
   },
   {
+    svenska: 'ordna',
+    english: 'arrange',
+  },
+  {
     svenska: 'öga, ögon',
     english: 'eye, eyes',
   },
@@ -84,23 +145,55 @@ export default [
     english: 'cause',
   },
   {
+    svenska: 'orka',
+    english: 'cope',
+  },
+  {
+    svenska: 'ingen orsak',
+    english: 'no worries',
+  },
+  {
     svenska: 'oavsett',
     english: 'regardless',
   },
   {
-    svenska: 'övertygad',
+    svenska: 'övertygad, övertygat',
     english: 'convince',
+  },
+  {
+    svenska: 'ouvertyren',
+    english: 'overture',
+  },
+  {
+    svenska: 'överföra',
+    english: 'transfer',
+  },
+  {
+    svenska: 'osedvanligt',
+    english: 'unusually',
+  },
+  {
+    svenska: 'osäkra',
+    english: 'doubtful',
   },
   {
     svenska: 'ovan',
     english: 'above',
   },
   {
-    svenska: 'odlad',
+    svenska: 'odla',
     english: 'grow',
+  },
+  {
+    svenska: 'odlad',
+    english: 'cultured',
   },
   {
     svenska: 'otippat',
     english: 'unexpected',
+  },
+  {
+    svenska: 'översättare',
+    english: 'translator',
   },
 ];

@@ -1,15 +1,27 @@
 export default [
   {
-    svenska: 'ett larm',
+    svenska: 'ett laderm',
     english: 'alarm',
+  },
+  {
+    svenska: 'läkemedel',
+    english: 'drug',
   },
   {
     svenska: 'längst bak',
     english: 'at the back',
   },
   {
+    svenska: 'längtan',
+    english: 'longing',
+  },
+  {
     svenska: 'ett lakan, lakanen',
     english: 'sheet, sheets',
+  },
+  {
+    svenska: 'ledning, ledningens',
+    english: 'management, leadership',
   },
   {
     svenska: 'lakritsroten',
@@ -24,6 +36,14 @@ export default [
     english: 'launch',
   },
   {
+    svenska: 'landskap',
+    english: 'landscape',
+  },
+  {
+    svenska: 'lappar',
+    english: 'patch',
+  },
+  {
     svenska: 'löngst ner',
     english: 'bottom',
   },
@@ -32,8 +52,24 @@ export default [
     english: 'let out',
   },
   {
+    svenska: 'jag la mig ut',
+    english: 'put myself to sleep',
+  },
+  {
+    svenska: 'lagra',
+    english: 'store(v)',
+  },
+  {
     svenska: 'lagom',
     english: 'just right',
+  },
+  {
+    svenska: 'lagerrensning',
+    english: 'clearance',
+  },
+  {
+    svenska: 'labbet',
+    english: 'lab',
   },
   {
     svenska: 'lagstifning',
@@ -42,6 +78,10 @@ export default [
   {
     svenska: 'lära, lär, lärde, lärt',
     english: 'learn',
+  },
+  {
+    svenska: 'lärdom',
+    english: 'learning',
   },
   {
     svenska: 'Läxa',
@@ -56,20 +96,44 @@ export default [
     english: 'Reading comprehension',
   },
   {
+    svenska: 'Läskigt',
+    english: 'creepy',
+  },
+  {
     svenska: 'låga',
     english: 'low',
+  },
+  {
+    svenska: 'låsa, låst',
+    english: 'lock',
   },
   {
     svenska: 'låt',
     english: 'let, sound, allow',
   },
   {
+    svenska: 'låten',
+    english: 'the song',
+  },
+  {
     svenska: 'leta',
     english: 'look',
   },
   {
+    svenska: 'leverantör',
+    english: 'supplier',
+  },
+  {
     svenska: 'lägga ut',
     english: 'lay out',
+  },
+  {
+    svenska: 'lägre',
+    english: 'lower',
+  },
+  {
+    svenska: 'lägga några fingrar emellan',
+    english: 'put any fingers in between, dont do anything',
   },
   {
     svenska: 'ett läge',
@@ -82,6 +146,10 @@ export default [
   {
     svenska: 'lämpliga',
     english: 'suitable',
+  },
+  {
+    svenska: 'ledamot',
+    english: 'member',
   },
   {
     svenska: 'ledsam',
@@ -97,6 +165,14 @@ export default [
     english: 'live',
   },
   {
+    svenska: 'lönespecifikation ',
+    english: 'payslip',
+  },
+  {
+    svenska: 'lett',
+    english: 'resulted',
+  },
+  {
     svenska: 'leverans',
     english: 'delivery',
   },
@@ -105,7 +181,7 @@ export default [
     english: 'lession',
   },
   {
-    svenska: 'ligger',
+    svenska: 'ligger, låg',
     english: 'lie',
   },
   {
@@ -122,8 +198,16 @@ export default [
     english: 'similar',
   },
   {
+    svenska: 'liknande',
+    english: 'similar',
+  },
+  {
     svenska: 'liv',
     english: 'life',
+  },
+  {
+    svenska: 'lita, litar, förtrösta',
+    english: 'trust',
   },
   {
     svenska: 'livräddande',
@@ -166,6 +250,10 @@ export default [
     english: 'lost',
   },
   {
+    svenska: 'lov',
+    english: 'permission',
+  },
+  {
     svenska: 'löparskor',
     english: 'running shoes',
   },
@@ -186,12 +274,24 @@ export default [
     english: 'smelled',
   },
   {
+    svenska: 'lust',
+    english: 'want, desire',
+  },
+  {
     svenska: 'luftföroreningar',
     english: 'air pollution',
   },
   {
     svenska: 'lycklig',
     english: 'happy',
+  },
+  {
+    svenska: 'lyckades',
+    english: 'managed',
+  },
+  {
+    svenska: 'lyfter',
+    english: 'lifts',
   },
   {
     svenska: 'lyxigt',

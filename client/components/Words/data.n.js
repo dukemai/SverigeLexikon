@@ -4,6 +4,18 @@ export default [
     english: 'nation',
   },
   {
+    svenska: 'nätdejting',
+    english: 'online dating',
+  },
+  {
+    svenska: 'närmaste',
+    english: 'coming',
+  },
+  {
+    svenska: 'någonsin',
+    english: 'ever',
+  },
+  {
     svenska: 'nackdelar',
     english: 'disadvantages',
   },
@@ -28,6 +40,10 @@ export default [
     english: 'pretty',
   },
   {
+    svenska: 'narkotikabrott',
+    english: 'narcotics',
+  },
+  {
     svenska: 'ett nät',
     english: 'web, internet',
   },
@@ -42,6 +58,10 @@ export default [
   {
     svenska: 'naturligt',
     english: 'Det låter mer naturligt',
+  },
+  {
+    svenska: 'nedkylning',
+    english: 'cooling',
   },
   {
     svenska: 'nöjd',
@@ -64,6 +84,10 @@ export default [
     english: 'normal',
   },
   {
+    svenska: 'ett normalläge',
+    english: 'normal situation',
+  },
+  {
     svenska: 'nämligen',
     english: 'namely',
   },
@@ -80,6 +104,10 @@ export default [
     english: 'nervous',
   },
   {
+    svenska: 'nedanför',
+    english: 'below',
+  },
+  {
     svenska: 'nja, möjligen, kanske, jag vet inte riktigt',
     english: 'well, possibly',
   },
@@ -88,12 +116,28 @@ export default [
     english: 'notes',
   },
   {
+    svenska: 'notan',
+    english: 'bill',
+  },
+  {
+    svenska: 'i nuläget',
+    english: 'at the moment',
+  },
+  {
+    svenska: 'nurvarande',
+    english: 'current',
+  },
+  {
     svenska: 'nyttig, nyttiga',
-    english: 'useful, well',
+    english: 'useful, well, healthy',
   },
   {
     svenska: 'nyinflyttad',
     english: 'newcommer',
+  },
+  {
+    svenska: 'nyfikna',
+    english: 'prying',
   },
   {
     svenska: 'nymålad',
@@ -102,5 +146,17 @@ export default [
   {
     svenska: 'nypa',
     english: 'pinch',
+  },
+  {
+    svenska: 'nyss',
+    english: 'just',
+  },
+  {
+    svenska: 'nyttja, = använda',
+    english: 'utlize',
+  },
+  {
+    svenska: 'nyktra till, nykter',
+    english: 'sober',
   },
 ];

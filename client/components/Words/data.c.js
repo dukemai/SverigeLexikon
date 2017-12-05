@@ -5,6 +5,16 @@ export default [
     example: '',
   },
   {
+    svenska: 'centiliter',
+    english: 'cl',
+    example: '',
+  },
+  {
+    svenska: 'citerars',
+    english: 'cite',
+    example: '',
+  },
+  {
     svenska: 'civilingenjör',
     english: 'graduate engineer',
     example: '',

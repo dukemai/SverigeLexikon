@@ -5,6 +5,11 @@ export default [
     example: '',
   },
   {
+    svenska: 'bär',
+    english: 'carry',
+    example: '',
+  },
+  {
     svenska: 'bantar',
     english: 'diet',
     example: '',
@@ -50,6 +55,54 @@ export default [
     example: '',
   },
   {
+    svenska: 'betecknar',
+    english: 'represents',
+    example: '',
+  },
+  {
+    svenska: 'beteende',
+    english: 'behavior',
+    example: '',
+  },
+  {
+    svenska: 'behåll växeln',
+    english: 'keep the changes',
+    example: '',
+  },
+  {
+    svenska: 'behörighet',
+    english: 'qualifications',
+    example: '',
+  },
+  {
+    svenska: 'begå',
+    english: 'commit',
+  },
+  {
+    svenska: 'begära, begärde',
+    english: 'request',
+  },
+  {
+    svenska: 'be, ber',
+    english: 'ask',
+    example: '',
+  },
+  {
+    svenska: 'bevara',
+    english: 'preserve',
+    example: '',
+  },
+  {
+    svenska: 'bevittnade',
+    english: 'witnessed',
+    example: '',
+  },
+  {
+    svenska: 'bett',
+    english: 'bite',
+    example: '',
+  },
+  {
     svenska: 'bensinstationen',
     english: 'petrol station',
     example: '',
@@ -65,13 +118,23 @@ export default [
     example: '',
   },
   {
-    svenska: 'befinna',
+    svenska: 'befinna, befinner',
     english: 'be',
     example: '',
   },
   {
-    svenska: 'bekräfta',
+    svenska: 'befolkning',
+    english: 'population',
+    example: '',
+  },
+  {
+    svenska: 'bekräfta, bekräftar',
     english: 'confirm',
+    example: '',
+  },
+  {
+    svenska: 'bekväm',
+    english: 'comfortable',
     example: '',
   },
   {
@@ -80,12 +143,37 @@ export default [
     example: '',
   },
   {
+    svenska: 'besviken, besvikna',
+    english: 'disappointed',
+    example: '',
+  },
+  {
+    svenska: 'besvär',
+    english: 'trouble',
+    example: '',
+  },
+  {
+    svenska: 'besvärlig',
+    english: 'difficult',
+    example: '',
+  },
+  {
+    svenska: 'besked, beskedet',
+    english: 'message, announcement',
+    example: '',
+  },
+  {
+    svenska: 'beskjutit',
+    english: 'bombarded',
+    example: '',
+  },
+  {
     svenska: 'berätta',
     english: 'tell',
     example: '',
   },
   {
-    svenska: 'Begränsat',
+    svenska: 'Begränsat, begränsande',
     english: 'limited',
     example: '',
   },
@@ -122,13 +210,28 @@ export default [
     example: '',
   },
   {
-    svenska: 'bestämmer',
+    svenska: 'bestämmer, bestämde',
     english: 'decide',
+    example: '',
+  },
+  {
+    svenska: 'bestämt',
+    english: 'Certainly',
     example: '',
   },
   {
     svenska: 'bidrag',
     english: 'grant, contribution',
+    example: '',
+  },
+  {
+    svenska: 'bidrog',
+    english: 'contributed',
+    example: '',
+  },
+  {
+    svenska: 'bifogar',
+    english: 'appends, attach',
     example: '',
   },
   {
@@ -147,6 +250,26 @@ export default [
     example: '',
   },
   {
+    svenska: 'bland',
+    english: 'among',
+    example: '',
+  },
+  {
+    svenska: 'blixtnedslag',
+    english: 'lightning',
+    example: '',
+  },
+  {
+    svenska: 'brått',
+    english: 'complains',
+    example: '',
+  },
+  {
+    svenska: 'bråk, bråket',
+    english: 'the fight',
+    example: '',
+  },
+  {
     svenska: 'brevid',
     english: 'beside',
     example: '',
@@ -162,13 +285,32 @@ export default [
     example: '',
   },
   {
+    svenska: 'betyg',
+    english: 'rating',
+    example: '',
+  },
+  {
     svenska: 'beroende',
     english: 'dependent',
     example: 'beroende på',
   },
   {
+    svenska: 'beroendeställning',
+    english: 'dependent',
+  },
+  {
     svenska: 'betona',
     english: 'emphasize',
+    example: '',
+  },
+  {
+    svenska: 'bissara',
+    english: 'bizarre',
+    example: '',
+  },
+  {
+    svenska: 'bitti',
+    english: 'morning',
     example: '',
   },
   {
@@ -177,13 +319,43 @@ export default [
     example: '',
   },
   {
+    svenska: 'bilist',
+    english: 'motorist',
+    example: '',
+  },
+  {
     svenska: 'ett bolag',
     english: 'company',
     example: '',
   },
   {
+    svenska: 'böckling',
+    english: 'fumade, a dish of fish',
+    example: '',
+  },
+  {
     svenska: 'bör, böra, borde',
     english: 'should',
+    example: '',
+  },
+  {
+    svenska: 'börda',
+    english: 'burden',
+    example: '',
+  },
+  {
+    svenska: 'bläddrar',
+    english: 'scroll',
+    example: '',
+  },
+  {
+    svenska: 'böja',
+    english: 'bend',
+    example: '',
+  },
+  {
+    svenska: 'bondgårdar',
+    english: 'farmhouses',
     example: '',
   },
   {
@@ -197,8 +369,28 @@ export default [
     example: '',
   },
   {
+    svenska: 'bortkasta',
+    english: 'waste',
+    example: '',
+  },
+  {
     svenska: 'bostadsbrist',
     english: 'housing shortage',
+    example: '',
+  },
+  {
+    svenska: 'bostadsägare',
+    english: 'homeowners',
+    example: '',
+  },
+  {
+    svenska: 'botten',
+    english: 'bottom',
+    example: '',
+  },
+  {
+    svenska: 'briefen',
+    english: 'brief',
     example: '',
   },
   {
@@ -227,6 +419,51 @@ export default [
     example: '',
   },
   {
+    svenska: 'bröllop',
+    english: 'wedding',
+    example: '',
+  },
+  {
+    svenska: 'bron',
+    english: 'bridge',
+    example: '',
+  },
+  {
+    svenska: 'bromsar',
+    english: 'break',
+    example: '',
+  },
+  {
+    svenska: 'brott, brottet',
+    english: 'crime, offense',
+    example: '',
+  },
+  {
+    svenska: 'en bulb',
+    english: 'bulb',
+    example: '',
+  },
+  {
+    svenska: 'burgare',
+    english: 'burger',
+    example: '',
+  },
+  {
+    svenska: 'buken',
+    english: 'abdomen',
+    example: '',
+  },
+  {
+    svenska: 'budskapet',
+    english: 'message',
+    example: '',
+  },
+  {
+    svenska: 'budgivning',
+    english: 'bidding',
+    example: '',
+  },
+  {
     svenska: 'bryr sig om',
     english: 'care about',
     example: '',
@@ -239,6 +476,11 @@ export default [
   {
     svenska: 'byar',
     english: 'villages',
+    example: '',
+  },
+  {
+    svenska: 'byrå, byrån',
+    english: 'office, agency',
     example: '',
   },
   {

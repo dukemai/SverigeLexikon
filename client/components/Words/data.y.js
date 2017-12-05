@@ -1,6 +1,6 @@
 export default [
   {
-    svenska: 'yta',
+    svenska: 'yta, ytan',
     english: 'surface',
   },
   {

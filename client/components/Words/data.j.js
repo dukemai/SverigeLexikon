@@ -4,12 +4,28 @@ export default [
     english: 'compare',
   },
   {
+    svenska: 'järn',
+    english: 'iron',
+  },
+  {
+    svenska: 'jagar, jagade',
+    english: 'chase',
+  },
+  {
     svenska: 'jobbig',
     english: 'hard',
   },
   {
     svenska: 'jord',
-    english: 'soil',
+    english: 'soil, earth',
+  },
+  {
+    svenska: 'jordbävning',
+    english: 'earthquake',
+  },
+  {
+    svenska: 'jordbruksland',
+    english: 'farmland',
   },
   {
     svenska: 'jordens',
