@@ -15,8 +15,18 @@ export default [
     example: '',
   },
   {
+    svenska: 'ingenjör',
+    english: 'engineer',
+    example: '',
+  },
+  {
     svenska: 'civilingenjör',
     english: 'graduate engineer',
+    example: '',
+  },
+  {
+    svenska: 'chock',
+    english: 'shock',
     example: '',
   },
 ];

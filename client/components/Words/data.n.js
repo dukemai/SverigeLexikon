@@ -4,16 +4,56 @@ export default [
     english: 'nation',
   },
   {
+    svenska: 'nånstans',
+    english: 'somewhere',
+  },
+  {
+    svenska: 'navel',
+    english: 'umbilical',
+  },
+  {
+    svenska: 'navigera, navigerar, navigerade',
+    english: 'navigate',
+  },
+  {
     svenska: 'nätdejting',
     english: 'online dating',
+  },
+  {
+    svenska: 'närmast',
+    english: 'closest',
   },
   {
     svenska: 'närmaste',
     english: 'coming',
   },
   {
-    svenska: 'någonsin',
+    svenska: 'närmar',
+    english: 'approaching',
+  },
+  {
+    svenska: 'näringsverksamhet',
+    english: 'business',
+  },
+  {
+    svenska: 'närstående',
+    english: 'related',
+  },
+  {
+    svenska: 'någonsin, nånsin',
     english: 'ever',
+  },
+  {
+    svenska: 'någon annanstans',
+    english: 'somewhere',
+  },
+  {
+    svenska: 'nagel',
+    english: 'nail',
+  },
+  {
+    svenska: 'naken',
+    english: 'nake',
   },
   {
     svenska: 'nackdelar',
@@ -36,6 +76,10 @@ export default [
     english: 'somebody else',
   },
   {
+    svenska: 'nappa på, nappar på',
+    english: 'bite',
+  },
+  {
     svenska: 'nätt',
     english: 'pretty',
   },
@@ -56,6 +100,10 @@ export default [
     english: 'of course',
   },
   {
+    svenska: 'naturvetenskap',
+    english: 'science',
+  },
+  {
     svenska: 'naturligt',
     english: 'Det låter mer naturligt',
   },
@@ -68,12 +116,36 @@ export default [
     english: 'satisfied',
   },
   {
+    svenska: 'nödraket',
+    english: 'flares',
+  },
+  {
+    svenska: 'nödvändigt, nödvändig',
+    english: 'necessary',
+  },
+  {
+    svenska: 'nödlanda',
+    english: 'make an emergency landing',
+  },
+  {
+    svenska: 'nöte',
+    english: 'note',
+  },
+  {
     svenska: 'nöjen',
     english: 'amusement',
   },
   {
     svenska: 'nog',
     english: 'probably',
+  },
+  {
+    svenska: 'noggrant',
+    english: 'carefully',
+  },
+  {
+    svenska: 'noggrann',
+    english: 'meticulous',
   },
   {
     svenska: 'nog bara ',
@@ -92,11 +164,19 @@ export default [
     english: 'namely',
   },
   {
+    svenska: 'nämnd, nämnden',
+    english: 'board',
+  },
+  {
     svenska: 'nästan',
     english: 'almost',
   },
   {
-    svenska: 'en näsa',
+    svenska: 'nästäppa',
+    english: 'nose stuck, nasal congestion',
+  },
+  {
+    svenska: 'en näsa, näsan',
     english: 'nose',
   },
   {
@@ -112,6 +192,18 @@ export default [
     english: 'well, possibly',
   },
   {
+    svenska: 'njure',
+    english: 'kidney',
+  },
+  {
+    svenska: 'notera',
+    english: 'notice',
+  },
+  {
+    svenska: 'noterad',
+    english: 'quoted',
+  },
+  {
     svenska: 'noteringar',
     english: 'notes',
   },
@@ -124,8 +216,16 @@ export default [
     english: 'at the moment',
   },
   {
+    svenska: 'nu, nuet',
+    english: 'now, present',
+  },
+  {
     svenska: 'nurvarande',
     english: 'current',
+  },
+  {
+    svenska: 'nyans',
+    english: 'shade',
   },
   {
     svenska: 'nyttig, nyttiga',
@@ -136,8 +236,16 @@ export default [
     english: 'newcommer',
   },
   {
+    svenska: 'nyckel, nycklar',
+    english: 'key',
+  },
+  {
     svenska: 'nyfikna',
     english: 'prying',
+  },
+  {
+    svenska: 'nyfött',
+    english: 'newborn',
   },
   {
     svenska: 'nymålad',
@@ -156,7 +264,19 @@ export default [
     english: 'utlize',
   },
   {
+    svenska: 'nyckelben',
+    english: 'collarbone',
+  },
+  {
     svenska: 'nyktra till, nykter',
     english: 'sober',
+  },
+  {
+    svenska: 'nytta',
+    english: 'benefit',
+  },
+  {
+    svenska: 'nyttigt',
+    english: 'healthy',
   },
 ];

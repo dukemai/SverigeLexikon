@@ -1,5 +1,9 @@
 export default [
   {
+    svenska: 'facket',
+    english: 'tray',
+  },
+  {
     svenska: 'faktum',
     english: 'in fact',
   },
@@ -8,8 +12,20 @@ export default [
     english: 'make it work, fix something',
   },
   {
+    svenska: 'fånga, fångar, fångade, fångat',
+    english: 'catch, seize, capture, trap',
+  },
+  {
     svenska: 'fäster',
     english: 'attach',
+  },
+  {
+    svenska: 'fat',
+    english: 'tallrik, dish',
+  },
+  {
+    svenska: 'fängsla',
+    english: 'captivate',
   },
   {
     svenska: 'fängelse',
@@ -32,7 +48,19 @@ export default [
     english: 'get connected with, catch with, connect with, reach, get in contact',
   },
   {
-    svenska: 'färdriktningen',
+    svenska: 'färd',
+    english: 'trip',
+  },
+  {
+    svenska: 'färdas',
+    english: 'travel',
+  },
+  {
+    svenska: 'färja',
+    english: 'ferry',
+  },
+  {
+    svenska: 'färdriktning, färdriktningen',
     english: 'direction',
   },
   {
@@ -48,6 +76,10 @@ export default [
     english: 'field',
   },
   {
+    svenska: 'fällor',
+    english: 'traps',
+  },
+  {
     svenska: 'få, få henne att',
     english: 'get, make her ...',
   },
@@ -56,16 +88,28 @@ export default [
     english: 'although',
   },
   {
-    svenska: 'fastnade',
-    english: 'stuck',
+    svenska: 'famn',
+    english: 'arms',
+  },
+  {
+    svenska: 'fastna, fastnade',
+    english: 'stuck, get caught',
   },
   {
     svenska: 'ett fall',
     english: 'case',
   },
   {
+    svenska: 'fallerat',
+    english: 'failed',
+  },
+  {
     svenska: 'fan också',
     english: 'damned',
+  },
+  {
+    svenska: 'fan',
+    english: 'damn',
   },
   {
     svenska: 'fabrik',
@@ -76,12 +120,20 @@ export default [
     english: 'invoice',
   },
   {
+    svenska: 'färja',
+    english: 'ferry',
+  },
+  {
     svenska: 'fallit',
     english: 'fallen',
   },
   {
-    svenska: 'fatta',
-    english: 'take, think',
+    svenska: 'fatta, fattad',
+    english: 'take, think, compose, understand',
+  },
+  {
+    svenska: 'omfatta, omfattas',
+    english: 'over',
   },
   {
     svenska: 'fattig, fattigt',
@@ -96,12 +148,80 @@ export default [
     english: 'armchair',
   },
   {
+    svenska: 'färst, få',
+    english: 'few',
+  },
+  {
+    svenska: 'fart',
+    english: 'speed',
+  },
+  {
+    svenska: 'farlig',
+    english: 'dangerous',
+  },
+  {
+    svenska: 'farväl',
+    english: 'farewell',
+  },
+  {
+    svenska: 'fartyg',
+    english: 'ship',
+  },
+  {
     svenska: 'fågel, fåglarna',
     english: 'the birds',
   },
   {
+    svenska: 'ficka, Fickor',
+    english: 'pocket',
+  },
+  {
+    svenska: 'förflytta',
+    english: 'move',
+  },
+  {
+    svenska: 'förflutna',
+    english: 'the past',
+  },
+  {
+    svenska: 'förfölja, förföljer, förföljde, förföljt',
+    english: 'pursue, haunt',
+  },
+  {
+    svenska: 'förvirrar',
+    english: 'confuse',
+  },
+  {
+    svenska: 'förnya',
+    english: 'renew',
+  },
+  {
+    svenska: 'foster',
+    english: 'fetal',
+  },
+  {
+    svenska: 'försmår',
+    english: 'disdains, reject',
+  },
+  {
+    svenska: 'förringa',
+    english: 'detracting',
+  },
+  {
     svenska: 'förbannad',
     english: 'very angry',
+  },
+  {
+    svenska: 'förbannat',
+    english: 'damn',
+  },
+  {
+    svenska: 'förhålla, förfåller',
+    english: 'behave',
+  },
+  {
+    svenska: 'förhåller',
+    english: 'relationship',
   },
   {
     svenska: 'Förresten',
@@ -112,8 +232,20 @@ export default [
     english: 'getting confused',
   },
   {
+    svenska: 'förvaltningen',
+    english: 'administration',
+  },
+  {
+    svenska: 'Förvaring',
+    english: 'storage',
+  },
+  {
     svenska: 'förvånar',
     english: 'surprise',
+  },
+  {
+    svenska: 'förverkliga',
+    english: 'realize',
   },
   {
     svenska: 'festa',
@@ -128,6 +260,14 @@ export default [
     english: 'fermented',
   },
   {
+    svenska: 'framhålla',
+    english: 'emphasize',
+  },
+  {
+    svenska: 'framgångsrik',
+    english: 'successful',
+  },
+  {
     svenska: 'framför',
     english: 'in front of',
   },
@@ -138,6 +278,18 @@ export default [
   {
     svenska: 'framme',
     english: 'in front',
+  },
+  {
+    svenska: 'frontent',
+    english: 'front',
+  },
+  {
+    svenska: 'frossbrytningar',
+    english: 'chills',
+  },
+  {
+    svenska: 'fejk',
+    english: 'fake',
   },
   {
     svenska: 'femtedel',
@@ -168,15 +320,31 @@ export default [
     english: 'fourth',
   },
   {
+    svenska: 'fjärr',
+    english: 'remote',
+  },
+  {
     svenska: 'flämtar, flämtade',
     english: 'gasped',
   },
   {
-    svenska: 'flock',
+    svenska: 'flertal',
+    english: 'multiple',
+  },
+  {
+    svenska: 'flock, flockar',
     english: 'flock',
   },
   {
-    svenska: 'flyggplan',
+    svenska: 'flyg, flyga, flyger, flög, flugit',
+    english: 'fly',
+  },
+  {
+    svenska: 'flyende',
+    english: 'fugitive',
+  },
+  {
+    svenska: 'flygplan',
     english: 'aircraft',
   },
   {
@@ -184,11 +352,15 @@ export default [
     english: 'liquid, fluent',
   },
   {
+    svenska: 'flyktig (= stund)',
+    english: 'volatile, fleeting',
+  },
+  {
     svenska: 'flykting, flyktingar',
     english: 'refugees',
   },
   {
-    svenska: 'flitig',
+    svenska: 'flitig, arbetsam',
     english: 'hardworking',
   },
   {
@@ -196,8 +368,24 @@ export default [
     english: 'very angry',
   },
   {
+    svenska: 'förlag',
+    english: 'publisher',
+  },
+  {
     svenska: 'förläggas',
     english: 'placed',
+  },
+  {
+    svenska: 'förlossning',
+    english: 'childbirth',
+  },
+  {
+    svenska: 'förlopp',
+    english: 'course',
+  },
+  {
+    svenska: 'förlust',
+    english: 'loss',
   },
   {
     svenska: 'född, födda',
@@ -205,15 +393,35 @@ export default [
   },
   {
     svenska: 'förbi',
-    english: 'past',
+    english: 'past, by',
+  },
+  {
+    svenska: 'förvärra, förvärras',
+    english: 'aggravate, worsen',
   },
   {
     svenska: 'förvärv',
-    english: 'salary',
+    english: 'salary, compensation, acquistion',
   },
   {
     svenska: 'föreställning',
     english: 'show',
+  },
+  {
+    svenska: 'förekomsten',
+    english: 'presence',
+  },
+  {
+    svenska: 'föråldras',
+    english: 'become obsolete',
+  },
+  {
+    svenska: 'föråldrad',
+    english: 'outdated',
+  },
+  {
+    svenska: 'förekomma',
+    english: 'occur, happen',
   },
   {
     svenska: 'förenklar',
@@ -232,12 +440,24 @@ export default [
     english: 'former',
   },
   {
-    svenska: 'fodon',
+    svenska: 'formell',
+    english: 'formal',
+  },
+  {
+    svenska: 'foga, fogar, fogade sig i/efter',
+    english: 'resign oneself to, comply',
+  },
+  {
+    svenska: 'fordon, fordonet',
     english: 'vehicle',
   },
   {
-    svenska: 'fodon beskjutit',
+    svenska: 'fordon beskjutit',
     english: 'many vehicles that leads to traffic jam',
+  },
+  {
+    svenska: 'forska, forskar, forskade',
+    english: 'research',
   },
   {
     svenska: 'forskare',
@@ -248,6 +468,14 @@ export default [
     english: 'take photos',
   },
   {
+    svenska: 'författa',
+    english: 'write a book',
+  },
+  {
+    svenska: 'förlisa, förliser, förliste, förlist',
+    english: 'to become shipwrecked',
+  },
+  {
     svenska: 'författre, författaren',
     english: 'author',
   },
@@ -256,12 +484,24 @@ export default [
     english: 'having cold',
   },
   {
+    svenska: 'förorena',
+    english: 'polutte',
+  },
+  {
+    svenska: 'förorening',
+    english: 'pollution',
+  },
+  {
+    svenska: 'förkrossa',
+    english: 'overwhelm',
+  },
+  {
     svenska: 'förslut',
     english: 'seal',
   },
   {
-    svenska: 'försiktiga',
-    english: 'cautious',
+    svenska: 'försiktig, försiktiga',
+    english: 'careful, cautious',
   },
   {
     svenska: 'förs',
@@ -276,16 +516,28 @@ export default [
     english: 'oversleeping',
   },
   {
+    svenska: 'försoning',
+    english: 'recinciliation',
+  },
+  {
     svenska: 'för i tiden',
     english: 'the old days',
   },
   {
-    svenska: 'förberedd',
+    svenska: 'förberedelse',
+    english: 'preparation',
+  },
+  {
+    svenska: 'förberedd, förberett',
     english: 'prepared',
   },
   {
     svenska: 'förbjudet',
     english: 'prohibited',
+  },
+  {
+    svenska: 'förkorta',
+    english: 'shorten',
   },
   {
     svenska: 'förkortningar',
@@ -304,8 +556,28 @@ export default [
     english: 'except',
   },
   {
+    svenska: 'förteckning',
+    english: 'list, index',
+  },
+  {
+    svenska: 'förtydliga',
+    english: 'clarify',
+  },
+  {
+    svenska: 'förtiga, förtig',
+    english: 'keep secret',
+  },
+  {
     svenska: 'fördel',
     english: 'advantages',
+  },
+  {
+    svenska: 'fördubla',
+    english: 'double',
+  },
+  {
+    svenska: 'föra, förde',
+    english: 'bring, conduct',
   },
   {
     svenska: 'fördjupa',
@@ -320,12 +592,48 @@ export default [
     english: 'benefit',
   },
   {
+    svenska: 'förmå',
+    english: 'induce',
+  },
+  {
+    svenska: 'förmår',
+    english: 'capable',
+  },
+  {
+    svenska: 'förmodligen',
+    english: 'probably',
+  },
+  {
     svenska: 'förmedla, förmedling',
     english: 'act as medium',
   },
   {
     svenska: 'förmedlingstiderna',
     english: 'switching time',
+  },
+  {
+    svenska: 'förorenar, förorena',
+    english: 'pollute, contaminate',
+  },
+  {
+    svenska: 'förort',
+    english: 'suburb',
+  },
+  {
+    svenska: 'förstärka',
+    english: 'reinforce',
+  },
+  {
+    svenska: 'försörja, försörj',
+    english: 'provide for, support',
+  },
+  {
+    svenska: 'förstöra',
+    english: 'destroy',
+  },
+  {
+    svenska: 'förstående',
+    english: 'impending, about to happen',
   },
   {
     svenska: 'förstås',
@@ -336,6 +644,10 @@ export default [
     english: 'understandable',
   },
   {
+    svenska: 'föregåtts',
+    english: 'preceded',
+  },
+  {
     svenska: 'föremål',
     english: 'subject',
   },
@@ -344,20 +656,28 @@ export default [
     english: 'show',
   },
   {
+    svenska: 'företeelser',
+    english: 'phenomena',
+  },
+  {
     svenska: 'försatte',
     english: 'plunged',
+  },
+  {
+    svenska: 'följa, följ, följer, följt',
+    english: 'impact',
   },
   {
     svenska: 'följder',
     english: 'impact',
   },
   {
-    svenska: 'försvar',
+    svenska: 'försvar, försvaret',
     english: 'defence',
   },
   {
-    svenska: 'försvinner',
-    english: 'dissappear',
+    svenska: 'försvinna, försvinner, försvunnit',
+    english: 'disappear',
   },
   {
     svenska: 'ett förslag',
@@ -366,6 +686,10 @@ export default [
   {
     svenska: 'före, förut',
     english: 'before',
+  },
+  {
+    svenska: 'förse',
+    english: 'provide',
   },
   {
     svenska: 'försening',
@@ -380,6 +704,10 @@ export default [
     english: 'attenuate',
   },
   {
+    svenska: 'förgå',
+    english: 'pass over',
+  },
+  {
     svenska: 'fort',
     english: 'fast',
   },
@@ -388,11 +716,19 @@ export default [
     english: 'in advance',
   },
   {
+    svenska: 'förhindra',
+    english: 'prevent',
+  },
+  {
+    svenska: 'förhör, förhöra, förhörts',
+    english: 'interrogate',
+  },
+  {
     svenska: 'fortfarande',
     english: 'still',
   },
   {
-    svenska: 'en föreläsning',
+    svenska: 'en föreläsning, föreläsningen',
     english: 'lecture',
   },
   {
@@ -413,7 +749,7 @@ export default [
   },
   {
     svenska: 'en förhandling, förhandlingar',
-    english: 'negotiaion',
+    english: 'negotiation',
   },
   {
     svenska: 'förmiddag',
@@ -428,7 +764,7 @@ export default [
     english: 'before',
   },
   {
-    svenska: 'föreslå',
+    svenska: 'föreslå, föreslår',
     english: 'propose',
   },
   {
@@ -440,8 +776,16 @@ export default [
     english: 'earning',
   },
   {
+    svenska: 'förtjänar',
+    english: 'deserves',
+  },
+  {
     svenska: 'förtjust',
     english: 'delighted',
+  },
+  {
+    svenska: 'förtroende, förtroendeingivande',
+    english: 'confidence',
   },
   {
     svenska: 'en fot, fötter',
@@ -452,6 +796,10 @@ export default [
     english: 'think',
   },
   {
+    svenska: 'funktionsnedsättningar',
+    english: 'disabilities',
+  },
+  {
     svenska: 'funnits',
     english: 'found',
   },
@@ -460,8 +808,16 @@ export default [
     english: 'nag',
   },
   {
+    svenska: 'framåt',
+    english: 'forward',
+  },
+  {
     svenska: 'framöver',
     english: 'ahead',
+  },
+  {
+    svenska: 'framkallar',
+    english: 'induces',
   },
   {
     svenska: 'framkommit',
@@ -472,8 +828,20 @@ export default [
     english: 'question mark',
   },
   {
+    svenska: 'frågelådan',
+    english: 'question box',
+  },
+  {
     svenska: 'framstående',
     english: 'eminent',
+  },
+  {
+    svenska: 'framställa',
+    english: 'produce',
+  },
+  {
+    svenska: 'framställning',
+    english: 'production',
   },
   {
     svenska: 'frånskild',
@@ -500,12 +868,28 @@ export default [
     english: 'peace',
   },
   {
+    svenska: 'frejdiga',
+    english: 'dashing',
+  },
+  {
     svenska: 'fredspriset',
     english: 'nobel peace prize',
   },
   {
     svenska: 'frimärke',
     english: 'stamp',
+  },
+  {
+    svenska: 'frivillig, frivilliga',
+    english: 'voluntary',
+  },
+  {
+    svenska: 'frihet',
+    english: 'freedom',
+  },
+  {
+    svenska: 'frihetsberöva',
+    english: 'detainee',
   },
   {
     svenska: 'fritid',
@@ -516,12 +900,28 @@ export default [
     english: 'hair style',
   },
   {
+    svenska: 'frukta',
+    english: 'fear',
+  },
+  {
+    svenska: 'fruktansvärd',
+    english: 'terrible',
+  },
+  {
     svenska: 'frukost',
     english: 'breakfast',
   },
   {
     svenska: 'funderar, funderat på',
     english: 'think about',
+  },
+  {
+    svenska: 'fullständig',
+    english: 'complete, full',
+  },
+  {
+    svenska: 'fullständigt',
+    english: 'completely',
   },
   {
     svenska: 'fullbokat',
@@ -532,8 +932,16 @@ export default [
     english: 'complete',
   },
   {
+    svenska: 'furu',
+    english: 'pine',
+  },
+  {
     svenska: 'föll genom',
     english: 'fell through',
+  },
+  {
+    svenska: 'frö',
+    english: 'seed',
   },
   {
     svenska: 'frysa, fryser, frös',
@@ -546,5 +954,9 @@ export default [
   {
     svenska: 'fylla på',
     english: 'refill',
+  },
+  {
+    svenska: 'fysik',
+    english: 'physical',
   },
 ];

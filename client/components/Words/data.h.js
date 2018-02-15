@@ -8,16 +8,32 @@ export default [
     english: 'hate',
   },
   {
-    svenska: 'haka',
+    svenska: 'häfte',
+    english: 'booklet',
+  },
+  {
+    svenska: 'hänvisar',
+    english: 'refer',
+  },
+  {
+    svenska: 'haka, hak',
     english: 'hook',
   },
   {
-    svenska: 'häktade',
-    english: 'detained',
+    svenska: 'häkta, häktade',
+    english: 'arrest, detained',
+  },
+  {
+    svenska: 'häcka, häckar, häckar',
+    english: 'nest',
   },
   {
     svenska: 'hatare',
     english: 'hater',
+  },
+  {
+    svenska: 'hastighet',
+    english: 'speed',
   },
   {
     svenska: 'halvön',
@@ -28,12 +44,56 @@ export default [
     english: 'tangle',
   },
   {
+    svenska: 'häromdagen',
+    english: 'other day',
+  },
+  {
+    svenska: 'härleder',
+    english: 'derive',
+  },
+  {
     svenska: 'händelse',
     english: 'event',
   },
   {
+    svenska: 'händig',
+    english: 'handy',
+  },
+  {
     svenska: 'handlingar',
     english: 'actions',
+  },
+  {
+    svenska: 'handflata',
+    english: 'palm',
+  },
+  {
+    svenska: 'handled',
+    english: 'wrist',
+  },
+  {
+    svenska: 'handskar',
+    english: 'gloves',
+  },
+  {
+    svenska: 'handskas med',
+    english: 'deal with, treat, handle',
+  },
+  {
+    svenska: 'hål',
+    english: 'hole',
+  },
+  {
+    svenska: 'hållbara',
+    english: 'sustainable',
+  },
+  {
+    svenska: 'håll koll',
+    english: 'keep an eye',
+  },
+  {
+    svenska: 'hållplats, busshållplats',
+    english: 'stop, bus stop',
   },
   {
     svenska: 'håller med, håller på med',
@@ -41,8 +101,17 @@ export default [
     example: 'det stämmer, håller med, absolut, just det, det är sant, det är rätt, det tycker jag, precis',
   },
   {
+    svenska: 'håller på',
+    english: 'is doing with',
+    example: '',
+  },
+  {
     svenska: 'håll kräft',
     english: 'shut up',
+  },
+  {
+    svenska: 'häl',
+    english: 'heel',
   },
   {
     svenska: 'häll',
@@ -53,8 +122,28 @@ export default [
     english: 'health',
   },
   {
-    svenska: 'hemskt',
-    english: 'awful',
+    svenska: 'hälsar',
+    english: 'greet',
+  },
+  {
+    svenska: 'helhet',
+    english: 'whole',
+  },
+  {
+    svenska: 'hellre',
+    english: 'rather',
+  },
+  {
+    svenska: 'hemskt, hemska',
+    english: 'awful, terrible',
+  },
+  {
+    svenska: 'hemlig',
+    english: 'secret',
+  },
+  {
+    svenska: 'hemställa',
+    english: 'request',
   },
   {
     svenska: 'hjärna ',
@@ -90,12 +179,44 @@ export default [
     example: 'hälsa på',
   },
   {
+    svenska: 'hälften',
+    english: 'the half',
+  },
+  {
     svenska: 'hamna',
     english: 'end, reach',
   },
   {
+    svenska: 'härmar',
+    english: 'mimic',
+  },
+  {
+    svenska: 'Härmed',
+    english: 'Hereby',
+  },
+  {
+    svenska: 'hamnar',
+    english: 'port',
+  },
+  {
+    svenska: 'hämma',
+    english: 'inhibit, stop',
+  },
+  {
+    svenska: 'hänga, hängde',
+    english: 'hang',
+  },
+  {
     svenska: 'hänga ihop',
     english: 'communicate',
+  },
+  {
+    svenska: 'häng på',
+    english: 'hang on',
+  },
+  {
+    svenska: 'häng med',
+    english: 'come along',
   },
   {
     svenska: 'hänga - hänger, hängade',
@@ -106,7 +227,7 @@ export default [
     english: 'hand',
   },
   {
-    svenska: 'händer',
+    svenska: 'hända, händer, hänt',
     english: 'happen',
   },
   {
@@ -114,7 +235,15 @@ export default [
     english: 'manage',
   },
   {
-    svenska: 'hantering',
+    svenska: 'hantverk',
+    english: 'handicraft',
+  },
+  {
+    svenska: 'hantel',
+    english: 'manage',
+  },
+  {
+    svenska: 'hantering, hanteringen',
     english: 'management',
   },
   {
@@ -122,16 +251,48 @@ export default [
     english: 'throat',
   },
   {
+    svenska: 'halka',
+    english: 'slip',
+  },
+  {
     svenska: 'halt',
     english: 'slippery',
+  },
+  {
+    svenska: 'ha med sig, har med sig',
+    english: 'bring along',
   },
   {
     svenska: 'hård',
     english: 'hard',
   },
   {
+    svenska: 'hårdna, hårdnar, hårdnade',
+    english: 'harden',
+  },
+  {
+    svenska: 'harmlös',
+    english: 'harmless',
+  },
+  {
+    svenska: 'hån',
+    english: 'mockery',
+  },
+  {
+    svenska: 'havre',
+    english: 'oat',
+  },
+  {
+    svenska: 'helgon',
+    english: 'Saint',
+  },
+  {
     svenska: 'helst',
     english: 'preferably',
+  },
+  {
+    svenska: 'helsike',
+    english: 'hell',
   },
   {
     svenska: 'vilken färg som helst, vilka färger som helst',
@@ -146,6 +307,10 @@ export default [
     english: 'have time to',
   },
   {
+    svenska: 'hinder',
+    english: 'obstacle',
+  },
+  {
     svenska: 'himlen',
     english: 'heaven',
   },
@@ -158,8 +323,24 @@ export default [
     english: 'so far, to date',
   },
   {
+    svenska: 'hot',
+    english: 'threat',
+  },
+  {
+    svenska: 'hota, hotande',
+    english: 'threaten, threatening',
+  },
+  {
+    svenska: 'hoppas',
+    english: 'hope',
+  },
+  {
     svenska: 'hosta',
     english: 'cough',
+  },
+  {
+    svenska: 'horisonten',
+    english: 'horizon',
   },
   {
     svenska: 'hönsbuljong',
@@ -168,6 +349,10 @@ export default [
   {
     svenska: 'höll',
     english: 'entertained',
+  },
+  {
+    svenska: 'högskoleutbildad',
+    english: 'highschool graduated',
   },
   {
     svenska: 'högtiderna',
@@ -195,28 +380,68 @@ export default [
     english: 'height',
   },
   {
+    svenska: 'höja',
+    english: 'raise',
+  },
+  {
     svenska: 'höjdrädd',
     english: 'afraid of heights',
+  },
+  {
+    svenska: 'höraparat',
+    english: 'hearing instrument',
+  },
+  {
+    svenska: 'hörntand',
+    english: 'canine',
   },
   {
     svenska: 'hörsel',
     english: 'hearing',
   },
   {
+    svenska: 'hörn',
+    english: 'corner',
+  },
+  {
+    svenska: 'hugga ved',
+    english: 'chop firewood',
+  },
+  {
     svenska: 'hummer',
     english: 'lobster',
+  },
+  {
+    svenska: 'humör, humöret',
+    english: 'mood, humor',
   },
   {
     svenska: 'huruvida',
     english: 'whether',
   },
   {
+    svenska: 'husläkarmottagning',
+    english: 'family doctors',
+  },
+  {
     svenska: 'huslig',
     english: 'domesticated',
   },
   {
+    svenska: 'huva',
+    english: 'hood',
+  },
+  {
+    svenska: 'huven',
+    english: 'head, cap',
+  },
+  {
     svenska: 'huvudvärk',
     english: 'headache',
+  },
+  {
+    svenska: 'huvudsakligt',
+    english: 'essential',
   },
   {
     svenska: 'hylla',
@@ -224,7 +449,19 @@ export default [
     example: 'hyllor',
   },
   {
+    svenska: 'hytta, hytter',
+    english: 'cab',
+  },
+  {
     svenska: 'Hyfsad',
     english: 'decent',
+  },
+  {
+    svenska: 'hyvel',
+    english: 'plane (tool)',
+  },
+  {
+    svenska: 'hyresvärd',
+    english: 'landlord',
   },
 ];

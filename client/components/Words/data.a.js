@@ -4,12 +4,28 @@ export default [
     english: 'absurdity',
   },
   {
+    svenska: 'Abonnemang',
+    english: 'subscription',
+  },
+  {
+    svenska: 'akvarell',
+    english: 'watercolor',
+  },
+  {
+    svenska: 'älv',
+    english: 'river',
+  },
+  {
     svenska: 'ännu',
     english: 'yet',
   },
   {
     svenska: 'andelen',
     english: 'percentage, proportion',
+  },
+  {
+    svenska: 'andning',
+    english: 'breath',
   },
   {
     svenska: 'årskurs',
@@ -20,6 +36,10 @@ export default [
     english: 'age',
   },
   {
+    svenska: 'ändhållplats',
+    english: 'last bus stop',
+  },
+  {
     svenska: 'ändra, ändrar, ändrade',
     english: 'change',
   },
@@ -28,8 +48,29 @@ export default [
     english: 'change',
   },
   {
+    svenska: 'andas',
+    english: 'breathe',
+  },
+  {
     svenska: 'anlända, anlände, anlänt',
     english: 'arrive',
+  },
+  {
+    svenska: 'ändelse',
+    english: 'extension',
+    example: 'filändelse',
+  },
+  {
+    svenska: 'ankommande',
+    english: 'incoming',
+  },
+  {
+    svenska: 'ankomma',
+    english: 'arrive',
+  },
+  {
+    svenska: 'ankomst',
+    english: 'arrival',
   },
   {
     svenska: 'ämne',
@@ -42,6 +83,10 @@ export default [
   {
     svenska: 'alltså',
     english: 'thus',
+  },
+  {
+    svenska: 'alls',
+    english: 'at all',
   },
   {
     svenska: 'i allmänhet',
@@ -69,7 +114,11 @@ export default [
     english: 'otherwise, regarding',
   },
   {
-    svenska: 'anropar',
+    svenska: 'angrepp',
+    english: 'attack',
+  },
+  {
+    svenska: 'anrop, anropet, anropar',
     english: 'call',
   },
   {
@@ -77,8 +126,20 @@ export default [
     english: 'responsibility',
   },
   {
+    svenska: 'ansvarig',
+    english: 'responsible',
+  },
+  {
     svenska: 'ägnade',
     english: 'spend',
+  },
+  {
+    svenska: 'äggstock',
+    english: 'ovary',
+  },
+  {
+    svenska: 'äkta',
+    english: 'genuine',
   },
   {
     svenska: 'ärtor',
@@ -125,16 +186,20 @@ export default [
     english: 'mission',
   },
   {
+    svenska: 'afton',
+    english: 'evening',
+  },
+  {
+    svenska: 'ammunition',
+    english: 'ammunition',
+  },
+  {
     svenska: 'anlita, anlitade',
     english: 'hire',
   },
   {
     svenska: 'äntligen',
     english: 'finally',
-  },
-  {
-    svenska: 'anlitade',
-    english: 'hired ',
   },
   {
     svenska: 'anpassa',
@@ -173,12 +238,20 @@ export default [
     english: 'accusations',
   },
   {
+    svenska: 'anordna',
+    english: 'order, organize',
+  },
+  {
     svenska: 'anta',
     english: 'adopt',
   },
   {
-    svenska: 'anteckning',
+    svenska: 'anteckning, anteckningar',
     english: 'note',
+  },
+  {
+    svenska: 'antisemitismen',
+    english: 'antisemitism',
   },
   {
     svenska: 'antal',
@@ -195,6 +268,10 @@ export default [
   {
     svenska: 'ändå',
     english: 'nevertheless',
+  },
+  {
+    svenska: 'Anmäla',
+    english: 'report',
   },
   {
     svenska: 'Anmälan',
@@ -233,6 +310,10 @@ export default [
     english: 'own',
   },
   {
+    svenska: 'akut',
+    english: 'acute',
+  },
+  {
     svenska: 'akuten',
     english: 'emergency room',
   },
@@ -253,11 +334,35 @@ export default [
     english: 'notifications',
   },
   {
+    svenska: 'akta',
+    english: 'beware',
+  },
+  {
+    svenska: 'aktiekurs',
+    english: 'share price',
+  },
+  {
+    svenska: 'avvisa',
+    english: 'reject',
+  },
+  {
+    svenska: 'avvisning',
+    english: 'rejection',
+  },
+  {
     svenska: 'avvaktar',
     english: 'awaiting',
   },
   {
     svenska: 'allvarliga, seriös',
+    english: 'serious',
+  },
+  {
+    svenska: 'alägga, ålagt',
+    english: 'imposed',
+  },
+  {
+    svenska: 'allvar',
     english: 'serious',
   },
   {
@@ -273,16 +378,40 @@ export default [
     english: 'amortization',
   },
   {
-    svenska: 'Anhållen',
+    svenska: 'Anhållen, anhålla, anhölls',
     english: 'arrested',
+  },
+  {
+    svenska: 'anhörig',
+    english: 'relative',
+  },
+  {
+    svenska: 'annalkande',
+    english: 'coming',
+  },
+  {
+    svenska: 'anslag, anslagen',
+    english: 'allocation',
   },
   {
     svenska: 'ansjovisspadet',
     english: 'anchovy broth',
   },
   {
+    svenska: 'avbilda',
+    english: 'depict',
+  },
+  {
+    svenska: 'avgränsa',
+    english: 'define',
+  },
+  {
     svenska: 'avgränsad',
     english: 'delimited',
+  },
+  {
+    svenska: 'avgränsning',
+    english: 'delimitations',
   },
   {
     svenska: 'avhämtning',
@@ -293,8 +422,16 @@ export default [
     english: 'resign',
   },
   {
+    svenska: 'avgifta, avgiftar',
+    english: 'detoxify',
+  },
+  {
     svenska: 'ångra',
     english: 'undo',
+  },
+  {
+    svenska: 'ångkokning',
+    english: 'steaming',
   },
   {
     svenska: 'avfärda',
@@ -303,6 +440,14 @@ export default [
   {
     svenska: 'en arbetstid',
     english: 'working-hours',
+  },
+  {
+    svenska: 'arbetsintyg',
+    english: 'work certificate',
+  },
+  {
+    svenska: 'arbetslöshet',
+    english: 'unemployment',
   },
   {
     svenska: 'Arbetsgivare',
@@ -325,8 +470,24 @@ export default [
     english: 'workforce',
   },
   {
+    svenska: 'armbåge',
+    english: 'elbow',
+  },
+  {
+    svenska: 'ärm, Ärmar',
+    english: 'sleeve',
+  },
+  {
+    svenska: 'ärmhåla',
+    english: 'armpit',
+  },
+  {
     svenska: 'arm hävning',
     english: 'arm lift',
+  },
+  {
+    svenska: 'artär',
+    english: 'artery',
   },
   {
     svenska: 'en axel, axlar',
@@ -339,6 +500,10 @@ export default [
   {
     svenska: 'åskväder',
     english: 'thunderstorm',
+  },
+  {
+    svenska: 'Årligt',
+    english: 'annual',
   },
   {
     svenska: 'årstider',
@@ -361,16 +526,44 @@ export default [
     english: 'deduction',
   },
   {
+    svenska: 'avtagbar',
+    english: 'removable',
+  },
+  {
+    svenska: 'avdelning',
+    english: 'section, chamber, department',
+  },
+  {
     svenska: 'avtryck',
     english: 'shutter',
+  },
+  {
+    svenska: 'avundas, avundades, avundats',
+    english: 'envy',
   },
   {
     svenska: 'avundsjuk',
     english: 'jealous',
   },
   {
+    svenska: 'avsäger',
+    english: 'resigns',
+  },
+  {
+    svenska: 'avsnitt',
+    english: 'section',
+  },
+  {
+    svenska: 'avstånd, avståndet',
+    english: 'distance',
+  },
+  {
     svenska: 'avslöja, avslöjer',
     english: 'reveal',
+  },
+  {
+    svenska: 'avslöjande',
+    english: 'revealation',
   },
   {
     svenska: 'avspärra, avspärrat',
@@ -381,12 +574,36 @@ export default [
     english: 'reject',
   },
   {
+    svenska: 'avlyssna, avlyssnar, avlyssnade',
+    english: 'listen to, intercept',
+  },
+  {
+    svenska: 'avlida',
+    english: 'die',
+  },
+  {
     svenska: 'avliden ',
     english: 'dead',
   },
   {
     svenska: 'avgör',
     english: 'decide',
+  },
+  {
+    svenska: 'avge',
+    english: 'give',
+  },
+  {
+    svenska: 'avsked',
+    english: 'farewell',
+  },
+  {
+    svenska: 'avfyra',
+    english: 'fire',
+  },
+  {
+    svenska: 'avskeda',
+    english: 'dismiss, fire',
   },
   {
     svenska: 'avskyr',
@@ -401,12 +618,48 @@ export default [
     english: 'prosecution',
   },
   {
-    svenska: 'åtgärda',
+    svenska: 'återskappa',
+    english: 'reproduce',
+  },
+  {
+    svenska: 'återhämta',
+    english: 'recovering',
+  },
+  {
+    svenska: 'åtala, åtalas',
+    english: 'prosecute',
+  },
+  {
+    svenska: 'åtgärd, åtgärder',
+    english: 'workaround',
+  },
+  {
+    svenska: '',
     english: 'fix',
   },
   {
     svenska: 'astronomiska',
     english: 'astronomical',
+  },
+  {
+    svenska: 'avbryta',
+    english: 'cancel',
+  },
+  {
+    svenska: 'avbetala',
+    english: 'payoff',
+  },
+  {
+    svenska: 'avklarat',
+    english: 'completion',
+  },
+  {
+    svenska: 'avresa',
+    english: 'departure',
+  },
+  {
+    svenska: 'avseende',
+    english: 'respect',
   },
   {
     svenska: 'avsikt',
@@ -419,6 +672,10 @@ export default [
   {
     svenska: 'även om',
     english: 'although',
+  },
+  {
+    svenska: 'äventyra',
+    english: 'jeopardize',
   },
   {
     svenska: 'äventyrlig',
@@ -439,5 +696,9 @@ export default [
   {
     svenska: 'asyl',
     english: 'asylum',
+  },
+  {
+    svenska: 'attentat',
+    english: 'attack',
   },
 ];

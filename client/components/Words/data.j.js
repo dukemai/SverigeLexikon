@@ -12,6 +12,22 @@ export default [
     english: 'chase',
   },
   {
+    svenska: 'jäkt',
+    english: 'bustle',
+  },
+  {
+    svenska: 'jäkeln',
+    english: 'devil',
+  },
+  {
+    svenska: 'jakt',
+    english: 'hunting',
+  },
+  {
+    svenska: 'jakthund',
+    english: 'hunting dog',
+  },
+  {
     svenska: 'jobbig',
     english: 'hard',
   },
@@ -38,5 +54,13 @@ export default [
   {
     svenska: 'juridik',
     english: 'law',
+  },
+  {
+    svenska: 'juster, justeras',
+    english: 'adjustment',
+  },
+  {
+    svenska: 'justerbar, reglerbar',
+    english: 'adjustable',
   },
 ];

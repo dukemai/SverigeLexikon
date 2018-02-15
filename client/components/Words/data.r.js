@@ -4,6 +4,10 @@ export default [
     english: 'correct me if I am wrong',
   },
   {
+    svenska: 'Räv',
+    english: 'fox',
+  },
+  {
     svenska: 'rättigheterna',
     english: 'rights',
   },
@@ -20,12 +24,20 @@ export default [
     english: 'ice channel',
   },
   {
-    svenska: 'råkade',
+    svenska: 'rått',
+    english: 'ratt',
+  },
+  {
+    svenska: 'rån',
+    english: 'robbery',
+  },
+  {
+    svenska: 'råka, råkade',
     english: 'happened',
   },
   {
-    svenska: 'råkade',
-    english: 'happened',
+    svenska: 'råkat',
+    english: 'victim',
   },
   {
     svenska: 'rabatter',
@@ -44,16 +56,28 @@ export default [
     english: 'race',
   },
   {
-    svenska: 'rasar',
-    english: 'rage',
+    svenska: 'rasar, raseri',
+    english: 'rage, collapse',
   },
   {
     svenska: 'råvarar, rårvaror',
     english: 'raw',
   },
   {
+    svenska: 'råkar',
+    english: 'rook, chance, happen',
+  },
+  {
     svenska: 'radera',
     english: 'delete',
+  },
+  {
+    svenska: 'rad, raden',
+    english: 'line',
+  },
+  {
+    svenska: 'rand, ränder',
+    english: 'stripe',
   },
   {
     svenska: 'randig',
@@ -68,6 +92,14 @@ export default [
     english: 'regulation',
   },
   {
+    svenska: 'reder ut',
+    english: 'solve',
+  },
+  {
+    svenska: 'ren, renare',
+    english: 'clean',
+  },
+  {
     svenska: 'rengöring',
     english: 'cleaning',
   },
@@ -80,13 +112,33 @@ export default [
     english: 'advice',
   },
   {
+    svenska: 'rådjur',
+    english: 'deer',
+  },
+  {
+    svenska: 'rådgivningen',
+    english: 'advisory',
+  },
+  {
     svenska: 'råda, råder',
     english: 'give advice',
+  },
+  {
+    svenska: 'rädda',
+    english: 'rescue',
+  },
+  {
+    svenska: 'rädsla',
+    english: 'fear',
   },
   {
     svenska: 'rädd',
     english: 'afraid',
     example: 'rädd för',
+  },
+  {
+    svenska: 'räddning',
+    english: 'emergency',
   },
   {
     svenska: 'redaktör, redaktörer',
@@ -97,6 +149,10 @@ export default [
     english: 'risotto',
   },
   {
+    svenska: 'risig',
+    english: 'scrubby',
+  },
+  {
     svenska: 'rispad',
     english: 'scratched',
   },
@@ -105,11 +161,19 @@ export default [
     english: 'shave',
   },
   {
+    svenska: 'rak',
+    english: 'straight',
+  },
+  {
+    svenska: 'raket',
+    english: 'rocket',
+  },
+  {
     svenska: 'rakt fram',
     english: 'straight on',
   },
   {
-    svenska: 'ramla, ramlade',
+    svenska: 'ramla, ramlar, ramlade',
     english: 'fall',
   },
   {
@@ -133,6 +197,10 @@ export default [
     english: 'reclamation',
   },
   {
+    svenska: 'rekrytera',
+    english: 'recruit',
+  },
+  {
     svenska: 'rekrytering',
     english: 'recruitment',
   },
@@ -141,8 +209,16 @@ export default [
     english: 'director',
   },
   {
-    svenska: 'regler',
+    svenska: 'i regel',
+    english: 'in almost cases',
+  },
+  {
+    svenska: 'regel, regler',
     english: 'rules, regulations',
+  },
+  {
+    svenska: 'rast, rasta',
+    english: 'rest, break',
   },
   {
     svenska: 'en rest',
@@ -154,16 +230,36 @@ export default [
     example: 'resa omkring',
   },
   {
+    svenska: 'resurser',
+    english: 'resource',
+  },
+  {
     svenska: 'resultatlista',
     english: 'result list',
+  },
+  {
+    svenska: 'reta',
+    english: 'irritate, tease, excite',
   },
   {
     svenska: 'retur',
     english: 'return ticket',
   },
   {
+    svenska: 'revben',
+    english: 'rib',
+  },
+  {
     svenska: 'revisionsbyrå',
     english: 'firm',
+  },
+  {
+    svenska: 'revolutionera, revolutionerat',
+    english: 'revolution',
+  },
+  {
+    svenska: 'revidering',
+    english: 'revision',
   },
   {
     svenska: 'revisionsfirman',
@@ -174,6 +270,10 @@ export default [
     english: 'guide',
   },
   {
+    svenska: 'ren',
+    english: 'clean',
+  },
+  {
     svenska: 'rensa, rensade',
     english: 'clean',
     example: 'rensa fisk, rensa bokhyllan',
@@ -181,6 +281,10 @@ export default [
   {
     svenska: 'redo',
     english: 'ready',
+  },
+  {
+    svenska: 'redogöra',
+    english: 'describe',
   },
   {
     svenska: 'reda',
@@ -215,8 +319,28 @@ export default [
     english: 'rival',
   },
   {
-    svenska: 'rikta, riktade',
+    svenska: 'river',
+    english: 'tear down',
+  },
+  {
+    svenska: 'riks',
+    english: 'national',
+  },
+  {
+    svenska: 'rike',
+    english: 'kingdom',
+  },
+  {
+    svenska: 'riksdagen',
+    english: 'parliament',
+  },
+  {
+    svenska: 'rikta, riktade, riktar',
     english: 'direct',
+  },
+  {
+    svenska: 'riktning',
+    english: 'direction',
   },
   {
     svenska: 'riktig',
@@ -231,8 +355,16 @@ export default [
     english: 'voice',
   },
   {
+    svenska: 'röntgas',
+    english: 'xray, radiographed',
+  },
+  {
     svenska: 'rök, rökt',
     english: 'smoked',
+  },
+  {
+    svenska: 'röntgen',
+    english: 'x-ray',
   },
   {
     svenska: 'roll',
@@ -247,9 +379,17 @@ export default [
     english: 'pipe',
   },
   {
+    svenska: 'rörlig',
+    english: 'movable',
+  },
+  {
     svenska: 'rösta (på)',
     english: 'vote',
     example: 'tummerösta',
+  },
+  {
+    svenska: 'omröstning',
+    english: 'vote',
   },
   {
     svenska: 'rörelse',
@@ -264,11 +404,15 @@ export default [
     english: 'have fun',
   },
   {
-    svenska: 'en runda',
+    svenska: 'rot',
+    english: 'root',
+  },
+  {
+    svenska: 'en runda, rund',
     english: 'round',
   },
   {
-    svenska: 'rubricera',
+    svenska: 'rubricera, rubricerar',
     english: 'classify',
   },
   {
@@ -276,12 +420,28 @@ export default [
     english: 'around',
   },
   {
+    svenska: 'rusa, rusar, rusade',
+    english: 'hurry, rushing',
+  },
+  {
     svenska: 'rutan',
     english: 'box',
   },
   {
+    svenska: 'ruter',
+    english: 'diamonds',
+  },
+  {
     svenska: 'rutig',
     english: 'checked',
+  },
+  {
+    svenska: 'rullstol',
+    english: 'wheel chair',
+  },
+  {
+    svenska: 'rutin, rutinerna',
+    english: 'routine',
   },
   {
     svenska: 'ett ruta',
@@ -290,6 +450,10 @@ export default [
   {
     svenska: 'ryggsäck',
     english: 'backpack',
+  },
+  {
+    svenska: 'rysare',
+    english: 'thriller',
   },
   {
     svenska: 'ryms',

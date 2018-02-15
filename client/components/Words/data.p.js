@@ -1,7 +1,23 @@
 export default [
   {
+    svenska: 'påsta',
+    english: 'claim',
+  },
+  {
     svenska: 'påstående',
-    english: 'statement',
+    english: 'statement, claim',
+  },
+  {
+    svenska: 'pålitlig, pålitliga',
+    english: 'reliable, trustable',
+  },
+  {
+    svenska: 'passa',
+    english: 'fit, be suitable',
+  },
+  {
+    svenska: 'passa på',
+    english: 'seize the moment, take the oppurtunity',
   },
   {
     svenska: 'patent',
@@ -14,6 +30,18 @@ export default [
   {
     svenska: 'palaset',
     english: 'palace',
+  },
+  {
+    svenska: 'pall',
+    english: 'stool',
+  },
+  {
+    svenska: 'panna',
+    english: 'forehead',
+  },
+  {
+    svenska: 'panikslagen, panikslagna',
+    english: 'panic',
   },
   {
     svenska: 'pappersmassa',
@@ -44,12 +72,24 @@ export default [
     english: 'parties',
   },
   {
+    svenska: 'påfund',
+    english: 'figment',
+  },
+  {
     svenska: 'para',
     english: 'pair',
   },
   {
+    svenska: 'parasit',
+    english: 'parasite',
+  },
+  {
+    svenska: 'parafras',
+    english: 'paraphrase',
+  },
+  {
     svenska: 'en pärm, pärmen, pärmar, pärmarna',
-    english: 'folder',
+    english: 'folder, binder',
   },
   {
     svenska: 'ett påsklov',
@@ -98,6 +138,10 @@ export default [
     english: 'personally',
   },
   {
+    svenska: 'pensionerade',
+    english: 'retired',
+  },
+  {
     svenska: 'pensioneras',
     english: 'retiring',
   },
@@ -106,8 +150,8 @@ export default [
     english: 'pensioner',
   },
   {
-    svenska: 'pendlar',
-    english: 'commute',
+    svenska: 'pendla, pendlar',
+    english: 'commute, vibrate',
   },
   {
     svenska: 'personaliga',
@@ -134,7 +178,23 @@ export default [
     english: 'garment',
   },
   {
-    svenska: 'plötsligt',
+    svenska: 'plåster',
+    english: 'patch',
+  },
+  {
+    svenska: 'platsangivelser',
+    english: 'location accuracy',
+  },
+  {
+    svenska: 'plikten',
+    english: 'secrecy',
+  },
+  {
+    svenska: 'pliktexemplar ',
+    english: 'legacy deposit',
+  },
+  {
+    svenska: 'plötslig, plötsligt',
     english: 'suddenly',
   },
   {
@@ -146,20 +206,48 @@ export default [
     english: 'pick up',
   },
   {
+    svenska: 'praktisk',
+    english: 'practical',
+  },
+  {
     svenska: 'presentera',
     english: 'introduce',
   },
   {
-    svenska: 'prick',
+    svenska: 'prestanda',
+    english: 'performance',
+  },
+  {
+    svenska: 'prick, punkt, pricka, punkter',
     english: 'dot',
+  },
+  {
+    svenska: 'prickig',
+    english: 'dotted',
+  },
+  {
+    svenska: 'pristagare',
+    english: 'laureate',
   },
   {
     svenska: 'presstalesperson',
     english: 'spokesperson',
   },
   {
+    svenska: 'prutt',
+    english: 'fart',
+  },
+  {
+    svenska: 'plåta',
+    english: 'take photo',
+  },
+  {
     svenska: 'plugga',
     english: 'study',
+  },
+  {
+    svenska: 'plugghäst',
+    english: 'learning chair',
   },
   {
     svenska: 'peka på',
@@ -174,8 +262,28 @@ export default [
     english: 'pirate copies',
   },
   {
+    svenska: 'procenten',
+    english: 'percentage',
+  },
+  {
+    svenska: 'ett prospect',
+    english: 'prospect',
+  },
+  {
+    svenska: 'proppa i sig, proppar, proppade',
+    english: 'stuff oneself (with food)',
+  },
+  {
+    svenska: 'protestera',
+    english: 'protest',
+  },
+  {
     svenska: 'protestantismen',
     english: 'Protestantism',
+  },
+  {
+    svenska: 'problematiskt',
+    english: 'problematic',
   },
   {
     svenska: 'promenera',
@@ -218,7 +326,7 @@ export default [
     english: 'popularly',
   },
   {
-    svenska: 'puss',
+    svenska: 'puss, pussar',
     english: 'kiss',
   },
   {

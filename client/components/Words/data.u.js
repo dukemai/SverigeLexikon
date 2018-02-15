@@ -4,16 +4,32 @@ export default [
     english: 'exception',
   },
   {
+    svenska: 'umami',
+    english: 'umami',
+  },
+  {
     svenska: 'umgänge',
     english: 'intercourse',
+  },
+  {
+    svenska: 'udda',
+    english: 'odd',
+  },
+  {
+    svenska: 'umgås',
+    english: 'socialize',
   },
   {
     svenska: 'undan',
     english: 'away',
   },
   {
-    svenska: 'utföra',
-    english: 'perform',
+    svenska: 'undervisning',
+    english: 'teaching',
+  },
+  {
+    svenska: 'utföra, utförde',
+    english: 'perform, execute',
   },
   {
     svenska: 'utomlands',
@@ -28,6 +44,10 @@ export default [
     english: 'wonderful',
   },
   {
+    svenska: 'underlag',
+    english: 'basis',
+  },
+  {
     svenska: 'Underhåll',
     english: 'maintainance',
   },
@@ -36,12 +56,44 @@ export default [
     english: 'entertainment',
   },
   {
+    svenska: 'utåtriktad',
+    english: 'outward',
+  },
+  {
+    svenska: 'utkast',
+    english: 'draft',
+  },
+  {
+    svenska: 'utöka',
+    english: 'broaden',
+  },
+  {
+    svenska: 'utse, utsett',
+    english: 'appoint, norminate',
+  },
+  {
     svenska: 'utseende',
     english: 'appearance',
   },
   {
+    svenska: 'uppleve',
+    english: 'experience',
+  },
+  {
+    svenska: 'uppkoppling',
+    english: 'connectivity',
+  },
+  {
+    svenska: 'upplevelse',
+    english: 'experience',
+  },
+  {
     svenska: 'upptäcka, upptäcker, hittade på',
-    english: 'discover',
+    english: 'discover, detect',
+  },
+  {
+    svenska: 'upptrissad',
+    english: 'distorted',
   },
   {
     svenska: 'uppfinns, uppfann',
@@ -52,6 +104,10 @@ export default [
     english: 'inventor',
   },
   {
+    svenska: 'uppfylla',
+    english: 'satisfy, fill-up',
+  },
+  {
     svenska: 'utmålas',
     english: 'portrayed',
   },
@@ -60,12 +116,20 @@ export default [
     english: 'challenge',
   },
   {
-    svenska: 'utmärk',
+    svenska: 'utmärk, utmärkt',
     english: 'excellent',
   },
   {
     svenska: 'uttrycka',
     english: 'express',
+  },
+  {
+    svenska: 'uttryme',
+    english: 'space',
+  },
+  {
+    svenska: 'utdelning',
+    english: 'dividend',
   },
   {
     svenska: 'utdragen',
@@ -88,16 +152,28 @@ export default [
     english: 'investigation',
   },
   {
-    svenska: 'utredning',
-    english: 'investigation',
+    svenska: 'utreda, utretts',
+    english: 'investigate',
   },
   {
     svenska: 'undersökning',
     english: 'investigation',
   },
   {
-    svenska: 'undvika',
+    svenska: 'underlivet',
+    english: 'genital',
+  },
+  {
+    svenska: 'Undvik, undvika',
     english: 'avoid',
+  },
+  {
+    svenska: 'undviklig',
+    english: 'avoidable',
+  },
+  {
+    svenska: 'universum',
+    english: 'universe',
   },
   {
     svenska: 'utreds efter',
@@ -120,15 +196,35 @@ export default [
     english: 'approximately',
   },
   {
+    svenska: 'ungdomar',
+    english: 'adolescents',
+  },
+  {
     svenska: 'Urbanisering',
     english: 'Urbanization',
+  },
+  {
+    svenska: 'uttalande',
+    english: 'statement',
+  },
+  {
+    svenska: 'uttaget',
+    english: 'socket, withdraw',
+  },
+  {
+    svenska: 'uttömmande',
+    english: 'exhaustive',
   },
   {
     svenska: 'utanför',
     english: 'outside',
   },
   {
-    svenska: 'ursprungsbefolkning',
+    svenska: 'ursäkt',
+    english: 'excuse',
+  },
+  {
+    svenska: 'urbefolkning, ursprungsbefolkning',
     english: 'indigenous',
   },
   {
@@ -136,8 +232,12 @@ export default [
     english: 'offer',
   },
   {
-    svenska: 'utsättas',
+    svenska: 'utsättas, utsatt, utsätta',
     english: 'exposed',
+  },
+  {
+    svenska: 'Utländska',
+    english: 'foreign',
   },
   {
     svenska: 'uråldrig',
@@ -148,6 +248,10 @@ export default [
     english: 'delete',
   },
   {
+    svenska: 'utgöra',
+    english: 'represent',
+  },
+  {
     svenska: 'utgiften',
     english: 'cost',
   },
@@ -156,8 +260,16 @@ export default [
     english: 'outdoor seat',
   },
   {
+    svenska: 'utebliven',
+    english: 'non, absent of',
+  },
+  {
     svenska: 'Utvärdera',
     english: 'evaluate',
+  },
+  {
+    svenska: 'utvärtes',
+    english: 'external',
   },
   {
     svenska: 'utomhus',
@@ -166,6 +278,18 @@ export default [
   {
     svenska: 'utvisa',
     english: 'show',
+  },
+  {
+    svenska: 'utvisas',
+    english: 'expelled',
+  },
+  {
+    svenska: 'utvisning',
+    english: 'expulsion',
+  },
+  {
+    svenska: 'utslag',
+    english: 'rash',
   },
   {
     svenska: 'utställning, utställningen',
@@ -184,6 +308,10 @@ export default [
     english: 'origin',
   },
   {
+    svenska: 'ursprungligen',
+    english: 'originally',
+  },
+  {
     svenska: 'utsikt, syn',
     english: 'view',
   },
@@ -200,7 +328,27 @@ export default [
     english: 'equipment',
   },
   {
-    svenska: 'uppmanas',
+    svenska: 'utbilda, utbildar',
+    english: 'educate, instruct',
+  },
+  {
+    svenska: 'upphöra, upphör',
+    english: 'cease, stop',
+  },
+  {
+    svenska: 'uppfatta, uppfattar, uppfattade',
+    english: 'understand, catch',
+  },
+  {
+    svenska: 'uppfattning',
+    english: 'perception',
+  },
+  {
+    svenska: 'uppföda, uppföder, uppfödde, uppfött',
+    english: 'raise(animal)',
+  },
+  {
+    svenska: 'uppmanas, uppmanades',
     english: 'encouraged',
   },
   {
@@ -208,12 +356,44 @@ export default [
     english: 'attention',
   },
   {
-    svenska: 'uppmärksammat',
+    svenska: 'uppmärksam',
     english: 'attentative',
   },
   {
-    svenska: 'uppsägning',
-    english: 'termination',
+    svenska: 'uppmärksamma',
+    english: 'pay attention to',
+  },
+  {
+    svenska: 'uppnå',
+    english: 'achieve',
+  },
+  {
+    svenska: 'uppsöka',
+    english: 'seek',
+  },
+  {
+    svenska: 'uppskatta',
+    english: 'estimate',
+  },
+  {
+    svenska: 'uppskattning',
+    english: 'estimation',
+  },
+  {
+    svenska: 'uppställning',
+    english: 'line-up',
+  },
+  {
+    svenska: 'uppstå',
+    english: 'arise',
+  },
+  {
+    svenska: 'uppsving',
+    english: 'boost',
+  },
+  {
+    svenska: 'uppsägning, uppsägningen',
+    english: 'work termination',
   },
   {
     svenska: 'upptagen',
@@ -224,8 +404,20 @@ export default [
     english: 'upturn',
   },
   {
-    svenska: 'uppger',
-    english: 'state',
+    svenska: 'uppåt',
+    english: 'upward',
+  },
+  {
+    svenska: 'uppåtgående',
+    english: 'upward',
+  },
+  {
+    svenska: 'uppger, uppges',
+    english: 'state, report',
+  },
+  {
+    svenska: 'upprörd',
+    english: 'upset',
   },
   {
     svenska: 'upprätthålla',
@@ -242,7 +434,11 @@ export default [
   },
   {
     svenska: 'utvecklingsavdelningen',
-    english: 'development',
+    english: 'development section',
+  },
+  {
+    svenska: 'urval, urvalet',
+    english: 'sample',
   },
   {
     svenska: 'Uppehållstillstånd',

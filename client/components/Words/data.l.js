@@ -1,11 +1,15 @@
 export default [
   {
-    svenska: 'ett laderm',
+    svenska: 'larm, ett laderm',
     english: 'alarm',
   },
   {
     svenska: 'läkemedel',
     english: 'drug',
+  },
+  {
+    svenska: 'längden',
+    english: 'length',
   },
   {
     svenska: 'längst bak',
@@ -14,6 +18,10 @@ export default [
   {
     svenska: 'längtan',
     english: 'longing',
+  },
+  {
+    svenska: 'länet',
+    english: 'country',
   },
   {
     svenska: 'ett lakan, lakanen',
@@ -36,11 +44,19 @@ export default [
     english: 'launch',
   },
   {
+    svenska: 'landstinget',
+    english: 'council',
+  },
+  {
+    svenska: 'landstingsägda',
+    english: 'county-owned',
+  },
+  {
     svenska: 'landskap',
     english: 'landscape',
   },
   {
-    svenska: 'lappar',
+    svenska: 'lapp, lappar',
     english: 'patch',
   },
   {
@@ -56,12 +72,20 @@ export default [
     english: 'put myself to sleep',
   },
   {
-    svenska: 'lagra',
+    svenska: 'lagra, lagrar, lagrade, lagrat',
     english: 'store(v)',
   },
   {
     svenska: 'lagom',
     english: 'just right',
+  },
+  {
+    svenska: 'lag',
+    english: 'law',
+  },
+  {
+    svenska: 'lager',
+    english: 'stock',
   },
   {
     svenska: 'lagerrensning',
@@ -74,6 +98,10 @@ export default [
   {
     svenska: 'lagstifning',
     english: 'legislation',
+  },
+  {
+    svenska: 'lat',
+    english: 'lazy',
   },
   {
     svenska: 'lära, lär, lärde, lärt',
@@ -96,28 +124,48 @@ export default [
     english: 'Reading comprehension',
   },
   {
-    svenska: 'Läskigt',
-    english: 'creepy',
+    svenska: 'läskig, Läskigt',
+    english: 'scary, creepy',
   },
   {
     svenska: 'låga',
     english: 'low',
   },
   {
+    svenska: 'låga',
+    english: 'flame, lågan, lågor',
+  },
+  {
     svenska: 'låsa, låst',
     english: 'lock',
+  },
+  {
+    svenska: 'lastbil',
+    english: 'truck',
   },
   {
     svenska: 'låt',
     english: 'let, sound, allow',
   },
   {
-    svenska: 'låten',
+    svenska: 'låtar, låten',
     english: 'the song',
+  },
+  {
+    svenska: 'legitimerade',
+    english: 'legitimized',
   },
   {
     svenska: 'leta',
     english: 'look',
+  },
+  {
+    svenska: 'leta upp',
+    english: 'find',
+  },
+  {
+    svenska: 'lever',
+    english: 'supplier',
   },
   {
     svenska: 'leverantör',
@@ -126,6 +174,14 @@ export default [
   {
     svenska: 'lägga ut',
     english: 'lay out',
+  },
+  {
+    svenska: 'lägglig till',
+    english: 'convenient',
+  },
+  {
+    svenska: 'lägg av',
+    english: 'stop it',
   },
   {
     svenska: 'lägre',
@@ -140,15 +196,31 @@ export default [
     english: 'location',
   },
   {
+    svenska: 'lådsidor',
+    english: 'drawer',
+  },
+  {
+    svenska: 'lamm',
+    english: 'lamb',
+  },
+  {
     svenska: 'en lampa, lampor',
     english: 'lamp',
   },
   {
-    svenska: 'lämpliga',
+    svenska: 'lamslår',
+    english: 'crippling',
+  },
+  {
+    svenska: 'lår',
+    english: 'thigh',
+  },
+  {
+    svenska: 'lämplig, lämpliga',
     english: 'suitable',
   },
   {
-    svenska: 'ledamot',
+    svenska: 'ledamot, ledamöter',
     english: 'member',
   },
   {
@@ -161,8 +233,36 @@ export default [
     example: 'leder till = resultera',
   },
   {
+    svenska: 'lem',
+    english: 'limb',
+  },
+  {
     svenska: 'leva',
     english: 'live',
+  },
+  {
+    svenska: 'liga',
+    english: 'league',
+  },
+  {
+    svenska: 'liknelse',
+    english: 'parable',
+  },
+  {
+    svenska: 'löd',
+    english: 'solder',
+  },
+  {
+    svenska: 'lögn',
+    english: 'lie',
+  },
+  {
+    svenska: 'lögndetektor',
+    english: 'polygraph',
+  },
+  {
+    svenska: 'löjligt ',
+    english: 'ridiculously',
   },
   {
     svenska: 'lönespecifikation ',
@@ -190,6 +290,18 @@ export default [
     example: 'lika mycket',
   },
   {
+    svenska: 'liksom',
+    english: 'as well as',
+  },
+  {
+    svenska: 'lindra',
+    english: 'relieve',
+  },
+  {
+    svenska: 'linjal',
+    english: 'ruler',
+  },
+  {
     svenska: 'lindrigt',
     english: 'gentle, mild',
   },
@@ -208,6 +320,10 @@ export default [
   {
     svenska: 'lita, litar, förtrösta',
     english: 'trust',
+  },
+  {
+    svenska: 'litad',
+    english: 'trusted',
   },
   {
     svenska: 'livräddande',
@@ -230,6 +346,14 @@ export default [
     english: 'salary',
   },
   {
+    svenska: 'löper',
+    english: 'run',
+  },
+  {
+    svenska: 'löper ut',
+    english: 'expires',
+  },
+  {
     svenska: 'löpning',
     english: 'running',
   },
@@ -238,8 +362,25 @@ export default [
     english: 'loose',
   },
   {
+    svenska: 'lösspringande',
+    english: 'free running',
+  },
+  {
     svenska: 'lösa',
     english: 'solve',
+  },
+  {
+    svenska: 'lossa',
+    english: 'unload, lose',
+  },
+  {
+    svenska: 'avlossats',
+    english: 'fired',
+    example: ' Ett skott har avlossats',
+  },
+  {
+    svenska: 'lösöre',
+    english: 'movable property',
   },
   {
     svenska: 'en lösning',
@@ -251,7 +392,19 @@ export default [
   },
   {
     svenska: 'lov',
+    english: 'offer',
+  },
+  {
+    svenska: 'lov',
     english: 'permission',
+  },
+  {
+    svenska: 'lovlig',
+    english: 'lawful',
+  },
+  {
+    svenska: 'lovar',
+    english: 'promise',
   },
   {
     svenska: 'löparskor',
@@ -262,8 +415,16 @@ export default [
     english: 'leave',
   },
   {
-    svenska: 'lurad',
+    svenska: 'lura, lurat',
+    english: 'trick',
+  },
+  {
+    svenska: 'lurad, lurade',
     english: 'cheated',
+  },
+  {
+    svenska: 'lugg',
+    english: 'pile',
   },
   {
     svenska: 'lugn, lugnare',
@@ -274,27 +435,55 @@ export default [
     english: 'smelled',
   },
   {
+    svenska: 'lunga',
+    english: 'lung',
+  },
+  {
+    svenska: 'lungsäck',
+    english: 'pleura',
+  },
+  {
     svenska: 'lust',
     english: 'want, desire',
+  },
+  {
+    svenska: 'luft',
+    english: 'air',
+  },
+  {
+    svenska: 'luftig',
+    english: 'airy',
+  },
+  {
+    svenska: 'luff',
+    english: 'luff',
   },
   {
     svenska: 'luftföroreningar',
     english: 'air pollution',
   },
   {
+    svenska: 'luftrörskatarr',
+    english: 'respiratory tract.',
+  },
+  {
     svenska: 'lycklig',
     english: 'happy',
   },
   {
-    svenska: 'lyckades',
+    svenska: 'lyckas, lyckades',
     english: 'managed',
   },
   {
-    svenska: 'lyfter',
+    svenska: 'lyckad, lyckats',
+    english: 'successful',
+  },
+  {
+    svenska: 'lyfta, lyfter',
     english: 'lifts',
   },
   {
-    svenska: 'lyxigt',
+    svenska: 'lyxigt, lyx',
     english: 'luxurious',
   },
   {

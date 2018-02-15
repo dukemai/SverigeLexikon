@@ -12,12 +12,28 @@ export default [
     english: 'warn',
   },
   {
+    svenska: 'varken',
+    english: 'neither',
+  },
+  {
+    svenska: 'vars',
+    english: 'whose',
+  },
+  {
+    svenska: 'varsin',
+    english: 'each',
+  },
+  {
     svenska: 'vandrar',
     english: 'wanders',
   },
   {
     svenska: 'Vaktmästarna',
     english: 'ushers',
+  },
+  {
+    svenska: 'vaken',
+    english: 'awake',
   },
   {
     svenska: 'vaksamma',
@@ -44,16 +60,40 @@ export default [
     english: 'path',
   },
   {
-    svenska: 'väga',
-    english: 'weight',
+    svenska: 'vävd',
+    english: 'woven',
   },
   {
-    svenska: 'vågar, vågade',
+    svenska: 'väga',
+    english: 'weight, go',
+  },
+  {
+    svenska: 'våga, vågar, vågade, vågat',
     english: 'dare',
+  },
+  {
+    svenska: 'vågrätt',
+    english: 'horizontally',
+  },
+  {
+    svenska: 'valår',
+    english: 'election year',
+  },
+  {
+    svenska: 'valfritt',
+    english: 'optionally',
   },
   {
     svenska: 'vann',
     english: 'water',
+  },
+  {
+    svenska: 'vapen',
+    english: 'weaponry',
+  },
+  {
+    svenska: 'vas',
+    english: 'vase',
   },
   {
     svenska: 'vapenbrott',
@@ -61,7 +101,7 @@ export default [
   },
   {
     svenska: 'växeln',
-    english: 'the change',
+    english: 'the change, the shift',
     example: 'behåll växeln',
   },
   {
@@ -86,6 +126,14 @@ export default [
     english: 'spring',
   },
   {
+    svenska: 'vårdar',
+    english: 'foster',
+  },
+  {
+    svenska: 'vårdnad',
+    english: 'custody',
+  },
+  {
     svenska: 'våning',
     english: 'floor',
   },
@@ -104,6 +152,11 @@ export default [
   {
     svenska: 'vanligaste',
     english: 'most common',
+  },
+  {
+    svenska: 'vänlig',
+    english: 'friendly',
+    example: 'barnvänlig',
   },
   {
     svenska: 'vänligen',
@@ -130,6 +183,10 @@ export default [
     english: 'expected',
   },
   {
+    svenska: 'väntrum',
+    english: 'waiting room',
+  },
+  {
     svenska: 'värt',
     english: 'worth',
   },
@@ -138,12 +195,20 @@ export default [
     english: 'living room',
   },
   {
+    svenska: 'vardera',
+    english: 'each',
+  },
+  {
     svenska: 'ett varuhus',
     english: 'department store',
   },
   {
+    svenska: 'vattentätt',
+    english: 'water proof',
+  },
+  {
     svenska: 'vattensprinkler',
-    english: 'dwater sprinkler',
+    english: 'water sprinkler',
   },
   {
     svenska: 'vänster',
@@ -157,6 +222,21 @@ export default [
   {
     svenska: 'västkusten, ostkusten',
     english: 'west coast, east coast',
+  },
+  {
+    svenska: 'väsentliga',
+    english: 'essential',
+    example: '',
+  },
+  {
+    svenska: 'värde',
+    english: 'value',
+    example: '',
+  },
+  {
+    svenska: 'värdera, värderar, värderade',
+    english: 'value, appreciate',
+    example: '',
   },
   {
     svenska: 'värderat',
@@ -184,7 +264,7 @@ export default [
     example: '',
   },
   {
-    svenska: 'våld',
+    svenska: 'våld, våldet',
     english: 'violence',
     example: '',
   },
@@ -199,6 +279,11 @@ export default [
     example: '',
   },
   {
+    svenska: 'välfärd',
+    english: 'welfare',
+    example: '',
+  },
+  {
     svenska: 'varannan',
     english: 'every other',
   },
@@ -207,8 +292,28 @@ export default [
     english: 'really, serious',
   },
   {
+    svenska: 'ven',
+    english: 'vein',
+    example: '',
+  },
+  {
+    svenska: 'ventilerar, ventilera',
+    english: 'ventilate, debate, discuss',
+    example: '',
+  },
+  {
+    svenska: 'veck',
+    english: 'fold',
+    example: '',
+  },
+  {
     svenska: 'verkligheten',
     english: 'real',
+    example: '',
+  },
+  {
+    svenska: 'verk, verket',
+    english: 'produce, plant, set, put',
     example: '',
   },
   {
@@ -222,12 +327,37 @@ export default [
     example: '',
   },
   {
+    svenska: 'vete',
+    english: 'wheat',
+    example: '',
+  },
+  {
+    svenska: 'vetig',
+    english: 'sense',
+    example: '',
+  },
+  {
+    svenska: 'veterligen',
+    english: 'known to',
+    example: '',
+  },
+  {
     svenska: 'veterinär',
     english: 'veterinary',
     example: '',
   },
   {
-    svenska: 'verkstaden',
+    svenska: 'verkställa',
+    english: 'execute',
+    example: '',
+  },
+  {
+    svenska: 'verkställighet',
+    english: 'execution',
+    example: '',
+  },
+  {
+    svenska: 'verkstad, verkstaden',
     english: 'workshop',
     example: '',
   },
@@ -247,6 +377,16 @@ export default [
     example: '',
   },
   {
+    svenska: 'vifta, viftar, viftade',
+    english: 'fan, wave',
+    example: '',
+  },
+  {
+    svenska: 'Vidrigt',
+    english: 'sickening',
+    example: '',
+  },
+  {
     svenska: 'vigseln',
     english: 'wedding ceremony',
     example: '',
@@ -257,9 +397,14 @@ export default [
     example: '',
   },
   {
-    svenska: 'vilja, vill, ville',
+    svenska: 'vilja, vill, ville, velat',
     english: 'want',
     example: 'det var det jag ville berätta om mig själv. det var lite om mig',
+  },
+  {
+    svenska: 'vimlet',
+    english: 'throng',
+    example: '',
   },
   {
     svenska: 'vidare',
@@ -267,13 +412,28 @@ export default [
     example: '',
   },
   {
-    svenska: 'vidta',
+    svenska: 'vidta, vidtog',
     english: 'take',
     example: '',
   },
   {
-    svenska: 'viss',
+    svenska: 'visdom',
+    english: 'wisdom',
+    example: '',
+  },
+  {
+    svenska: 'viss, vissa',
     english: 'certain',
+    example: '',
+  },
+  {
+    svenska: 'visserlingen',
+    english: 'although',
+    example: '',
+  },
+  {
+    svenska: 'vinkel',
+    english: 'angle',
     example: '',
   },
   {
@@ -284,6 +444,16 @@ export default [
   {
     svenska: 'inget vidare',
     english: 'not particularly',
+    example: '',
+  },
+  {
+    svenska: 'vik',
+    english: 'bay',
+    example: '',
+  },
+  {
+    svenska: 'vikariera',
+    english: 'substitue',
     example: '',
   },
   {
@@ -336,12 +506,57 @@ export default [
     example: '',
   },
   {
+    svenska: 'Vänja sig',
+    english: 'get used to',
+    example: '',
+  },
+  {
+    svenska: 'värk',
+    english: 'pain',
+    example: '',
+  },
+  {
+    svenska: 'värme',
+    english: 'heat',
+    example: '',
+  },
+  {
     svenska: 'en valör',
     english: 'value',
     example: '',
   },
   {
-    svenska: 'vyer',
+    svenska: 'valutafonden',
+    english: 'IMF',
+    example: '',
+  },
+  {
+    svenska: 'vräkning',
+    english: 'eviction',
+    example: '',
+  },
+  {
+    svenska: 'vrak',
+    english: 'wreck',
+    example: '',
+  },
+  {
+    svenska: 'vred, vreden',
+    english: 'knob',
+    example: '',
+  },
+  {
+    svenska: 'vrida',
+    english: 'turn',
+    example: '',
+  },
+  {
+    svenska: 'vrida, vrider sig',
+    english: 'resolve, wiggle',
+    example: '',
+  },
+  {
+    svenska: 'vy, vyer',
     english: 'view',
   },
   {

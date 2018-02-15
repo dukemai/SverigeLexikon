@@ -1,18 +1,50 @@
 export default [
   {
+    svenska: 'täcka, täckar',
+    english: 'cover',
+  },
+  {
+    svenska: 'täckt',
+    english: 'covered',
+  },
+  {
+    svenska: 'tajma',
+    english: 'time',
+  },
+  {
     svenska: 'tal',
     english: 'speech',
+  },
+  {
+    svenska: 'tänka på',
+    english: 'keep in mind',
+  },
+  {
+    svenska: 'tänja',
+    english: 'stretch',
   },
   {
     svenska: 'tag',
     english: 'while, time',
   },
   {
+    svenska: 'tagna, tagen',
+    english: 'taken',
+  },
+  {
+    svenska: 'tak, taket',
+    english: 'ceiling',
+  },
+  {
     svenska: 'på tal om',
     english: 'speaking of',
   },
   {
-    svenska: 'tal emot',
+    svenska: 'tändkött',
+    english: 'gum',
+  },
+  {
+    svenska: 'tar emot',
     english: 'receive',
   },
   {
@@ -22,6 +54,14 @@ export default [
   {
     svenska: 'tar på sig',
     english: 'takes on',
+  },
+  {
+    svenska: 'tämligen',
+    english: 'rather, quite',
+  },
+  {
+    svenska: 'tärnings',
+    english: 'dice',
   },
   {
     svenska: 'tärningsslag',
@@ -45,8 +85,24 @@ export default [
     example: 'tala om',
   },
   {
+    svenska: 'tända, tände',
+    english: 'light',
+  },
+  {
     svenska: 'tävla',
     english: 'compete',
+  },
+  {
+    svenska: 'tävling',
+    english: 'contest',
+  },
+  {
+    svenska: 'tät',
+    english: 'close, intimate',
+  },
+  {
+    svenska: 'täta',
+    english: 'tight',
   },
   {
     svenska: 'tema',
@@ -54,20 +110,28 @@ export default [
   },
   {
     svenska: 'tappar, tappade',
-    english: 'drop',
+    english: 'drop, loose',
   },
   {
     svenska: 'trång, trångt',
     english: 'narrow, crowded',
   },
   {
-    svenska: 'tankar',
+    svenska: 'tanke',
+    english: 'thought',
+  },
+  {
+    svenska: 'tanka, tankar, tankade, tankat',
     english: 'refill',
     example: 'tankar på',
   },
   {
     svenska: 'en tå, tån',
     english: 'toe',
+  },
+  {
+    svenska: 'tända',
+    english: 'light',
   },
   {
     svenska: 'tandläkare',
@@ -82,7 +146,7 @@ export default [
     english: 'cake',
   },
   {
-    svenska: 'tårar',
+    svenska: 'tår, tårar',
     english: 'tear',
   },
   {
@@ -99,15 +163,35 @@ export default [
     example: 'i teorin',
   },
   {
+    svenska: 'teoretiska',
+    english: 'theoretical',
+  },
+  {
+    svenska: 'terapeut',
+    english: 'therapist',
+  },
+  {
     svenska: 'en termometer',
     english: 'thermo meter',
+  },
+  {
+    svenska: 'en termin',
+    english: 'term',
   },
   {
     svenska: 'tjej',
     english: 'girl',
   },
   {
-    svenska: 'Tjuvarna',
+    svenska: 'tjock',
+    english: 'thick',
+  },
+  {
+    svenska: 'tjur',
+    english: 'bull',
+  },
+  {
+    svenska: 'tjuven, Tjuvarna',
     english: 'the thieves',
   },
   {
@@ -131,28 +215,51 @@ export default [
     english: 'trust',
   },
   {
+    svenska: 'tilllämpa',
+    english: 'apply',
+  },
+  {
     svenska: 'tillnyktring',
     english: 'detox',
   },
   {
-    svenska: 'tillfället',
+    svenska: 'tillfälle',
+    english: 'moment',
+  },
+  {
+    svenska: 'tillfälle, tillfället',
     english: 'currently, temporary',
+  },
+  {
+    svenska: 'tillföra',
+    english: 'SUPPLYING',
   },
   {
     svenska: 'tillvaro',
     english: 'existence',
   },
   {
-    svenska: 'Tillgänglig, tillgängliga',
+    svenska: 'tippa',
+    english: 'guess',
+  },
+  {
+    svenska: 'Tillgänglig, tillgängliga, tillgängligt',
     english: 'available',
   },
   {
     svenska: 'tillsammans',
     english: 'together',
   },
+  { svenska: 'tillskott',
+    english: 'contribution',
+  },
   {
     svenska: 'tillåtna',
     english: 'allowed',
+  },
+  {
+    svenska: 'tillställning',
+    english: 'event',
   },
   {
     svenska: 'tillstånd',
@@ -163,7 +270,11 @@ export default [
     english: 'attachment',
   },
   {
-    svenska: 'Tillträdet',
+    svenska: 'tilltala, tilltalande',
+    english: 'appeal to, speak to',
+  },
+  {
+    svenska: 'tillträde, Tillträdet',
     english: 'access',
   },
   {
@@ -173,6 +284,10 @@ export default [
   {
     svenska: 'tillväxt, tillväxten',
     english: 'growth',
+  },
+  {
+    svenska: 'tinning',
+    english: 'elbow',
   },
   {
     svenska: 'titta',
@@ -199,12 +314,24 @@ export default [
     english: 'time change',
   },
   {
+    svenska: 'tidskrifter',
+    english: 'periodicals',
+  },
+  {
     svenska: 'tidskriften',
     english: 'journal',
   },
   {
+    svenska: 'tillhöra',
+    english: 'belong',
+  },
+  {
     svenska: 'tillhandahålla',
-    english: 'providing',
+    english: 'providing, provide',
+  },
+  {
+    svenska: 'tillreder',
+    english: 'cook, prepare',
   },
   {
     svenska: 'tillräcklig',
@@ -219,7 +346,7 @@ export default [
     english: 'at last',
   },
   {
-    svenska: 'tingsrätt',
+    svenska: 'tingsrätt, tingsrätten',
     english: 'district',
   },
   {
@@ -247,8 +374,16 @@ export default [
     english: 'coincidence',
   },
   {
+    svenska: 'träff',
+    english: 'hit',
+  },
+  {
     svenska: 'traditionella, traditionsenlig',
     english: 'tradition',
+  },
+  {
+    svenska: 'träd i kraft',
+    english: 'come into effect',
   },
   {
     svenska: 'tråkig',
@@ -279,12 +414,28 @@ export default [
     english: 'booklet',
   },
   {
-    svenska: 'fällig, tillfällig, Tillfälligt',
+    svenska: 'fällig, tillfreällig, Tillfälligt',
     english: 'temporary',
+  },
+  {
+    svenska: 'tillfredsställd',
+    english: 'satisfied',
+  },
+  {
+    svenska: 'tillfredsställelse, tillfredsställelsen',
+    english: 'satisfaction',
   },
   {
     svenska: 'tom, tomma',
     english: 'empty',
+  },
+  {
+    svenska: 'tomt',
+    english: 'plot, diagram',
+  },
+  {
+    svenska: 'tolerans',
+    english: 'tolerance',
   },
   {
     svenska: 'tonlösa',
@@ -295,11 +446,27 @@ export default [
     english: 'voiced',
   },
   {
+    svenska: 'tonåring, tonåringar',
+    english: 'teenager',
+  },
+  {
+    svenska: 'torkar',
+    english: 'wipe',
+  },
+  {
     svenska: 'torkar sig',
     english: 'dry',
   },
   {
-    svenska: 'tormen',
+    svenska: 'torkare',
+    english: 'dryer',
+  },
+  {
+    svenska: 'torr',
+    english: 'dry',
+  },
+  {
+    svenska: 'torn, tormen',
     english: 'towers',
   },
   {
@@ -309,6 +476,14 @@ export default [
   {
     svenska: 'trä',
     english: 'wood',
+  },
+  {
+    svenska: 'tränga',
+    english: 'permeate, press, force, drive',
+  },
+  {
+    svenska: 'trängselskatt',
+    english: 'congestion',
   },
   {
     svenska: 'träningsvärk',
@@ -327,8 +502,20 @@ export default [
     english: 'thrive',
   },
   {
-    svenska: 'troligen',
+    svenska: 'trofast',
+    english: 'faithful',
+  },
+  {
+    svenska: 'troligen, troligtvis',
     english: 'probably',
+  },
+  {
+    svenska: 'tröstlös',
+    english: 'hopeless',
+  },
+  {
+    svenska: 'trötthet',
+    english: 'fatigue, tiredness',
   },
   {
     svenska: 'trosor',
@@ -343,6 +530,14 @@ export default [
     english: 'cross',
   },
   {
+    svenska: 'tvärtsom',
+    english: 'on the contrary',
+  },
+  {
+    svenska: 'tvingas, tvingades, tvungna',
+    english: 'forced',
+  },
+  {
     svenska: 'tvungen',
     english: 'forced',
   },
@@ -355,16 +550,48 @@ export default [
     english: 'hesitate, doubt',
   },
   {
+    svenska: 'tveksamt',
+    english: 'doubtful',
+  },
+  {
     svenska: 'tv-sända talet, tv-sändningen',
     english: 'tv broadcast',
+  },
+  {
+    svenska: 'tull, tullen',
+    english: 'custom',
+  },
+  {
+    svenska: 'tuff',
+    english: 'tough',
+  },
+  {
+    svenska: 'tuffing',
+    english: 'tough guy',
+  },
+  {
+    svenska: 'tum',
+    english: 'thumb',
   },
   {
     svenska: 'tur',
     english: 'tur, turn, tour',
   },
   {
+    svenska: 'tur är',
+    english: 'fortunately',
+  },
+  {
+    svenska: 'tunn',
+    english: 'thin',
+  },
+  {
     svenska: 'tung',
     english: 'heavy',
+  },
+  {
+    svenska: 'tunga',
+    english: 'tongue',
   },
   {
     svenska: 'ett tuggumi',
@@ -391,11 +618,27 @@ export default [
     english: 'safe, confident',
   },
   {
-    svenska: 'tyder',
-    english: 'indicate',
+    svenska: 'tyck, tycka, tycker, tyckte, tyckt',
+    english: 'think, believe',
+  },
+  {
+    svenska: 'tyda, tyder',
+    english: 'indicate, decode',
+  },
+  {
+    svenska: 'tydlig',
+    english: 'clear',
+  },
+  {
+    svenska: 'tydliggöra',
+    english: 'clarify',
   },
   {
     svenska: 'tydligt',
     english: 'clearly',
+  },
+  {
+    svenska: 'Tydligen',
+    english: 'apparently',
   },
 ];

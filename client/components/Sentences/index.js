@@ -22,7 +22,7 @@ const Sentences = () => (
           det kan vara bra att veta om...
         </li>
         <li>
-          här av mig om...
+          hör av mig om...
         </li>
         <li>
           Det verkar som att/om du saknar något
@@ -93,6 +93,93 @@ const Sentences = () => (
         <li>
           Vad sägs om att göra det här istället?
           Vad sägs om att göra så här istället?
+        </li>
+        <li>
+          här ligger en hund begraven
+        </li>
+        <li>
+          ställa i ordning
+        </li>
+        <li>
+          Hur har du det
+        </li>
+        <li>
+          Har du lust
+        </li>
+        <li>
+          Högst upp i
+        </li>
+        <li>
+          Mappar omfattning nu.
+        </li>
+        <li>
+          ingen orsak.
+        </li>
+        <li>
+           För en förstärkt.
+        </li>
+        <li>
+          tack för förklaringen
+        </li>
+        <li>
+          från början
+        </li>
+        <li>
+          Det är på tiden
+        </li>
+        <li>
+          skulle det ju kännas bättre .
+        </li>
+        <li>
+          tack vare
+        </li>
+        <li>
+          Jag är inte säker *på*
+        </li>
+        <li>
+          i varje fall
+        </li>
+        <li>
+          först efter att
+        </li>
+        <li>
+          Lämmeltåg i frukostkön
+        </li>
+        <li>
+          i så fall
+        </li>
+        <li>
+          sätta på, stänga av
+        </li>
+        <li>
+          Jag kom på att jag har en fråga (till dig)
+        </li>
+        <li>
+          i skrivande stund
+        </li>
+        <li>
+          vara med om, be involved
+        </li>
+        <li>
+          vid sidan, beside???
+        </li>
+        <li>
+          huvudsyftet, main idea
+        </li>
+        <li>
+          under huven, under the hood
+        </li>
+        <li>
+          att hålla ner
+        </li>
+        <li>
+          lång till granner
+        </li>
+        <li>
+          herregud, oh my god
+        </li>
+        <li>
+          av en slump, by chance
         </li>
       </ul>
     </CardContent>

@@ -1,15 +1,35 @@
 export default [
   {
+    svenska: 'icke',
+    english: 'non',
+  },
+  {
     svenska: 'idrottare',
     english: 'athletes',
+  },
+  {
+    svenska: 'ingripande',
+    english: 'intervention',
+  },
+  {
+    svenska: 'inträffa, inträffar, inträffade',
+    english: 'occur, occurred',
   },
   {
     svenska: 'intressant',
     english: 'interesting',
   },
   {
+    svenska: 'Intrycket, intryck',
+    english: 'the impression',
+  },
+  {
     svenska: 'komma ihåg',
     english: 'remember',
+  },
+  {
+    svenska: 'ihållande',
+    english: 'sustained',
   },
   {
     svenska: 'en ideal',
@@ -48,15 +68,15 @@ export default [
     english: 'floorball',
   },
   {
-    svenska: 'innehåller',
-    english: 'comprise',
+    svenska: 'innehåller, innehålla, innehöll',
+    english: 'comprise, contain',
   },
   {
     svenska: 'inlägg',
     english: 'post',
   },
   {
-    svenska: 'inledde',
+    svenska: 'inledde, inlett',
     english: 'initiated',
   },
   {
@@ -68,8 +88,20 @@ export default [
     english: 'possess',
   },
   {
+    svenska: 'inge',
+    english: 'inspire',
+  },
+  {
+    svenska: 'intrång',
+    english: 'infringement',
+  },
+  {
     svenska: 'inkassera',
     english: 'collect',
+  },
+  {
+    svenska: 'infaller',
+    english: 'incident',
   },
   {
     svenska: 'inför, införs',
@@ -90,6 +122,14 @@ export default [
   {
     svenska: 'införa',
     english: 'introduce',
+  },
+  {
+    svenska: 'injektion',
+    english: 'injection',
+  },
+  {
+    svenska: 'insättningar',
+    english: 'deposits',
   },
   {
     svenska: 'intilliggande',
@@ -129,11 +169,11 @@ export default [
     english: 'before',
   },
   {
-    svenska: 'insatser',
+    svenska: 'insats, insatser',
     english: 'efforts',
   },
   {
-    svenska: 'inser',
+    svenska: 'inser, insåg, insett',
     english: 'realize',
   },
   {
@@ -145,12 +185,20 @@ export default [
     english: 'elected',
   },
   {
+    svenska: 'invärtes',
+    english: 'internal',
+  },
+  {
     svenska: 'investeringar',
     english: 'investments',
   },
   {
     svenska: 'invandring',
     english: 'immigration',
+  },
+  {
+    svenska: 'inviga',
+    english: 'inaugurate',
   },
   {
     svenska: 'ingress',
@@ -161,11 +209,23 @@ export default [
     english: 'alignment',
   },
   {
+    svenska: 'inredning, inredningen',
+    english: 'furnishing, decor',
+  },
+  {
     svenska: 'en invånare',
     english: 'inhabitant',
   },
   {
+    svenska: 'Invånarantal',
+    english: 'population',
+  },
+  {
     svenska: 'inte alls, det är fel, håller inte med, absolut int',
     english: 'not at all',
+  },
+  {
+    svenska: 'integrera',
+    english: 'integrate',
   },
 ];

@@ -1,11 +1,35 @@
 export default [
   {
+    svenska: 'gärningsman',
+    english: 'offenders',
+  },
+  {
     svenska: 'gatunummer',
     english: 'street number',
   },
   {
     svenska: 'gåben',
     english: 'walk',
+  },
+  {
+    svenska: 'gardiner',
+    english: 'curtains',
+  },
+  {
+    svenska: 'galla',
+    english: 'bile',
+  },
+  {
+    svenska: 'gallring',
+    english: 'sorting out',
+  },
+  {
+    svenska: 'galningen',
+    english: 'maniac',
+  },
+  {
+    svenska: 'galen, galet',
+    english: 'crazy',
   },
   {
     svenska: 'går av stapeln',
@@ -32,16 +56,40 @@ export default [
     english: 'street',
   },
   {
+    svenska: 'garantera',
+    english: 'guarante',
+  },
+  {
     svenska: 'garderob',
     english: 'wardrobe',
+  },
+  {
+    svenska: 'genväg, omväg',
+    english: 'shortcut',
+  },
+  {
+    svenska: 'geväret',
+    english: 'shotgun',
   },
   {
     svenska: 'ett golv, golvet',
     english: 'floor',
   },
   {
+    svenska: 'grabba',
+    english: 'grab',
+  },
+  {
+    svenska: 'grabbar, grabb',
+    english: 'boys',
+  },
+  {
     svenska: 'granskningen',
     english: 'audit',
+  },
+  {
+    svenska: 'gravid',
+    english: 'pregnant',
   },
   {
     svenska: 'godkän, godkännas',
@@ -54,6 +102,10 @@ export default [
   {
     svenska: 'en gräns',
     english: 'limit',
+  },
+  {
+    svenska: 'gräva',
+    english: 'dig',
   },
   {
     svenska: 'gälla, gällande',
@@ -77,12 +129,20 @@ export default [
     example: 'i genomsnitt',
   },
   {
+    svenska: 'genomtänkt',
+    english: 'thoughtful',
+  },
+  {
+    svenska: 'gem',
+    english: 'binder',
+  },
+  {
     svenska: 'gemytliga',
     english: 'cozy',
   },
   {
     svenska: 'genomföra, genomförde',
-    english: 'complete, perform',
+    english: 'complete, perform, implement',
   },
   {
     svenska: 'gnid',
@@ -91,6 +151,10 @@ export default [
   {
     svenska: 'gissar',
     english: 'guess',
+  },
+  {
+    svenska: 'giltig',
+    english: 'valid',
   },
   {
     svenska: 'glöd',
@@ -110,8 +174,20 @@ export default [
     english: 'reviewer',
   },
   {
+    svenska: 'gränsdragningar',
+    english: 'demacrations',
+  },
+  {
+    svenska: 'grov, grovt',
+    english: 'coarse, bearish, rough',
+  },
+  {
     svenska: 'gryptor',
     english: 'stew',
+  },
+  {
+    svenska: 'gripa, greps, arrestera, gripits',
+    english: 'arrested',
   },
   {
     svenska: 'gripen',
@@ -130,7 +206,11 @@ export default [
     english: 'do-able',
   },
   {
-    svenska: 'grader',
+    svenska: 'göra en insats',
+    english: 'make an effort',
+  },
+  {
+    svenska: 'grad, grader',
     english: 'degrees',
   },
   {
@@ -138,8 +218,16 @@ export default [
     english: 'neighbors',
   },
   {
+    svenska: 'grannsamverkan',
+    english: 'neighborhood',
+  },
+  {
     svenska: 'grädde, grädden',
     english: 'cream',
+  },
+  {
+    svenska: 'gradvis',
+    english: 'gradually, steg för steg',
   },
   {
     svenska: 'gratäng',
@@ -158,6 +246,10 @@ export default [
     english: 'lawn',
   },
   {
+    svenska: 'gräslig',
+    english: 'awful',
+  },
+  {
     svenska: 'gräset',
     english: 'grass',
   },
@@ -170,6 +262,14 @@ export default [
     english: 'frontier',
   },
   {
+    svenska: 'gränsen',
+    english: 'limit',
+  },
+  {
+    svenska: 'grummit',
+    english: 'rubber',
+  },
+  {
     svenska: 'grunda, grundade',
     english: 'base',
   },
@@ -180,6 +280,10 @@ export default [
   {
     svenska: 'gulliga',
     english: 'cute',
+  },
+  {
+    svenska: 'gulnande',
+    english: 'yellowing',
   },
   {
     svenska: 'gunga',

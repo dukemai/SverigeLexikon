@@ -38,4 +38,4 @@ const App = () => (
 App.propTypes = propTypes;
 App.defaultProps = defaultProps;
 
-ReactDOM.render(<App />, document.getElementById('mainContent'))
+ReactDOM.render(<App />, document.getElementById('mainContent'));

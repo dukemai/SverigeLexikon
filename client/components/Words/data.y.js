@@ -4,6 +4,10 @@ export default [
     english: 'surface',
   },
   {
+    svenska: 'yttra',
+    english: 'speak',
+  },
+  {
     svenska: 'ytter',
     english: 'outside',
   },

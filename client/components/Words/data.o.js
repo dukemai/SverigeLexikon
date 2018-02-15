@@ -4,6 +4,14 @@ export default [
     english: 'unauthorized',
   },
   {
+    svenska: 'obehindrat',
+    english: 'unhindered',
+  },
+  {
+    svenska: 'obligatorisk',
+    english: 'compulsory',
+  },
+  {
     svenska: 'ökning',
     english: 'increase',
     example: 'prisökning',
@@ -13,12 +21,36 @@ export default [
     english: 'increase',
   },
   {
+    svenska: 'överlista, överlistar',
+    english: 'outwit, outsmart',
+  },
+  {
+    svenska: 'överleva',
+    english: 'survive',
+  },
+  {
     svenska: 'oro, oron',
-    english: 'concern',
+    english: 'concern, worry',
+  },
+  {
+    svenska: 'öppning',
+    english: 'opening ',
+  },
+  {
+    svenska: 'operativ',
+    english: 'operational',
   },
   {
     svenska: 'ordförande',
     english: 'president',
+  },
+  {
+    svenska: 'ort',
+    english: 'city',
+  },
+  {
+    svenska: 'orten',
+    english: 'resort',
   },
   {
     svenska: 'oroa, oroar, oroade',
@@ -33,6 +65,18 @@ export default [
     english: 'irregularities',
   },
   {
+    svenska: 'olycka',
+    english: 'accident',
+  },
+  {
+    svenska: 'omvärlden',
+    english: 'abroad',
+  },
+  {
+    svenska: 'omvälvande',
+    english: 'revolutionary',
+  },
+  {
     svenska: 'omläggning',
     english: 'reschedule',
   },
@@ -41,8 +85,16 @@ export default [
     english: 'reschedule',
   },
   {
+    svenska: 'omdöme',
+    english: 'opinion',
+  },
+  {
     svenska: 'omskapa',
     english: 'transform, remodel',
+  },
+  {
+    svenska: 'omsorg',
+    english: 'care',
   },
   {
     svenska: 'en omgivning, omgiviningar',
@@ -57,6 +109,14 @@ export default [
     english: 'in general',
   },
   {
+    svenska: 'övergripande',
+    english: 'overall',
+  },
+  {
+    svenska: 'överge, övergav',
+    english: 'abandon',
+  },
+  {
     svenska: 'övergrepp',
     english: 'abuse',
   },
@@ -69,8 +129,12 @@ export default [
     english: 'if I am not wrong',
   },
   {
-    svenska: 'offentlig',
+    svenska: 'offentlig, offentliga',
     english: 'public',
+  },
+  {
+    svenska: 'oftast',
+    english: 'usually',
   },
   {
     svenska: 'oförändrade',
@@ -81,16 +145,32 @@ export default [
     english: 'official',
   },
   {
-    svenska: 'omständighet, omständigheterna',
+    svenska: 'omåttlig',
+    english: 'exorbitant',
+  },
+  {
+    svenska: 'omständig, omständlig',
     english: 'circumstances',
+  },
+  {
+    svenska: 'omständighet, omständigheterna',
+    english: 'circumstantial',
   },
   {
     svenska: 'omhänderta, omhändertog',
     english: 'recover',
   },
   {
+    svenska: 'ombe',
+    english: 'ask',
+  },
+  {
     svenska: 'omfattande',
     english: 'extensive',
+  },
+  {
+    svenska: 'omedelbar, omedelbart',
+    english: 'immediately',
   },
   {
     svenska: 'ont',
@@ -109,6 +189,10 @@ export default [
     english: 'sight',
   },
   {
+    svenska: 'ögonbryn',
+    english: 'eyebrow',
+  },
+  {
     svenska: 'offer',
     english: 'victims',
   },
@@ -117,20 +201,32 @@ export default [
     english: 'island',
   },
   {
+    svenska: 'önskvärd',
+    english: 'desireable',
+  },
+  {
     svenska: 'ögonskugga',
     english: 'eye shadow',
+  },
+  {
+    svenska: 'övre',
+    english: 'upper',
   },
   {
     svenska: 'övrig',
     english: 'other',
   },
   {
-    svenska: 'ordentligt',
+    svenska: 'ordentligt, ordentlig',
     english: 'proper',
   },
   {
     svenska: 'ordna',
     english: 'arrange',
+  },
+  {
+    svenska: 'ordning',
+    english: 'order',
   },
   {
     svenska: 'öga, ögon',
@@ -139,6 +235,10 @@ export default [
   {
     svenska: 'öra, öron',
     english: 'ear, ears',
+  },
+  {
+    svenska: 'öroninflammation',
+    english: 'otitis',
   },
   {
     svenska: 'orsakar',
@@ -157,16 +257,32 @@ export default [
     english: 'regardless',
   },
   {
-    svenska: 'övertygad, övertygat',
+    svenska: 'övertyga, övertygar,övertygad, övertygat',
     english: 'convince',
+  },
+  {
+    svenska: 'överraska',
+    english: 'surprise',
+  },
+  {
+    svenska: 'överraskning',
+    english: 'surprise',
   },
   {
     svenska: 'ouvertyren',
     english: 'overture',
   },
   {
-    svenska: 'överföra',
+    svenska: 'överfall, överfalla',
+    english: 'assault',
+  },
+  {
+    svenska: 'överföra, överförar',
     english: 'transfer',
+  },
+  {
+    svenska: 'oskyldiga',
+    english: 'innocent',
   },
   {
     svenska: 'osedvanligt',
@@ -181,7 +297,11 @@ export default [
     english: 'above',
   },
   {
-    svenska: 'odla',
+    svenska: 'oväder',
+    english: 'storm',
+  },
+  {
+    svenska: 'odla, odlar',
     english: 'grow',
   },
   {
@@ -195,5 +315,13 @@ export default [
   {
     svenska: 'översättare',
     english: 'translator',
+  },
+  {
+    svenska: 'överhuvudtaget',
+    english: 'at all',
+  },
+  {
+    svenska: 'överstiga',
+    english: 'exceed',
   },
 ];

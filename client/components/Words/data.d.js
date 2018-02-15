@@ -5,6 +5,10 @@ export default [
     example: 'nu är det dag för plural',
   },
   {
+    svenska: 'daghem',
+    english: 'nurseri',
+  },
+  {
     svenska: 'dagligen',
     english: 'daily',
   },
@@ -24,8 +28,8 @@ export default [
     example: '',
   },
   {
-    svenska: 'däremot',
-    english: 'however',
+    svenska: 'dåvarande',
+    english: 'then',
     example: '',
   },
   {
@@ -34,16 +38,32 @@ export default [
     example: '',
   },
   {
+    svenska: 'debitera',
+    english: 'charge',
+  },
+  {
     svenska: 'dess',
     english: 'its',
+  },
+  {
+    svenska: 'desinficera, desinficerar, desinficerade, desinficerat',
+    english: 'disinfect',
   },
   {
     svenska: 'dessa',
     english: 'these',
   },
   {
+    svenska: 'dessvärre',
+    english: 'unfortunately',
+  },
+  {
     svenska: 'dessutom',
-    english: 'also',
+    english: 'also, in addtion to',
+  },
+  {
+    svenska: 'destruerar',
+    english: 'destroy',
   },
   {
     svenska: 'despotens',
@@ -62,6 +82,14 @@ export default [
     english: 'participant',
   },
   {
+    svenska: 'delaktighet',
+    english: 'participation',
+  },
+  {
+    svenska: 'detalj',
+    english: 'detail',
+  },
+  {
     svenska: 'detta',
     english: 'this',
   },
@@ -76,6 +104,10 @@ export default [
   {
     svenska: 'depå, depåer',
     english: 'depot',
+  },
+  {
+    svenska: 'digga',
+    english: 'digg',
   },
   {
     svenska: 'dill',
@@ -94,12 +126,32 @@ export default [
     english: 'director',
   },
   {
+    svenska: 'dirigerar',
+    english: 'routes',
+  },
+  {
+    svenska: 'diskriminering',
+    english: 'discrimination',
+  },
+  {
+    svenska: 'diskrimineringsgrunderna',
+    english: 'bestowing',
+  },
+  {
+    svenska: 'disparat',
+    english: 'disparate',
+  },
+  {
     svenska: 'djup',
-    english: 'depth',
+    english: 'depth, deep',
   },
   {
     svenska: 'en docent',
     english: 'associate Professor',
+  },
+  {
+    svenska: 'dofta',
+    english: 'smell',
   },
   {
     svenska: 'dopar',
@@ -114,12 +166,44 @@ export default [
     english: 'drag',
   },
   {
+    svenska: 'drake',
+    english: 'dragon',
+  },
+  {
+    svenska: 'dreglar, dregla',
+    english: 'drool',
+  },
+  {
+    svenska: 'dragkedja',
+    english: 'zipper',
+  },
+  {
+    svenska: 'drog, droger',
+    english: 'drug',
+  },
+  {
+    svenska: 'droppa, droppar, droppade, droppat',
+    english: 'drip',
+  },
+  {
     svenska: 'drabbat, drabbats',
     english: 'affect',
   },
   {
     svenska: 'drift',
     english: 'operation',
+  },
+  {
+    svenska: 'dröjsmål',
+    english: 'delay',
+  },
+  {
+    svenska: 'drömmig',
+    english: 'dreamy',
+  },
+  {
+    svenska: 'drunkna',
+    english: 'drown',
   },
   {
     svenska: 'dock',
@@ -130,6 +214,10 @@ export default [
     english: 'expensive',
   },
   {
+    svenska: 'dyster',
+    english: 'gloomy',
+  },
+  {
     svenska: 'döma, dömas',
     english: 'judge',
   },
@@ -138,16 +226,28 @@ export default [
     english: 'hide',
   },
   {
+    svenska: 'döpa, döper',
+    english: 'renames',
+  },
+  {
     svenska: 'dödläge',
     english: 'deadlock',
   },
   {
     svenska: 'duscha',
-    english: 'take a shower',
+    english: 'take a shower, showering',
   },
   {
     svenska: 'dumpas',
     english: 'dumped',
+  },
+  {
+    svenska: 'dumt',
+    english: 'silly',
+  },
+  {
+    svenska: 'dunka',
+    english: 'pound',
   },
   {
     svenska: 'dukar, dukade',
@@ -156,5 +256,25 @@ export default [
   {
     svenska: 'dukar av',
     english: 'turn off',
+  },
+  {
+    svenska: 'dygn',
+    english: 'day, 24 hours',
+  },
+  {
+    svenska: 'dyka',
+    english: 'dive',
+  },
+  {
+    svenska: 'dyka upp',
+    english: 'appear, show up',
+  },
+  {
+    svenska: 'dyl',
+    english: 'etc',
+  },
+  {
+    svenska: 'dylikt, dylik',
+    english: 'such',
   },
 ];

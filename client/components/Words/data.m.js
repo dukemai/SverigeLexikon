@@ -4,8 +4,16 @@ export default [
     english: 'paint',
   },
   {
-    svenska: 'märklig',
-    english: 'remarkable',
+    svenska: 'måtto',
+    english: 'extent',
+  },
+  {
+    svenska: 'märka',
+    english: 'notice',
+  },
+  {
+    svenska: 'märklig, märkligt',
+    english: 'remarkable, odd',
   },
   {
     svenska: 'mardröm',
@@ -16,12 +24,28 @@ export default [
     english: 'mattress',
   },
   {
+    svenska: 'mall',
+    english: 'template',
+  },
+  {
     svenska: 'manlig, manliga',
     english: 'male',
   },
   {
+    svenska: 'manipulera',
+    english: 'maniuplate',
+  },
+  {
+    svenska: 'mänsklig',
+    english: 'human',
+  },
+  {
     svenska: 'människa',
     english: 'an invidual',
+  },
+  {
+    svenska: 'mängd',
+    english: 'amount',
   },
   {
     svenska: 'män',
@@ -32,6 +56,10 @@ export default [
     english: 'exhibition',
   },
   {
+    svenska: 'måhända',
+    english: 'perhaps',
+  },
+  {
     svenska: 'måntro, (= kanske)',
     english: 'perhap',
   },
@@ -40,8 +68,16 @@ export default [
     english: 'mats',
   },
   {
+    svenska: 'materiell',
+    english: 'material',
+  },
+  {
     svenska: 'matvanor',
     english: 'eating habit',
+  },
+  {
+    svenska: 'matte',
+    english: 'math',
   },
   {
     svenska: 'maträtter',
@@ -64,24 +100,68 @@ export default [
     english: 'stomach',
   },
   {
+    svenska: 'magkänsla',
+    english: 'gut feeling',
+  },
+  {
+    svenska: 'magsäck',
+    english: 'stomach',
+  },
+  {
     svenska: 'massivt',
     english: 'solid',
+  },
+  {
+    svenska: 'maskera',
+    english: 'mask, disguise',
   },
   {
     svenska: 'massor',
     english: 'a lot',
   },
   {
+    svenska: 'massör',
+    english: 'masseur',
+  },
+  {
+    svenska: 'mentalt',
+    english: 'mentally',
+  },
+  {
+    svenska: 'moget',
+    english: 'mature',
+  },
+  {
+    svenska: 'motion',
+    english: 'exercise',
+  },
+  {
     svenska: 'motionärer',
     english: 'exerciser',
+  },
+  {
+    svenska: 'motiverade',
+    english: 'throng',
   },
   {
     svenska: 'motiveringen',
     english: 'grounds',
   },
   {
-    svenska: 'motsvarande',
+    svenska: 'motsvara, motsvarande',
     english: 'corresponding',
+  },
+  {
+    svenska: 'motstånd',
+    english: 'resistance',
+  },
+  {
+    svenska: 'motverka',
+    english: 'resist',
+  },
+  {
+    svenska: 'motsvarighet',
+    english: 'equivalent',
   },
   {
     svenska: 'motsatt',
@@ -96,6 +176,10 @@ export default [
     english: 'feed',
   },
   {
+    svenska: 'medalj',
+    english: 'medal',
+  },
+  {
     svenska: 'medan',
     english: 'while',
   },
@@ -104,19 +188,64 @@ export default [
     english: 'coworker',
   },
   {
+    svenska: 'medarbetarenkät',
+    english: 'employee survey',
+  },
+  {
+    svenska: 'medföra',
+    english: 'entail, result',
+  },
+  {
+    svenska: 'medfört',
+    english: 'resulted',
+  },
+  {
+    svenska: 'medföljer, medföljde',
+    english: 'supplied',
+  },
+  {
+    svenska: 'meningslöst',
+    english: 'pointless, meaningless',
+  },
+  {
     svenska: 'medurs',
     english: 'clockwise',
+  },
+  {
+    svenska: 'Medel',
+    english: 'average',
+  },
+  {
+    svenska: 'Medelbar',
+    english: 'indirect',
   },
   {
     svenska: 'medborgare',
     english: 'national',
   },
   {
+    svenska: 'Mellanöstern',
+    english: 'The Middle East',
+  },
+  {
     svenska: 'medsökande',
     english: 'fellow applicant',
   },
   {
-    svenska: 'minnas',
+    svenska: 'medveten',
+    english: 'aware',
+    example: 'kvalitetsmedveten',
+  },
+  {
+    svenska: 'memorera',
+    english: 'memorize',
+  },
+  {
+    svenska: 'midja',
+    english: 'waist',
+  },
+  {
+    svenska: 'minnas, minns',
     english: 'remember',
   },
   {
@@ -132,6 +261,10 @@ export default [
     english: 'reduce',
   },
   {
+    svenska: 'minstingen',
+    english: 'at least no',
+  },
+  {
     svenska: 'migränattack',
     english: 'migraine, half-brain-headache',
   },
@@ -140,8 +273,16 @@ export default [
     english: 'middle',
   },
   {
-    svenska: 'mitt',
-    english: 'my',
+    svenska: 'mittemot',
+    english: 'opposite',
+  },
+  {
+    svenska: 'motsatt',
+    english: 'opposite',
+  },
+  {
+    svenska: 'mildra',
+    english: 'mitigate',
   },
   {
     svenska: 'mine',
@@ -156,6 +297,10 @@ export default [
     english: 'environment',
   },
   {
+    svenska: 'missköt',
+    english: 'mistreat',
+  },
+  {
     svenska: 'misshandlats',
     english: 'abused',
   },
@@ -164,7 +309,7 @@ export default [
     english: 'beaten',
   },
   {
-    svenska: 'Missförstå',
+    svenska: 'Missförstå, Missförstånd',
     english: 'misunderstand',
   },
   {
@@ -172,8 +317,12 @@ export default [
     english: 'dissatisfied',
   },
   {
-    svenska: 'misstänkt, misstänkta, misstänks',
+    svenska: 'misstänkt, misstänkta, misstänks, misstänker',
     english: 'suspects',
+  },
+  {
+    svenska: 'misstaget, misstag',
+    english: 'mistake',
   },
   {
     svenska: 'en miljard',
@@ -193,6 +342,14 @@ export default [
     english: 'possibly',
   },
   {
+    svenska: 'möblera, möblerar',
+    english: 'furnish',
+  },
+  {
+    svenska: 'moment',
+    english: 'torque',
+  },
+  {
     svenska: 'mord',
     english: 'murder',
   },
@@ -209,6 +366,18 @@ export default [
     english: 'bribe',
   },
   {
+    svenska: 'muntlig',
+    english: 'oral',
+  },
+  {
+    svenska: 'mungiga',
+    english: 'Jew\'s harp',
+  },
+  {
+    svenska: 'munskydd',
+    english: 'mouthguard',
+  },
+  {
     svenska: 'mörda',
     english: 'murder',
   },
@@ -217,19 +386,31 @@ export default [
     english: 'bullying',
   },
   {
-    svenska: 'moderaterna',
+    svenska: 'moderatera, moderaterna',
     english: 'moderate',
   },
   {
-    svenska: '  Modersmål',
+    svenska: 'modig',
+    english: 'brave',
+  },
+  {
+    svenska: 'moderering',
+    english: 'moderation',
+  },
+  {
+    svenska: 'Modersmål',
     english: 'mother tounge',
+  },
+  {
+    svenska: 'mottagning, mottagningen',
+    english: 'reception',
   },
   {
     svenska: 'en mun',
     english: 'mouth',
   },
   {
-    svenska: 'muskulös',
+    svenska: 'muskel, muskulös',
     english: 'muscle',
   },
   {
@@ -237,7 +418,7 @@ export default [
     english: 'cloudy',
   },
   {
-    svenska: 'mysig',
+    svenska: 'mysig, mysigt',
     english: 'cosy',
   },
   {

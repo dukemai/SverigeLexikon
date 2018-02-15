@@ -15,6 +15,16 @@ export default [
     example: '',
   },
   {
+    svenska: 'efteråt',
+    english: 'afterwards',
+    example: '',
+  },
+  {
+    svenska: 'efterlysa',
+    english: 'search for',
+    example: '',
+  },
+  {
     svenska: 'än så länge',
     english: 'so far',
     example: '',
@@ -22,6 +32,16 @@ export default [
   {
     svenska: 'en expedit',
     english: 'clerk',
+    example: '',
+  },
+  {
+    svenska: 'exponera',
+    english: 'expose',
+    example: '',
+  },
+  {
+    svenska: 'eld',
+    english: 'flame',
     example: '',
   },
   {
@@ -45,13 +65,23 @@ export default [
     example: '',
   },
   {
-    svenska: 'enbat',
+    svenska: 'enbart',
     english: 'solely',
     example: '',
   },
   {
     svenska: 'enighet',
     english: 'agreement, unanimous',
+    example: '',
+  },
+  {
+    svenska: 'engagemang',
+    english: 'engagement',
+    example: '',
+  },
+  {
+    svenska: 'enorma',
+    english: 'enormous',
     example: '',
   },
   {
@@ -75,14 +105,33 @@ export default [
     example: '',
   },
   {
+    svenska: 'enkäten',
+    english: 'survey',
+    example: '',
+  },
+  {
+    svenska: 'episkt',
+    english: 'epic',
+    example: '',
+  },
+  {
     svenska: 'enkel',
     english: 'simple',
+    example: '',
+  },
+  {
+    svenska: 'enhetlig',
+    english: 'uniform',
     example: '',
   },
   {
     svenska: 'enstaka',
     english: 'single',
     example: '',
+  },
+  {
+    svenska: 'entreprenörer',
+    english: 'entrepreneur',
   },
   {
     svenska: 'entablering',
@@ -95,8 +144,43 @@ export default [
     example: '',
   },
   {
-    svenska: 'erkänner',
-    english: 'recognize',
+    svenska: 'erkänner, erkänn',
+    english: 'confess, acknowledge',
+    example: '',
+  },
+  {
+    svenska: 'erfarenhet, erfarenheter',
+    english: 'experience',
+    example: '',
+  },
+  {
+    svenska: 'erfaren',
+    english: 'experienced',
+    example: '',
+  },
+  {
+    svenska: 'eskalera',
+    english: 'escalate',
+    example: '',
+  },
+  {
+    svenska: 'estetiskt',
+    english: 'esthetically',
+    example: '',
+  },
+  {
+    svenska: 'estetik',
+    english: 'aesthetics',
+    example: '',
+  },
+  {
+    svenska: 'etnicitet',
+    english: 'ethnicity',
+    example: '',
+  },
+  {
+    svenska: 'evig, eviga',
+    english: 'eternal',
     example: '',
   },
   {
