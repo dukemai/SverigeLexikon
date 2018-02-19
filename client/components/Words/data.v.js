@@ -126,8 +126,12 @@ export default [
     english: 'spring',
   },
   {
-    svenska: 'vårdar',
-    english: 'foster',
+    svenska: 'våras',
+    english: 'spring',
+  },
+  {
+    svenska: 'vårdnadshavare',
+    english: 'custodian',
   },
   {
     svenska: 'vårdnad',

@@ -20,6 +20,16 @@ export default [
     example: '',
   },
   {
+    svenska: 'efterfråga',
+    english: 'demand',
+    example: '',
+  },
+  {
+    svenska: 'efterfrågan',
+    english: 'demand',
+    example: '',
+  },
+  {
     svenska: 'efterlysa',
     english: 'search for',
     example: '',
@@ -191,6 +201,11 @@ export default [
   {
     svenska: 'extraknäcker',
     english: 'moonlights',
+    example: '',
+  },
+  {
+    svenska: 'exempelvis',
+    english: 'e.g',
     example: '',
   },
 ];

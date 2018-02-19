@@ -126,6 +126,10 @@ export default [
     english: 'responsibility',
   },
   {
+    svenska: 'anspråk',
+    english: 'claim',
+  },
+  {
     svenska: 'ansvarig',
     english: 'responsible',
   },
@@ -140,6 +144,10 @@ export default [
   {
     svenska: 'äkta',
     english: 'genuine',
+  },
+  {
+    svenska: 'ärlig',
+    english: 'honest',
   },
   {
     svenska: 'ärtor',

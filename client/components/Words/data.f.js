@@ -208,6 +208,14 @@ export default [
     english: 'detracting',
   },
   {
+    svenska: 'förutsätta',
+    english: 'presume, require',
+  },
+  {
+    svenska: 'förutsättning, förutsättningar',
+    english: 'condition',
+  },
+  {
     svenska: 'förbannad',
     english: 'very angry',
   },
@@ -446,6 +454,10 @@ export default [
   {
     svenska: 'foga, fogar, fogade sig i/efter',
     english: 'resign oneself to, comply',
+  },
+  {
+    svenska: 'fordran',
+    english: 'claim',
   },
   {
     svenska: 'fordon, fordonet',

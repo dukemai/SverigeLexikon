@@ -351,6 +351,10 @@ export default [
     english: 'entertained',
   },
   {
+    svenska: 'höll på',
+    english: 'was doing something',
+  },
+  {
     svenska: 'högskoleutbildad',
     english: 'highschool graduated',
   },
@@ -400,6 +404,10 @@ export default [
     english: 'hearing',
   },
   {
+    svenska: 'hör till',
+    english: 'belongs to',
+  },
+  {
     svenska: 'hörn',
     english: 'corner',
   },
@@ -410,6 +418,10 @@ export default [
   {
     svenska: 'hummer',
     english: 'lobster',
+  },
+  {
+    svenska: 'humoristisk',
+    english: 'humor',
   },
   {
     svenska: 'humör, humöret',

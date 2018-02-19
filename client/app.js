@@ -39,3 +39,11 @@ App.propTypes = propTypes;
 App.defaultProps = defaultProps;
 
 ReactDOM.render(<App />, document.getElementById('mainContent'));
+
+const fn = function (e) {
+  console.log(e);
+};
+const src = new EventSource("http://localhost:4004/event", /* { withCredentials: true } */);
+src.addEventListener("message", function (event) {
+  console.log(event);
+}, false);

@@ -415,6 +415,10 @@ export default [
     english: 'leave',
   },
   {
+    svenska: 'lucka, luckorna',
+    english: 'slot',
+  },
+  {
     svenska: 'lura, lurat',
     english: 'trick',
   },
@@ -447,6 +451,10 @@ export default [
     english: 'want, desire',
   },
   {
+    svenska: 'lustig',
+    english: 'funny',
+  },
+  {
     svenska: 'luft',
     english: 'air',
   },
@@ -472,7 +480,7 @@ export default [
   },
   {
     svenska: 'lyckas, lyckades',
-    english: 'managed',
+    english: 'managed, succeed',
   },
   {
     svenska: 'lyckad, lyckats',

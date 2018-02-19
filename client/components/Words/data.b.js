@@ -35,6 +35,11 @@ export default [
     example: '',
   },
   {
+    svenska: 'bärbara',
+    english: 'portable',
+    example: '',
+  },
+  {
     svenska: 'bärgning',
     english: 'towing, salvage',
     example: '',
@@ -109,7 +114,7 @@ export default [
   },
   {
     svenska: 'bära, bärande',
-    english: 'carry',
+    english: 'carry, wear',
     example: '',
   },
   {
@@ -395,7 +400,7 @@ export default [
   },
   {
     svenska: 'besvärlig',
-    english: 'difficult',
+    english: 'difficult, sticky',
     example: '',
   },
   {
@@ -436,6 +441,16 @@ export default [
   {
     svenska: 'begrepp',
     english: 'concept',
+    example: '',
+  },
+  {
+    svenska: 'begripa',
+    english: 'understand',
+    example: '',
+  },
+  {
+    svenska: 'begriplig',
+    english: 'comprehensible',
     example: '',
   },
   {
@@ -503,6 +518,11 @@ export default [
   {
     svenska: 'bestämt',
     english: 'Certainly',
+    example: '',
+  },
+  {
+    svenska: 'bestrida, bestred',
+    english: 'challenge',
     example: '',
   },
   {
@@ -598,6 +618,16 @@ export default [
   {
     svenska: 'börtom',
     english: 'bEYOND',
+    example: '',
+  },
+  {
+    svenska: 'böter',
+    english: 'fine',
+    example: '',
+  },
+  {
+    svenska: 'bötfälla, bötfällde',
+    english: 'fine',
     example: '',
   },
   {
@@ -747,6 +777,11 @@ export default [
   {
     svenska: 'blädderblock',
     english: 'flip block',
+    example: '',
+  },
+  {
+    svenska: 'bluff',
+    english: 'bluff',
     example: '',
   },
   {
@@ -967,6 +1002,11 @@ export default [
   {
     svenska: 'bryr sig om',
     english: 'care about',
+    example: '',
+  },
+  {
+    svenska: 'byn',
+    english: 'village',
     example: '',
   },
   {

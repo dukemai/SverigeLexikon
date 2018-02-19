@@ -32,6 +32,10 @@ export default [
     english: 'male',
   },
   {
+    svenska: 'manövrera',
+    english: 'operate',
+  },
+  {
     svenska: 'manipulera',
     english: 'maniuplate',
   },
@@ -78,6 +82,10 @@ export default [
   {
     svenska: 'matte',
     english: 'math',
+  },
+  {
+    svenska: 'matlust',
+    english: 'appetite',
   },
   {
     svenska: 'maträtter',
@@ -297,8 +305,8 @@ export default [
     english: 'environment',
   },
   {
-    svenska: 'missköt',
-    english: 'mistreat',
+    svenska: 'missköt, missköta, missköter',
+    english: 'mistreat, misbehave',
   },
   {
     svenska: 'misshandlats',

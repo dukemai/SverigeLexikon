@@ -36,6 +36,10 @@ export default [
     english: 'throw',
   },
   {
+    svenska: 'kassaskåp',
+    english: 'safe(store money, luxirous properties)',
+  },
+  {
     svenska: 'brevinkastet',
     english: 'mailbox',
   },
@@ -170,6 +174,10 @@ export default [
   {
     svenska: 'kontantinsats',
     english: 'cash payment',
+  },
+  {
+    svenska: 'kontrollant',
+    english: 'verifier',
   },
   {
     svenska: 'konstruera, konstruerade',
@@ -318,6 +326,10 @@ export default [
   {
     svenska: 'kring',
     english: 'about',
+  },
+  {
+    svenska: 'kriminella',
+    english: 'criminals',
   },
   {
     svenska: 'kristall, kristallen',
@@ -524,7 +536,7 @@ export default [
     english: 'artist',
   },
   {
-    svenska: 'konstnärliga',
+    svenska: 'konstnärlig, konstnärliga',
     english: 'artistic',
   },
   {
@@ -602,6 +614,14 @@ export default [
   {
     svenska: 'kviga',
     english: 'heifer',
+  },
+  {
+    svenska: 'kvitto',
+    english: 'receipt',
+  },
+  {
+    svenska: 'kvitt',
+    english: 'even, equal',
   },
   {
     svenska: 'kvinnliga',

@@ -137,6 +137,10 @@ export default [
     english: 'binder',
   },
   {
+    svenska: 'gemensam',
+    english: 'common',
+  },
+  {
     svenska: 'gemytliga',
     english: 'cozy',
   },

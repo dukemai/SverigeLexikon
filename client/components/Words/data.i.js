@@ -60,6 +60,10 @@ export default [
     english: 'intensive',
   },
   {
+    svenska: 'inhämta',
+    english: 'get',
+  },
+  {
     svenska: 'innebär, innebära',
     english: 'mean',
   },
@@ -84,8 +88,8 @@ export default [
     english: 'introduction',
   },
   {
-    svenska: 'inneha',
-    english: 'possess',
+    svenska: 'inneha, innehar',
+    english: 'possess, hold',
   },
   {
     svenska: 'inge',
@@ -227,5 +231,9 @@ export default [
   {
     svenska: 'integrera',
     english: 'integrate',
+  },
+  {
+    svenska: 'intyg, intyget',
+    english: 'certificate',
   },
 ];

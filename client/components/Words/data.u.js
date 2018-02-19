@@ -108,6 +108,10 @@ export default [
     english: 'satisfy, fill-up',
   },
   {
+    svenska: 'utifrån',
+    english: 'by',
+  },
+  {
     svenska: 'utmålas',
     english: 'portrayed',
   },

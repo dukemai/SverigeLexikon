@@ -13,6 +13,10 @@ export default [
     english: 'daily',
   },
   {
+    svenska: 'dalta',
+    english: 'pet',
+  },
+  {
     svenska: 'därigenom',
     english: 'thereby',
     example: '',
@@ -122,6 +126,10 @@ export default [
     english: 'fog',
   },
   {
+    svenska: 'dimpa, damp',
+    english: 'tumble',
+  },
+  {
     svenska: 'en direktör, direktörer, direktören',
     english: 'director',
   },
@@ -194,6 +202,10 @@ export default [
     english: 'operation',
   },
   {
+    svenska: 'dröjer',
+    english: 'delay',
+  },
+  {
     svenska: 'dröjsmål',
     english: 'delay',
   },
@@ -236,6 +248,10 @@ export default [
   {
     svenska: 'duscha',
     english: 'take a shower, showering',
+  },
+  {
+    svenska: 'duger, duga',
+    english: 'be good enough',
   },
   {
     svenska: 'dumpas',

@@ -24,6 +24,10 @@ export default [
     english: 'closest',
   },
   {
+    svenska: 'Närvarotid',
+    english: 'presence',
+  },
+  {
     svenska: 'närmaste',
     english: 'coming',
   },

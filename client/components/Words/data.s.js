@@ -361,7 +361,7 @@ export default [
   },
   {
     svenska: 'skaffa',
-    english: 'get',
+    english: 'get, gain',
   },
   {
     svenska: 'skafferi',
@@ -372,7 +372,7 @@ export default [
     english: 'shift',
   },
   {
-    svenska: 'skojiga',
+    svenska: 'skoj, skojiga',
     english: 'fun',
   },
   {
@@ -428,8 +428,8 @@ export default [
     english: 'belt',
   },
   {
-    svenska: 'skärpta',
-    english: 'stricter',
+    svenska: 'skärpt, skärpta',
+    english: 'stricter, sharp',
   },
   {
     svenska: 'skärgård',
@@ -464,6 +464,10 @@ export default [
     english: 'throw, discard',
   },
   {
+    svenska: 'släkt',
+    english: 'related, family',
+  },
+  {
     svenska: 'släkting, släktingar',
     english: 'relatives',
   },
@@ -474,6 +478,10 @@ export default [
   {
     svenska: 'slutigen',
     english: 'throw',
+  },
+  {
+    svenska: 'slutbehandla, utagerad',
+    english: 'finallized',
   },
   {
     svenska: 'slump',
@@ -538,6 +546,10 @@ export default [
   {
     svenska: 'snurra',
     english: 'spin',
+  },
+  {
+    svenska: 'snuten',
+    english: 'cop',
   },
   {
     svenska: 'snyter sig',
@@ -827,7 +839,7 @@ export default [
     english: 'ascend, increased',
   },
   {
-    svenska: 'stimulera',
+    svenska: 'stimulera, stimulerande',
     english: 'stimulate',
   },
   {
@@ -1124,7 +1136,7 @@ export default [
   },
   {
     svenska: 'slå, slår, slog',
-    english: 'beat, catch',
+    english: 'beat, catch, hit',
   },
   {
     svenska: 'slås',
@@ -1143,7 +1155,7 @@ export default [
     english: 'avoid',
   },
   {
-    svenska: 'spår, spåra',
+    svenska: 'spår, spåra, spårade',
     english: 'track',
   },
   {
@@ -1239,6 +1251,10 @@ export default [
     english: 'tail',
   },
   {
+    svenska: 'stjäla, stulit',
+    english: 'steal',
+  },
+  {
     svenska: 'stavmixer',
     english: 'stick blender',
   },
@@ -1276,7 +1292,7 @@ export default [
   },
   {
     svenska: 'straff',
-    english: 'penalty',
+    english: 'penalty, punishment',
   },
   {
     svenska: 'strappor',
@@ -1443,6 +1459,11 @@ export default [
   {
     svenska: 'svagt',
     english: 'low',
+    example: '',
+  },
+  {
+    svenska: 'svaja',
+    english: 'sway',
     example: '',
   },
   {
